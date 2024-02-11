@@ -6,7 +6,7 @@
 * [🗺 RCS Roadmap](info/rcs-roadmap.md)
 * [🏛 RCS Classroom](info/rcs-classroom.md)
 * [👩🌾 RCS Forum](info/rcs-forum.md)
-* [🌟 RCS Mentors](info/rcs-mentors.md)
+* [🌟 RCS Mentor 計畫](info/rcs-mentor-ji-hua.md)
 * [🙋 如何參與學習？](info/ru-he-can-yu-xue-xi.md)
 
 ## ⚒ RCS.101 DSA I
