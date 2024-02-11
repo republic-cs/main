@@ -2,7 +2,7 @@
 
 ## INFO
 
-* [❔ What is RePublic of CS？](README.md)
+* [❔ What is 𝚁𝚎𝙿𝚞𝚋𝚕𝚒𝚌 𝚘𝚏 𝙲𝚂？](README.md)
 * [🗺 RCS Roadmap](info/rcs-roadmap.md)
 * [🏛 RCS Classroom](info/rcs-classroom.md)
 * [👩🌾 RCS Forum](info/rcs-forum.md)
