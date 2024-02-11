@@ -17,13 +17,13 @@ layout:
     visible: true
 ---
 
-# rcs.101.a
+# 101.a
 
 {% tabs %}
 {% tab title="Map of Contents" %}
 <figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
-Estimate Completion: 40 \~ 50 hours
+Estimate Completion: 30 \~ 45 hours
 {% endtab %}
 
 {% tab title="Basic DFS" %}
