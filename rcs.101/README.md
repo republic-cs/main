@@ -1,13 +1,18 @@
 ---
+cover: .gitbook/assets/image (5).png
+coverY: 0
 layout:
-  title:
+  cover:
     visible: false
+    size: hero
+  title:
+    visible: true
   description:
     visible: false
   tableOfContents:
     visible: true
   outline:
-    visible: true
+    visible: false
   pagination:
     visible: true
 ---
