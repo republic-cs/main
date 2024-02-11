@@ -1,10 +1,32 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: false
+  outline:
+    visible: false
+  pagination:
+    visible: true
+---
+
 # rcs.101.a
 
+{% tabs %}
+{% tab title="Map of Contents" %}
 <figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
 
-<details>
+{% tab title="rcs.101.a - Basic DFS (WIP)" %}
+{% embed url="https://www.youtube.com/watch?v=NpEaa2P7qZI" %}
+{% endtab %}
+{% endtabs %}
 
-<summary>Basic DFS</summary>
+***
+
+## Basic DFS
 
 * Prerequisite
   * None
@@ -22,5 +44,7 @@
   * [ ] **M** [**230. Kth Smallest Element in a BST**](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
   * [ ] **M** [**105. Construct Binary Tree from Preorder and Inorder Traversal**](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
 
-</details>
+***
+
+
 
