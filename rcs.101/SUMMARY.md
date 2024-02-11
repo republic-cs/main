@@ -1,11 +1,20 @@
 # Table of contents
 
-## ⚒ RCS.101 DSA BASICS
+## INFO
 
-* [101.a](README.md)
-* [101.b](rcs.101-dsa-basics/101.b.md)
-* [101.c](rcs.101-dsa-basics/101.c.md)
-* [101.d](rcs.101-dsa-basics/101.d.md)
+* [❔ RePublic of CS 是什麼？](README.md)
+* [🗺 RCS Roadmap](info/rcs-roadmap.md)
+* [🏛 RCS Classroom](info/rcs-classroom.md)
+* [👩🌾 RCS Forum](info/rcs-forum.md)
+* [🌟 RCS Mentors](info/rcs-mentors.md)
+* [🙋 如何參與一門課程？](info/ru-he-can-yu-yi-men-ke-cheng.md)
+
+## ⚒ RCS.101 DSA I
+
+* [101.a](rcs.101-dsa-i/101.a.md)
+* [101.b](rcs.101-dsa-i/101.b.md)
+* [101.c](rcs.101-dsa-i/101.c.md)
+* [101.d](rcs.101-dsa-i/101.d.md)
 
 ## 📚 RCS.102 DSA II
 
@@ -33,13 +42,3 @@
 * [Twitch](https://www.twitch.tv/republicofcs)
 * [Discord Forum](https://discord.com/invite/cvbU8PYAYx)
 * [Become an Editor](https://app.gitbook.com/invite/lNrv9z1RRuVQwyKgfzwo/aMGUSOlBPuMXdDdg7TuZ)
-
-## ℹ INFO
-
-* [Untitled](info/untitled.md)
-* [❔ RePublic of CS 是什麼？](info/republic-of-cs-shi-shi-mo.md)
-* [如何參與一門課程？](info/ru-he-can-yu-yi-men-ke-cheng.md)
-* [🗺 RCS Roadmap](info/rcs-roadmap.md)
-* [🏛 RCS Classroom](info/rcs-classroom.md)
-* [👩🌾 RCS Forum](info/rcs-forum.md)
-* [🌟 RCS Mentors](info/rcs-mentors.md)
