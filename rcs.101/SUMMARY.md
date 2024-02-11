@@ -1,20 +1,20 @@
 # Table of contents
 
+## ⚒ RCS.101 DSA I
+
+* [101.a](README.md)
+* [101.b](rcs.101-dsa-i/101.b.md)
+* [101.c](rcs.101-dsa-i/101.c.md)
+* [101.d](rcs.101-dsa-i/101.d.md)
+
 ## INFO
 
-* [❔ RePublic of CS 是什麼？](README.md)
+* [❔ RePublic of CS 是什麼？](<README (1).md>)
 * [🗺 RCS Roadmap](info/rcs-roadmap.md)
 * [🏛 RCS Classroom](info/rcs-classroom.md)
 * [👩🌾 RCS Forum](info/rcs-forum.md)
 * [🌟 RCS Mentor 計畫](info/rcs-mentor-ji-hua.md)
 * [🙋 如何參與學習？](info/ru-he-can-yu-xue-xi.md)
-
-## ⚒ RCS.101 DSA I
-
-* [101.a](rcs.101-dsa-i/101.a.md)
-* [101.b](rcs.101-dsa-i/101.b.md)
-* [101.c](rcs.101-dsa-i/101.c.md)
-* [101.d](rcs.101-dsa-i/101.d.md)
 
 ## 📚 RCS.102 DSA II
 
