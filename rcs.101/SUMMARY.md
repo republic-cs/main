@@ -7,7 +7,7 @@
 * [🏛 RCS Classroom](info/rcs-classroom.md)
 * [👩🌾 RCS Forum](info/rcs-forum.md)
 * [🌟 RCS Mentors](info/rcs-mentors.md)
-* [🙋 如何參與一門課程？](info/ru-he-can-yu-yi-men-ke-cheng.md)
+* [🙋 如何參與學習？](info/ru-he-can-yu-xue-xi.md)
 
 ## ⚒ RCS.101 DSA I
 
