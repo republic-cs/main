@@ -24,7 +24,7 @@ layout:
 <figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
-{% tab title="rcs.101.a - Basic DFS (WIP)" %}
+{% tab title="Classroom - Basic DFS (WIP)" %}
 {% embed url="https://www.youtube.com/watch?v=NpEaa2P7qZI" %}
 {% endtab %}
 {% endtabs %}
