@@ -33,3 +33,13 @@
 * [Twitch](https://www.twitch.tv/republicofcs)
 * [Discord Forum](https://discord.com/invite/cvbU8PYAYx)
 * [Become an Editor](https://app.gitbook.com/invite/lNrv9z1RRuVQwyKgfzwo/aMGUSOlBPuMXdDdg7TuZ)
+
+## ℹ INFO
+
+* [Untitled](info/untitled.md)
+* [❔ RePublic of CS 是什麼？](info/republic-of-cs-shi-shi-mo.md)
+* [如何參與一門課程？](info/ru-he-can-yu-yi-men-ke-cheng.md)
+* [🗺 RCS Roadmap](info/rcs-roadmap.md)
+* [🏛 RCS Classroom](info/rcs-classroom.md)
+* [👩🌾 RCS Forum](info/rcs-forum.md)
+* [🌟 RCS Mentors](info/rcs-mentors.md)
