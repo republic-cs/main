@@ -17,7 +17,7 @@ layout:
     visible: true
 ---
 
-# 101.b
+# RCS.101.b
 
 {% tabs %}
 {% tab title="Map of Contents" %}
@@ -28,18 +28,26 @@ Estimate Completion: 30 \~ 45 hours
 
 {% tab title="Linked List" %}
 {% embed url="https://www.youtube.com/watch?v=NpEaa2P7qZI" %}
+
+Expect On-air: April 2024
 {% endtab %}
 
 {% tab title="Hash Map" %}
+{% embed url="https://www.youtube.com/watch?v=NpEaa2P7qZI" %}
 
+Expect On-air: April 2024
 {% endtab %}
 
 {% tab title="Basic Recursion" %}
 {% embed url="https://youtu.be/NpEaa2P7qZI" %}
+
+Expect On-air: April 2024
 {% endtab %}
 
 {% tab title="Sorting & Searching" %}
 {% embed url="https://youtu.be/NpEaa2P7qZI" %}
+
+Expect On-air: April 2024
 {% endtab %}
 {% endtabs %}
 
@@ -84,7 +92,7 @@ Estimate Completion: 30 \~ 45 hours
 ## Basic Recursion
 
 * Prerequisite
-  * [README (1).md](<../README (1).md> "mention")
+  * [rcs.101.a.md](rcs.101.a.md "mention")
 * Estimate Completion
   * 8 \~ 12 hours
 * Learning Material

@@ -1,5 +1,5 @@
 ---
-cover: .gitbook/assets/image (5) (1).png
+cover: ../.gitbook/assets/image (5) (1).png
 coverY: 0
 layout:
   cover:
@@ -17,33 +17,43 @@ layout:
     visible: true
 ---
 
-# 101.a
+# RCS.101.a
 
 {% tabs %}
 {% tab title="Map of Contents" %}
-<figure><img src=".gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 Estimate Completion: 30 \~ 45 hours
 {% endtab %}
 
 {% tab title="Basic DFS" %}
 {% embed url="https://www.youtube.com/watch?v=NpEaa2P7qZI" %}
+
+Expect On-air: March 2024
 {% endtab %}
 
 {% tab title="Basic BFS" %}
 {% embed url="https://youtu.be/NpEaa2P7qZI" %}
+
+Expect On-air: March 2024
 {% endtab %}
 
 {% tab title="Basic Stack" %}
 {% embed url="https://youtu.be/NpEaa2P7qZI" %}
+
+Expect On-air: March 2024
 {% endtab %}
 
 {% tab title="Queue" %}
 {% embed url="https://youtu.be/NpEaa2P7qZI" %}
+
+Expect On-air: March 2024
 {% endtab %}
 
 {% tab title="Binary Search" %}
 {% embed url="https://youtu.be/NpEaa2P7qZI" %}
+
+Expect On-air: March 2024
 {% endtab %}
 {% endtabs %}
 
