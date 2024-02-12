@@ -16,7 +16,7 @@
 * [101.b](rcs.101-dsa-i/101.b.md)
 * [101.c](rcs.101-dsa-i/101.c.md)
 * [101.d](rcs.101-dsa-i/101.d.md)
-* [Graduation](rcs.101-dsa-i/graduation.md)
+* [¶](rcs.101-dsa-i/undefined.md)
 
 ## 📚 RCS.102 DSA II
 

@@ -1,7 +1,7 @@
 ---
 layout:
   title:
-    visible: true
+    visible: false
   description:
     visible: false
   tableOfContents:
@@ -12,7 +12,9 @@ layout:
     visible: false
 ---
 
-# Graduation
+# ¶
+
+## Graduation
 
 {% hint style="success" %}
 ## 完成 RCS.101 後

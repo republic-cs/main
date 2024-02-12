@@ -1,7 +1,7 @@
 ---
 layout:
   title:
-    visible: true
+    visible: false
   description:
     visible: false
   tableOfContents:
@@ -13,6 +13,8 @@ layout:
 ---
 
 # 👉 Enrolment
+
+## 參與 RCS.101
 
 {% hint style="warning" %}
 ## Prerequisites
