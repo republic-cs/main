@@ -12,7 +12,7 @@ layout:
     visible: true
 ---
 
-# 👉 Enrolment
+# §&#x20;
 
 ## 參與 RCS.101
 

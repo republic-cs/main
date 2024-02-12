@@ -11,12 +11,12 @@
 
 ## ⚒ RCS.101 DSA I
 
-* [👉 Enrolment](rcs.101-dsa-i/enrolment.md)
+* [§ ](rcs.101-dsa-i/enrolment.md)
 * [101.a](<README (1).md>)
 * [101.b](rcs.101-dsa-i/101.b.md)
 * [101.c](rcs.101-dsa-i/101.c.md)
 * [101.d](rcs.101-dsa-i/101.d.md)
-* [¶](rcs.101-dsa-i/undefined.md)
+* [¶](rcs.101-dsa-i/graduation.md)
 
 ## 📚 RCS.102 DSA II
 
