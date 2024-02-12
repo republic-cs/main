@@ -1,10 +1,10 @@
 ---
-cover: ../.gitbook/assets/image (5) (1).png
+cover: ../.gitbook/assets/Group 9.png
 coverY: 0
 layout:
   cover:
-    visible: false
-    size: hero
+    visible: true
+    size: full
   title:
     visible: true
   description:

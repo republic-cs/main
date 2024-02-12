@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/Group 7.png
+cover: ../.gitbook/assets/Group 9.png
 coverY: 0
 layout:
   cover:
