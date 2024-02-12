@@ -12,10 +12,10 @@ layout:
     visible: false
 ---
 
-# 🎓 Graduation
+# Graduation
 
 {% hint style="success" %}
-## 完成 RCS.101 後，你將擁有以下能力
+## 完成 RCS.101 後
 
 * [ ] 所有 rcs.101 主題的 easy problem 全部都有能力白板解出來
 * [ ] 所有 rcs.101 主題的 medium 題目，都能至少破題，辨認出自己還缺哪項 DSA 知識，並自主練習進步

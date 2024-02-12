@@ -2,7 +2,7 @@
 
 ## INFO
 
-* [❔ What is 𝗥𝗲𝗣𝘂𝗯𝗹𝗶𝗰 𝗼𝗳 𝗖𝗦？](README.md)
+* [What is 𝗥𝗲𝗣𝘂𝗯𝗹𝗶𝗰 𝗼𝗳 𝗖𝗦？](README.md)
 * [🗺 RCS Roadmap](info/rcs-roadmap.md)
 * [🏛 RCS Classroom](info/rcs-classroom.md)
 * [👩🌾 RCS Forum](info/rcs-forum.md)
@@ -16,7 +16,7 @@
 * [101.b](rcs.101-dsa-i/101.b.md)
 * [101.c](rcs.101-dsa-i/101.c.md)
 * [101.d](rcs.101-dsa-i/101.d.md)
-* [🎓 Graduation](rcs.101-dsa-i/graduation.md)
+* [Graduation](rcs.101-dsa-i/graduation.md)
 
 ## 📚 RCS.102 DSA II
 
