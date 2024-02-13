@@ -73,11 +73,11 @@ RCS（全名：RePublic of Computer Science）；中文可稱 「 **CS 共和國
 
 * 公開經營此 RCS 社群與 Roadmap，並透過一季的 Classroom 直播來完善 [Broken link](broken-reference "mention")這項知識藍圖。
 
-#### 2024 Q3 \~ Q4
+#### 一年（2024 Q3 \~ Q4）
 
 * 接續筆者的興趣，以讀書會形式學習 Rust/System Design/計算機組織的同時，將他們編排成 [Broken link](broken-reference "mention"), [Broken link](broken-reference "mention") 與 [Broken link](broken-reference "mention")
 
-#### 中長期
+#### 未來（中長期）
 
 * 作為一個業餘社群，在秉持 「 知識不該被 paywall 」 的理念下，透過編排 roadmap & 主持讀書會，來培養一群思考、學習都有系統性。也有能力教授知識的 mentor
 * 成為一個學習型組織與知識經濟的孵化器。讓有興趣想開工作坊、教學的人，都能以公開的方式驗證自己的學習模型
