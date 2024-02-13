@@ -42,7 +42,7 @@ layout:
 
 1. **預期參與者已經掌握基礎的 DSA 理論知識**，如時間複雜度、空間複雜度；此 roadmap 比起演算法課程，更像是一群由淺入深的 lab。
 2. **作為 System Programming\* 相關主題的入門**，此 roadmap 的主題的編排次序並不是依照難度，而是他在系統開發上的相對重要性。
-3. 許多在解題、證明、問題分析上經典的知識，如 **Dynamic Programming、Divide and Conquer、2 Pointers**，是此 roadmap 不會涵蓋的。而預期未來將它收錄在 [Broken link](broken-reference "mention")的 roadmap 上。
+3. 許多在解題、證明、問題分析上經典的知識，如 **Dynamic Programming、Divide and Conquer、2 Pointers**，是此 roadmap 不會涵蓋的。而預期未來將它收錄在 [Broken link](broken-reference "mention") 上。
 {% endhint %}
 
 > System Programming\*：
