@@ -57,6 +57,41 @@ Expect On-air: March 2024
 {% endtab %}
 {% endtabs %}
 
+## Basic Stack
+
+* Prerequisite
+  * None
+* Estimate Completion
+  * 8 \~ 12 hours
+* Learning Material
+  * [**Comp Sci in 5: Stacks**](https://www.youtube.com/watch?v=\_7Z07tI-xrA)
+  * [**LC Explore: Queue & Stack**](https://leetcode.com/explore/learn/card/queue-stack/)
+* Practices
+  * [ ] **E** [**495 · Implement Stack**](https://www.lintcode.com/problem/495)
+  * [ ] **E** [**423 · Valid Parentheses**](https://www.lintcode.com/problem/423/) **or** [**20. Valid Parentheses**](https://leetcode.com/problems/valid-parentheses/) (note: description of LC is imperfect, should tell `[(]): false`)
+  * [ ] **M** [**1001 · Asteroid Collision**](https://www.lintcode.com/problem/1001/description)
+* Graduation Challenge
+  * [ ] **M** [**268 · Parentheses Score**](https://www.lintcode.com/problem/268/)
+
+***
+
+## Queue
+
+* Prerequisite
+  * None
+* Estimate Completion
+  * 8 \~ 12 hours
+* Learning Material
+  * [**Comp Sci in 5: Queues**](https://www.youtube.com/watch?v=-1oFihNj6Vw)
+  * [**LC Explore: Queue & Stack**](https://leetcode.com/explore/learn/card/queue-stack/)
+* Practices
+  * [ ] **E** [**49**](https://www.lintcode.com/problem/3493/?\_from=problem\_tag\&fromId=359)[**2 · Implement Queue by Linked List**](https://www.lintcode.com/problem/492)
+  * [ ] **E** [**642 · Moving Average from Data Stream**](https://www.lintcode.com/problem/642/)
+* Graduation Challenge
+  * [ ] **M** [**2902 · Seating in order on the bus**](https://www.lintcode.com/problem/2902/)
+
+***
+
 ## Basic DFS
 
 * Prerequisite
@@ -90,41 +125,6 @@ Expect On-air: March 2024
 * Graduation Challenge
   * [ ] **M** [**1302. Deepest Leaves Sum**](https://leetcode.com/problems/deepest-leaves-sum/)
   * [ ] **M** [**103. Binary Tree Zigzag Level Order Traversal**](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
-
-***
-
-## Basic Stack
-
-* Prerequisite
-  * None
-* Estimate Completion
-  * 8 \~ 12 hours
-* Learning Material
-  * [**Comp Sci in 5: Stacks**](https://www.youtube.com/watch?v=\_7Z07tI-xrA)
-  * [**LC Explore: Queue & Stack**](https://leetcode.com/explore/learn/card/queue-stack/)
-* Practices
-  * [ ] **E** [**495 · Implement Stack**](https://www.lintcode.com/problem/495)
-  * [ ] **E** [**423 · Valid Parentheses**](https://www.lintcode.com/problem/423/) **or** [**20. Valid Parentheses**](https://leetcode.com/problems/valid-parentheses/) (note: description of LC is imperfect, should tell `[(]): false`)
-  * [ ] **M** [**1001 · Asteroid Collision**](https://www.lintcode.com/problem/1001/description)
-* Graduation Challenge
-  * [ ] **M** [**268 · Parentheses Score**](https://www.lintcode.com/problem/268/)
-
-***
-
-## Queue
-
-* Prerequisite
-  * None
-* Estimate Completion
-  * 8 \~ 12 hours
-* Learning Material
-  * [**Comp Sci in 5: Queues**](https://www.youtube.com/watch?v=-1oFihNj6Vw)
-  * [**LC Explore: Queue & Stack**](https://leetcode.com/explore/learn/card/queue-stack/)
-* Practices
-  * [ ] **E** [**49**](https://www.lintcode.com/problem/3493/?\_from=problem\_tag\&fromId=359)[**2 · Implement Queue by Linked List**](https://www.lintcode.com/problem/492)
-  * [ ] **E** [**642 · Moving Average from Data Stream**](https://www.lintcode.com/problem/642/)
-* Graduation Challenge
-  * [ ] **M** [**2902 · Seating in order on the bus**](https://www.lintcode.com/problem/2902/)
 
 ***
 

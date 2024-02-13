@@ -9,18 +9,18 @@
 * [🌟 RCS Mentor 計畫](info/rcs-mentor-ji-hua.md)
 * [🙋 如何參與學習？](info/ru-he-can-yu-xue-xi.md)
 
-## ⚒ RCS.101 DSA I
+## ⚒ RCS.101 - DSA In Action
 
-* [§ ](rcs.101-dsa-i/enrolment.md)
-* [RCS.101.a](rcs.101-dsa-i/rcs.101.a.md)
-* [RCS.101.b](rcs.101-dsa-i/rcs.101.b.md)
-* [RCS.101.c](rcs.101-dsa-i/rcs.101.c.md)
-* [RCS.101.d](rcs.101-dsa-i/rcs.101.d.md)
-* [¶](rcs.101-dsa-i/graduation.md)
+* [§ ](rcs.101-dsa-in-action/enrolment.md)
+* [RCS.101.a](rcs.101-dsa-in-action/rcs.101.a.md)
+* [RCS.101.b](rcs.101-dsa-in-action/rcs.101.b.md)
+* [RCS.101.c](rcs.101-dsa-in-action/rcs.101.c.md)
+* [RCS.101.d](rcs.101-dsa-in-action/rcs.101.d.md)
+* [¶](rcs.101-dsa-in-action/graduation.md)
 
-## 📚 RCS.102 DSA II
+## 📚 RCS.102 DSA Design & Analysis
 
-* [(WIP)](rcs.102-dsa-ii/wip.md)
+* [(WIP)](rcs.102-dsa-design-and-analysis/wip.md)
 
 ## 🧵 RCS.103 CONCURRENT PROGRAMMING
 
