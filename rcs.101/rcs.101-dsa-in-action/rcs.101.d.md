@@ -61,7 +61,7 @@ Expect On-air: June 2024
   * [ ] **M** [**40 · Implement Queue by Two Stacks**](https://www.lintcode.com/problem/40/)
 * Graduation Challenge
   * [ ] **M** [**227. Basic Calculator II**](https://leetcode.com/problems/basic-calculator-ii/)
-  * [ ] **M** [**271 · pre**](https://www.lintcode.com/problem/271/?showListFe=true\&page=1\&problemTypeId=2\&tagIds=361\&level=2\&ordering=id\&pageSize=50)[**fix notation t**](https://www.lintcode.com/problem/40/?showListFe=true\&page=1\&problemTypeId=2\&tagIds=361\&level=2\&ordering=id\&pageSize=50)[**o postfix notation**](https://www.lintcode.com/problem/271/?showListFe=true\&page=1\&problemTypeId=2\&tagIds=361\&level=2\&ordering=id\&pageSize=50)
+  * [ ] **M** [**271 · prefix notation to postfix notation**](https://www.lintcode.com/problem/271/?showListFe=true\&page=1\&problemTypeId=2\&tagIds=361\&level=2\&ordering=id\&pageSize=50)
   * [ ] **M**[ **276 · another zuma**](https://www.lintcode.com/problem/276/?showListFe=true\&page=1\&problemTypeId=2\&tagIds=361\&level=2\&ordering=id\&pageSize=50)
 
 ***

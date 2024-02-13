@@ -85,7 +85,7 @@ Expect On-air: March 2024
   * [**Comp Sci in 5: Queues**](https://www.youtube.com/watch?v=-1oFihNj6Vw)
   * [**LC Explore: Queue & Stack**](https://leetcode.com/explore/learn/card/queue-stack/)
 * Practices
-  * [ ] **E** [**49**](https://www.lintcode.com/problem/3493/?\_from=problem\_tag\&fromId=359)[**2 · Implement Queue by Linked List**](https://www.lintcode.com/problem/492)
+  * [ ] **E** [**492 · Implement Queue by Linked List**](https://www.lintcode.com/problem/492)
   * [ ] **E** [**642 · Moving Average from Data Stream**](https://www.lintcode.com/problem/642/)
 * Graduation Challenge
   * [ ] **M** [**2902 · Seating in order on the bus**](https://www.lintcode.com/problem/2902/)

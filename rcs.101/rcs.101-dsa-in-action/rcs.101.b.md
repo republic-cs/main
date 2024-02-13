@@ -123,8 +123,8 @@ Expect On-air: April 2024
     * [ ] [**DNF Algorithm**](https://www.youtube.com/watch?v=9pdkbqGwUhs)
     * [ ] **M** [**75. Sort Colors**](https://leetcode.com/problems/sort-colors/)
   * **Coursera: Algorithms I: System Sort**
-    * [ ] **M** [**912.**](https://leetcode.com/problems/sort-an-array/)[ **Sor**](https://www.lintcode.com/problem/464/description)[**t an Array**](https://leetcode.com/problems/sort-an-array/) with Merge Sort
-    * [ ] **E** [**479 · Second Max of Array**](https://www.lintcode.com/problem/479/?\_from=problem\_tag\&fromId=383) [**Implement**](https://leetcode.com/problems/sort-an-array/description/) with Quick Sort
+    * [ ] **M** [**912. Sort an Array**](https://leetcode.com/problems/sort-an-array/) with Merge Sort
+    * [ ] **E** [**479 · Second Max of Array**](https://www.lintcode.com/problem/479/?\_from=problem\_tag\&fromId=383) with Quick Sort
     * [ ] **E** [**464 · Sort Integers II**](https://www.lintcode.com/problem/464/description) with Heap Sort
   * [**Knuth (Fisher-Yates) Shuffle**](https://www.youtube.com/watch?v=tLxBwSL3lPQ)
     * [ ] **M** [**384. Shuffle an Array**](https://leetcode.com/problems/shuffle-an-array/)
