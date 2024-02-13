@@ -30,4 +30,8 @@ layout:
 
 但更精確來說，RCS Roadmap 究竟是什麼呢？
 
-<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<div align="center" data-full-width="false">
+
+<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+
+</div>
