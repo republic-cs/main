@@ -19,3 +19,4 @@ layout:
 
 # 🏛 RCS Classroom
 
+<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption><p>大家都在賣課</p></figcaption></figure>
