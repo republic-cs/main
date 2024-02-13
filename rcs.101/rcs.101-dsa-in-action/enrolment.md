@@ -68,7 +68,8 @@ layout:
 
 
 
-由於 **RCS.101 - DSA In Action** 和 lab 的同質性，我們期待參與者：
+由於 **RCS.101 - DSA In Action** 和 lab 的同質性，我們期待參與者：\
+
 
 * 在寫 「練習題」 時，請極力避免直接去看 LeetCode solution，因為最終目標是想將實作內化，而看解答很高機率會阻礙學習。
 * 務必實作完所有的 「Graduation Challenge」 才視為自己完成了該主題。
