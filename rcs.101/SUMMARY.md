@@ -18,9 +18,9 @@
 * [RCS.101.d](rcs.101-dsa-in-action/rcs.101.d.md)
 * [¶](rcs.101-dsa-in-action/graduation.md)
 
-## 📚 RCS.102 DSA Design & Analysis
+## 📚 RCS.102 - Algorithm Design & Analysis
 
-* [(WIP)](rcs.102-dsa-design-and-analysis/wip.md)
+* [(WIP)](rcs.102-algorithm-design-and-analysis/wip.md)
 
 ## 🧵 RCS.103 CONCURRENT PROGRAMMING
 
