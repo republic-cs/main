@@ -67,7 +67,7 @@ RCS（全名：RePublic of Computer Science）；中文可稱 「 **CS 共和國
 2. 已經有一定工作經驗，但自認學習效率、系統性上都想增進的 Sr.
 3. 熱愛鑽研各種學習方法，嚮往 Learning in Public 的 CS 愛好者
 
-## 結語：RCS 當下(2024 Q1), 1y, 中長期的規劃
+## 結語：RCS 的展望
 
 #### 當下（2024 Q1 \~ Q2）
 
