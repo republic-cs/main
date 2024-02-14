@@ -22,9 +22,9 @@
 
 * [(WIP)](rcs.102-algorithm-design-and-analysis/wip.md)
 
-## 🧵 RCS.103 CONCURRENT PROGRAMMING
+## 🧵 RCS.103 SYSTEM PROGRAMMING
 
-* [(WIP)](rcs.103-concurrent-programming/wip.md)
+* [(WIP)](rcs.103-system-programming/wip.md)
 
 ## 🦀 RCS.201 RUST
 

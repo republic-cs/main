@@ -46,4 +46,16 @@ layout:
 
 </details>
 
-####
+<details>
+
+<summary><a data-mention href="broken-reference">Broken link</a></summary>
+
+## Low Level Academy
+
+* [https://lowlevel.academy/courses](https://lowlevel.academy/courses)
+
+## CodeCrafters | Advanced programming challenges
+
+* [https://codecrafters.io/](https://codecrafters.io/)
+
+</details>
