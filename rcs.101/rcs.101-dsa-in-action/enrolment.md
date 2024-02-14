@@ -17,7 +17,7 @@ layout:
     visible: true
 ---
 
-# §&#x20;
+# §
 
 ## RCS.101 - DSA In Action
 
@@ -73,5 +73,6 @@ layout:
 
 * 在寫 「練習題」 時，請極力避免直接去看 LeetCode solution，因為最終目標是想將實作內化，而看解答很高機率會阻礙學習。
 * 務必實作完所有的 「Graduation Challenge」 才視為自己完成了該主題。
-* 在練習實作時，我們會極力推薦使用 「本地編輯器」 和 「撰寫單元測試」 來進行學習；這也是基於我們希望更貼近 system programming 和實務效能的量測。
+* 在練習實作時，我們會極力推薦使用 **「本地編輯器開發」** 和 **「用單元測試描述測資」**  來進行學習（相較於直接使用 online editor）。
+  * 這是基於 [Broken link](broken-reference "mention") 希望能以此銜接 [Broken link](broken-reference "mention") 在開發與偵錯時的實體環境。
 {% endhint %}
