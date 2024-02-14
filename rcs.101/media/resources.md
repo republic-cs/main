@@ -23,10 +23,27 @@ layout:
 各種編排 roadmap 所使用的參考資料、教材，會被整理在這
 {% endhint %}
 
-## [Broken link](broken-reference "mention")
+<details>
 
-{% embed url="https://www.youtube.com/@jordanhasnolife5163/videos" %}
+<summary><a data-mention href="broken-reference">Broken link</a></summary>
 
+## Jordan has no life
 
+* [https://www.youtube.com/@jordanhasnolife5163/featured](https://www.youtube.com/@jordanhasnolife5163/featured)
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><h2>Jordan has no life</h2></td><td><a href="https://www.youtube.com/@jordanhasnolife5163/videos">https://www.youtube.com/@jordanhasnolife5163/videos</a></td><td><img src="../.gitbook/assets/image (1).png" alt="" data-size="original"></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
+## ByteByteGo
+
+* System Design Interview – An insider's guide
+* System Design Interview – An Insider's Guide: Volume 2
+
+## Designing Data-Intensive Applications
+
+* [https://dataintensive.net/](https://dataintensive.net/)
+
+## 凤凰架构 - 构建可靠的大型分布式系统
+
+* [https://icyfenix.cn/](https://icyfenix.cn/)
+
+</details>
+
+####
