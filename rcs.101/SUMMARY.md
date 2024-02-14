@@ -3,7 +3,7 @@
 ## INFO
 
 * [What is 𝗥𝗲𝗣𝘂𝗯𝗹𝗶𝗰 𝗼𝗳 𝗖𝗦？](README.md)
-* [🗺 RCS Roadmap](info/rcs-roadmap.md)
+* [🗺 RCS Open Course](info/rcs-open-course.md)
 * [🏛 RCS Classroom](info/rcs-classroom.md)
 * [👩🌾 RCS Forum](info/rcs-forum.md)
 * [🌟 RCS Mentor 計畫](info/rcs-mentor-ji-hua.md)

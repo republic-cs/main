@@ -42,7 +42,7 @@ RCS（全名：RePublic of Computer Science）；中文可稱 「 **CS 共和國
 而抱持著這樣的想法，以下的幾個元件被設計了出來
 
 {% hint style="success" %}
-#### RCS Roadmap
+#### RCS Open Course
 
 * 由社群/讀書會參與者，在學習一項科目的途中，同時一起維護的知識地圖。（註：就是此網站）\
   讓後進者能站在前人的立足點學習，也促進了讀書會參與者來重視每輪的學習成果。
@@ -61,7 +61,7 @@ RCS（全名：RePublic of Computer Science）；中文可稱 「 **CS 共和國
 * 能編排出系統化的學問不是一件容易的事，在社群發展的過程中，我們也會著重透過 **知識庫貢獻、輪流主持、Coaching** 的形式來讓群眾培養開源協作，和通常難以觸及的 mentoring 練習。
 {% endhint %}
 
-透過 [rcs-roadmap.md](info/rcs-roadmap.md "mention"), [rcs-classroom.md](info/rcs-classroom.md "mention"), [rcs-mentor-ji-hua.md](info/rcs-mentor-ji-hua.md "mention")；RCS 計畫相信，以上元件能最大程度的幫助、吸引到三種人：
+透過 [rcs-open-course.md](info/rcs-open-course.md "mention"), [rcs-classroom.md](info/rcs-classroom.md "mention"), [rcs-mentor-ji-hua.md](info/rcs-mentor-ji-hua.md "mention")；RCS 計畫相信，以上元件能最大程度的幫助、吸引到三種人：
 
 1. 在學習上手足無措、方向與想像都缺乏的 Jr./New Grad
 2. 已經有一定工作經驗，但自認學習效率、系統性上都想增進的 Sr.
@@ -71,7 +71,7 @@ RCS（全名：RePublic of Computer Science）；中文可稱 「 **CS 共和國
 
 #### 當下（2024 Q1 \~ Q2）
 
-* 公開經營此 RCS 社群與 Roadmap，並透過一季的 Classroom 直播來完善 [Broken link](broken-reference "mention")這項知識藍圖。
+* 公開經營此 RCS 社群與 Open Course，並透過一季的 Classroom 直播來完善 [Broken link](broken-reference "mention")這項知識藍圖。
 
 #### 一年（2024 Q3 \~ Q4）
 
@@ -79,6 +79,6 @@ RCS（全名：RePublic of Computer Science）；中文可稱 「 **CS 共和國
 
 #### 未來（中長期）
 
-* 作為一個業餘社群，在秉持 「 知識不該被 paywall 」 的理念下，透過編排 roadmap & 主持讀書會，來培養一群思考、學習都有系統性。也有能力教授知識的 mentor
+* 作為一個業餘社群，在秉持 「 知識不該被 paywall 」 的理念下，透過編排 Open Course & 主持讀書會，來培養一群思考、學習都有系統性。也有能力教授知識的 mentor
 * 成為一個學習型組織與知識經濟的孵化器。讓有興趣想開工作坊、教學的人，都能以公開的方式驗證自己的學習模型
 

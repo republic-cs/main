@@ -59,3 +59,13 @@ layout:
 * [https://codecrafters.io/](https://codecrafters.io/)
 
 </details>
+
+<details>
+
+<summary>Uncategorised</summary>
+
+## CS 自学指南
+
+* [https://csdiy.wiki/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/MIT6.S081/](https://csdiy.wiki/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/MIT6.S081/)
+
+</details>
