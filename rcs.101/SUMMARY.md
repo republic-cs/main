@@ -11,7 +11,7 @@
 
 ## ⚒ RCS.101 - DSA In Action
 
-* [§ ](rcs.101-dsa-in-action/enrolment.md)
+* [§](rcs.101-dsa-in-action/enrolment.md)
 * [RCS.101.a](rcs.101-dsa-in-action/rcs.101.a.md)
 * [RCS.101.b](rcs.101-dsa-in-action/rcs.101.b.md)
 * [RCS.101.c](rcs.101-dsa-in-action/rcs.101.c.md)
@@ -20,7 +20,7 @@
 
 ## 📚 RCS.102 - Algorithm Design & Analysis
 
-* [(WIP)](rcs.102-algorithm-design-and-analysis/wip.md)
+* [§ (WIP)](rcs.102-algorithm-design-and-analysis/wip.md)
 
 ## 🧵 RCS.103 SYSTEM PROGRAMMING
 
