@@ -14,17 +14,17 @@ layout:
   outline:
     visible: true
   pagination:
-    visible: true
+    visible: false
 ---
 
 # § (WIP)
 
-{% hint style="danger" %}
+{% hint style="warning" %}
 此 open course [Broken link](broken-reference "mention") 還在 backlog 當中，尚未被規劃
 
 
 
-以下是主題、教材的 candidate：
+以下是此 open course 主題、教材的 candidate：
 
 * Trie
 * Divide and Conquer

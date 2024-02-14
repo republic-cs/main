@@ -24,7 +24,7 @@
 
 ## 🧵 RCS.103 SYSTEM PROGRAMMING
 
-* [(WIP)](rcs.103-system-programming/wip.md)
+* [§ (WIP)](rcs.103-system-programming/wip.md)
 
 ## 🦀 RCS.201 RUST
 

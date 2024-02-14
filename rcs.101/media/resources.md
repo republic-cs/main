@@ -25,7 +25,7 @@ layout:
 
 <details>
 
-<summary><a data-mention href="broken-reference">Broken link</a></summary>
+<summary>Web System Design <a data-mention href="broken-reference">Broken link</a></summary>
 
 ## Jordan has no life
 
@@ -48,7 +48,7 @@ layout:
 
 <details>
 
-<summary><a data-mention href="broken-reference">Broken link</a></summary>
+<summary>System Programming <a data-mention href="broken-reference">Broken link</a></summary>
 
 ## Low Level Academy
 
