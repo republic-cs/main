@@ -19,7 +19,7 @@ layout:
 
 # ¶
 
-## Graduation
+## RCS.101 -Graduation
 
 {% hint style="success" %}
 ## 完成 RCS.101 後

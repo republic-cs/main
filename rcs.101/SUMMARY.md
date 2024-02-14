@@ -44,3 +44,4 @@
 * [Twitch](https://www.twitch.tv/republicofcs)
 * [Discord Forum](https://discord.com/invite/cvbU8PYAYx)
 * [Become an Editor](https://app.gitbook.com/invite/lNrv9z1RRuVQwyKgfzwo/aMGUSOlBPuMXdDdg7TuZ)
+* [Resources](media/resources.md)
