@@ -71,8 +71,10 @@ layout:
 由於 [Broken link](broken-reference "mention") 和 lab 的同質性，我們期待參與者：\
 
 
-* 在寫 「練習題」 時，請極力避免直接去看 LeetCode solution，因為最終目標是想將實作內化，而看解答很高機率會阻礙學習。
-* 務必實作完所有的 「Graduation Challenge」 才視為自己完成了該主題。
-* 在練習實作時，我們會極力推薦使用 **「本地編輯器開發」** 和 **「用單元測試描述測資」**  來進行學習（相較於直接使用 online editor）。
+* 在寫 「練習題」 時，<mark style="color:red;">**極力避免去看 「任何形式的解答」**</mark>  (如 Solutions/Hints/題解影片)。
+  * 因為 [Broken link](broken-reference "mention") 的學習目標是想將實作內化，而看解答很高機率會阻礙認知的培養。
+* <mark style="color:red;">**務必實作完所有的 Lab**</mark>，才能視為完成了該主題。
+* 在練習實作時，<mark style="color:red;">**使用  「本地編輯器開發」  和  「用單元測試描述測資」  來進行開發**</mark> (而非採用 online editor)。
   * 這是基於 [Broken link](broken-reference "mention") 希望能以此銜接 [Broken link](broken-reference "mention") 在開發與偵錯時的實體環境。
+* 在解題時，<mark style="color:red;">**write out loud、white-boarding、dry run**</mark>，儘管在 [Broken link](broken-reference "mention")才會比較要求。但我們也鼓勵參與者用這些方式來讓自己更熟悉腦內構思的流程。
 {% endhint %}

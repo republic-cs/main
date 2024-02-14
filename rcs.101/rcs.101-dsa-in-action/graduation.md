@@ -25,7 +25,7 @@ layout:
 ## 完成 RCS.101 後
 
 * [ ] 所有 rcs.101 主題的 easy problem 全部都有能力白板解出來
-* [ ] 所有 rcs.101 主題的 medium 題目，都能至少破題，辨認出自己還缺哪項 DSA 知識，並自主練習進步
+* [ ] 所有 rcs.101 主題的 medium 題目，都能至少破題，**辨認出自身缺乏的任何 DSA 新知，並輕易的找出題目來自主練習**
 {% endhint %}
 
 {% hint style="info" %}
