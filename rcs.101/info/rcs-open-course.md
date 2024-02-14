@@ -32,7 +32,7 @@ layout:
 
 ## What is an Open Course, Anyway?
 
-<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption><p>網路上的 roadmap，很常會包山包海，卻缺乏深度與明確的結構</p></figcaption></figure>
 
 隨著自學 Computer Science 變得熱門，以及將各種知識開源的風潮，諸如 [Roadmap.sh - Full Stack Developer](https://roadmap.sh/full-stack) 或 [The System Design Primer](https://github.com/donnemartin/system-design-primer) 之類的內容形式，都試著想將數以千計的知識內容整理且變得結構化。
 
