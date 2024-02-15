@@ -21,6 +21,8 @@ layout:
 
 ## RCS.101 - DSA In Action
 
+<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption><p>RCS.101 的模樣</p></figcaption></figure>
+
 {% hint style="success" %}
 ## What is RCS.101 for?
 
