@@ -3,7 +3,7 @@ cover: ../.gitbook/assets/Group 7.png
 coverY: 0
 ---
 
-# 🙋 如何參與學習？
+# 🙋 (WIP) 如何參與學習？
 
 <figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
