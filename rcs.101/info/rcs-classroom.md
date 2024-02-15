@@ -109,7 +109,7 @@ layout:
 這些直播平台與 Discord 上的 [rcs-forum.md](rcs-forum.md "mention")，筆者希望提供 classmate/社群支持系統的主要形式。
 {% endhint %}
 
-
+透過 [rcs-open-course.md](rcs-open-course.md "mention"), [rcs-classroom.md](rcs-classroom.md "mention"), [rcs-forum.md](rcs-forum.md "mention") 和 [rcs-mentor-ji-hua.md](rcs-mentor-ji-hua.md "mention")，我們相信就能兼顧機構教育與自學各自的優點，讓參與者能學習自主的同時，也有效率的鑽研的系統化、深度的 Computer Science 學科。
 
 
 
