@@ -36,7 +36,7 @@
 
 ## 🏰 RCS.302 WEB SYSTEM DESIGN
 
-* [(WIP)](rcs.302-web-system-design/wip.md)
+* [§ (WIP)](rcs.302-web-system-design/wip.md)
 
 ## 📣 MEDIA
 
