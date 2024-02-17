@@ -53,7 +53,7 @@ layout:
 {% hint style="success" %}
 #### 課堂成員的回饋與責任
 
-* [ ] 在 office hour 時，<mark style="color:red;">**RePublic of CS 的 mentor 會協助你 onboard RCS.101**</mark>
+* [ ] <mark style="color:red;">**RePublic of CS 的 mentor 會協助你 onboard RCS.101**</mark>
 * [ ] 若決定加入，務必要：
   * [ ] <mark style="color:red;">**每次直播時，到 Miters 活動室參與 office hour**</mark>
   * [ ] 若不克參與，請先告知 mentor/請假
