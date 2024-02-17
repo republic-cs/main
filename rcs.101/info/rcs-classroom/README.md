@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/Group 7.png
+cover: ../../.gitbook/assets/Group 7.png
 coverY: 0
 layout:
   cover:
@@ -47,7 +47,7 @@ layout:
 
 在內容、資訊流通相對順暢的當下，機構教育與知識經濟 (網課)，因為他們相對的高品質，與付費模型背後的可長久營運。還是使這些形式佔據了學習/曝光的主流。
 
-<figure><img src="../.gitbook/assets/image (14).png" alt="" width="563"><figcaption><p>KOL 到了某階段，總會想開始賣點課</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14).png" alt="" width="563"><figcaption><p>KOL 到了某階段，總會想開始賣點課</p></figcaption></figure>
 
 但多數人經營知識經濟的方式，有一點是會與長久發展產生必然衝突的，那就是 **「嘗試把知識本身買斷」** 。
 
@@ -82,34 +82,34 @@ layout:
 {% hint style="success" %}
 ### **結構化的課綱**
 
-社群維護的 [rcs-open-course.md](rcs-open-course.md "mention")，會將無序的知識整理成一門 「學科」，使得學習能有系統性。
+社群維護的 [rcs-open-course.md](../rcs-open-course.md "mention")，會將無序的知識整理成一門 「學科」，使得學習能有系統性。
 {% endhint %}
 
 {% hint style="success" %}
 ### 對學科的想像
 
-[#what-does-do-differently](rcs-open-course.md#what-does-do-differently "mention") 介紹到，各個 [rcs-open-course.md](rcs-open-course.md "mention") 未來都是能夠互相銜接，最終在應用、實作上都發揮用處。
+[#what-does-do-differently](../rcs-open-course.md#what-does-do-differently "mention") 介紹到，各個 [rcs-open-course.md](../rcs-open-course.md "mention") 未來都是能夠互相銜接，最終在應用、實作上都發揮用處。
 
-&#x20;<img src="../.gitbook/assets/image (17).png" alt="" data-size="original">
+&#x20;<img src="../../.gitbook/assets/image (17).png" alt="" data-size="original">
 {% endhint %}
 
 {% hint style="success" %}
 ### 教師指導
 
-透過 [rcs-mentor-ji-hua.md](rcs-mentor-ji-hua.md "mention")，此社群會在中長期培育一群 **「有能力設計課綱」** 、 **「領導力與知識兼備」** 的人才。
+透過 [rcs-mentor-ji-hua.md](../rcs-mentor-ji-hua.md "mention")，此社群會在中長期培育一群 **「有能力設計課綱」** 、 **「領導力與知識兼備」** 的人才。
 {% endhint %}
 
 {% hint style="success" %}
 ### 同學、社群支持
 
-每一門規劃中的 [rcs-open-course.md](rcs-open-course.md "mention")，都會同時有 YouTube/Twitch 直播來作為 office hour，分享課綱與自學中的疑問。
+每一門規劃中的 [rcs-open-course.md](../rcs-open-course.md "mention")，都會同時有 YouTube/Twitch 直播來作為 office hour，分享課綱與自學中的疑問。
 
-![](<../.gitbook/assets/image (18).png>)&#x20;
+![](<../../.gitbook/assets/image (18).png>)&#x20;
 
-這些直播平台與 Discord 上的 [rcs-forum.md](rcs-forum.md "mention")，筆者希望提供 classmate/社群支持系統的主要形式。
+這些直播平台與 Discord 上的 [rcs-forum.md](../rcs-forum.md "mention")，筆者希望提供 classmate/社群支持系統的主要形式。
 {% endhint %}
 
-透過 [rcs-open-course.md](rcs-open-course.md "mention"), [rcs-classroom.md](rcs-classroom.md "mention"), [rcs-forum.md](rcs-forum.md "mention") 和 [rcs-mentor-ji-hua.md](rcs-mentor-ji-hua.md "mention")，我們相信就能兼顧機構教育與自學各自的優點，讓參與者能學習自主的同時，也有效率的鑽研的系統化、深度的 Computer Science 學科。
+透過 [rcs-open-course.md](../rcs-open-course.md "mention"), [.](./ "mention"), [rcs-forum.md](../rcs-forum.md "mention") 和 [rcs-mentor-ji-hua.md](../rcs-mentor-ji-hua.md "mention")，我們相信就能兼顧機構教育與自學各自的優點，讓參與者能學習自主的同時，也有效率的鑽研的系統化、深度的 Computer Science 學科。
 
 
 

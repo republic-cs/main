@@ -59,7 +59,7 @@ RCS（全名：RePublic of Computer Science）；中文可稱 「 **CS 共和國
 * 能編排出系統化的學問不是一件容易的事，在社群發展的過程中，我們也會著重透過 **知識庫貢獻、輪流主持、Coaching** 的形式來讓群眾培養開源協作，和通常難以觸及的 mentoring 練習。
 {% endhint %}
 
-透過 [rcs-open-course.md](info/rcs-open-course.md "mention"), [rcs-classroom.md](info/rcs-classroom.md "mention"), [rcs-mentor-ji-hua.md](info/rcs-mentor-ji-hua.md "mention")；RCS 計畫相信，以上元件能最大程度的幫助、吸引到三種人：
+透過 [rcs-open-course.md](info/rcs-open-course.md "mention"), [rcs-classroom](info/rcs-classroom/ "mention"), [rcs-mentor-ji-hua.md](info/rcs-mentor-ji-hua.md "mention")；RCS 計畫相信，以上元件能最大程度的幫助、吸引到三種人：
 
 1. 在學習上手足無措、方向與想像都缺乏的 Jr./New Grad
 2. 已經有一定工作經驗，但自認學習效率、系統性上都想增進的 Sr.
