@@ -41,7 +41,7 @@
 
 ## 📣 MEDIA
 
-* [YouTube](https://www.youtube.com/@republic-cs)
+* [YouTube](https://www.youtube.com/@republic-of-cs)
 * [Twitch](https://www.twitch.tv/republicofcs)
 * [Threads](https://www.threads.net/@republic.of.cs)
 * [Discord Forum](https://discord.com/invite/cvbU8PYAYx)
