@@ -4,8 +4,8 @@
 
 * [❔ What is 𝗥𝗲𝗣𝘂𝗯𝗹𝗶𝗰 𝗼𝗳 𝗖𝗦？](README.md)
 * [🗺 RCS Open Course](info/rcs-open-course.md)
-* [🏛 RCS Classroom](info/rcs-classroom/README.md)
-  * [⏳ RCS.101 x Miters](info/rcs-classroom/rcs.101-x-miters.md)
+* [🏛 RCS Classroom](info/rcs-classroom.md)
+  * [⏳ RCS.101 x Miters (24 Q2)](info/rcs-classroom/rcs.101-x-miters-24-q2.md)
 * [👩🌾 (WIP) RCS Forum](info/rcs-forum.md)
 * [🌟 (WIP) RCS Mentor 計畫](info/rcs-mentor-ji-hua.md)
 * [🙋 (WIP) 如何參與學習？](info/ru-he-can-yu-xue-xi.md)
