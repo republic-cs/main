@@ -38,7 +38,7 @@ layout:
 * Onboard 新加入 [Broken link](broken-reference "mention") 的參與者
 * 進行簡短的上週/下週內容介紹
 
-**殘酷 Living Coding** (7:30 \~ 8:30)
+**Living Coding** (7:30 \~ 8:30)
 
 * 會由一位社群的助教搭配一位學習者，一起挑選切中本週主題的 LintCode/LeetCode Easy 問題來解
 * 過程中助教不會給提示，只會試著跟上學習者的思路
