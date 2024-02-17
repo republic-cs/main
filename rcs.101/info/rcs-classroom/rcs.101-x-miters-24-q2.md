@@ -51,12 +51,12 @@ layout:
 3. 管理員會給予你 `@rcs.101 ⌛` 的課堂成員標籤
 
 {% hint style="success" %}
-## 課堂成員的回饋與責任
+#### 課堂成員的回饋與責任
 
-* [ ] 在 office hour 時，RePublic of CS 的 mentor 會協助你 onboard [Broken link](broken-reference "mention")，也會有其他成員鼓勵你跟上進度
+* [ ] 在 office hour 時，<mark style="color:red;">**RePublic of CS 的 mentor 會協助你 onboard RCS.101**</mark>
 * [ ] 若決定加入，務必要：
-  * [ ] 在每次 [#zhi-bo](rcs.101-x-miters-24-q2.md#zhi-bo "mention") 時，準時到教室參與 office hour
+  * [ ] <mark style="color:red;">**每次直播時，到 Miters 活動室參與 office hour**</mark>
   * [ ] 若不克參與，請先告知 mentor/請假
-  * [ ] 每週都繳交 [Broken link](broken-reference "mention") 的作業成果
+  * [ ] <mark style="color:red;">**每週都繳交符合 RCS.101 當週主題的作業**</mark>
 * [ ] 任何完整跟完 [Broken link](broken-reference "mention") 及寫完所有 lab 的成員，將會獲得 RePublic of CS 官方贈送的 Discord Nitro (1 month)
 {% endhint %}
