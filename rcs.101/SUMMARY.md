@@ -43,7 +43,6 @@
 
 * [YouTube](https://www.youtube.com/@republic-cs)
 * [Twitch](https://www.twitch.tv/republicofcs)
-* [Instagram](https://www.instagram.com/republic.of.cs/)
 * [Threads](https://www.threads.net/@republic.of.cs)
 * [Discord Forum](https://discord.com/invite/cvbU8PYAYx)
 * [Become an Editor](https://app.gitbook.com/invite/lNrv9z1RRuVQwyKgfzwo/aMGUSOlBPuMXdDdg7TuZ)
