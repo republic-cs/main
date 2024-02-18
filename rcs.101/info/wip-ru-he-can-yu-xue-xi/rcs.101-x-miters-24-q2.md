@@ -15,6 +15,18 @@ layout:
 
 # ⏳ RCS.101 x Miters (24 Q2)
 
+<details>
+
+<summary>（須知）RCS.101 - DSA In Action 是什麼？</summary>
+
+<img src="../../.gitbook/assets/image (19).png" alt="" data-size="original">
+
+[Broken link](broken-reference "mention")是一個幫助學習者循序漸進、系統化的寫會基礎資料結構的 Open Course。
+
+[Broken link](broken-reference "mention")的形式十分接近一個 workshop/工作坊，將在 15 週之內由 3 位 mentor 帶領參與者利用 LeetCode Easy \~ Medium 掌握系統開發所有的先備開發能力。
+
+</details>
+
 ## Classroom 地點
 
 * **(合作社群) 馬來西亞 IT 人 - Miters**\
