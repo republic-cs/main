@@ -29,7 +29,7 @@ layout:
 * 時段：每週五 7:00PM \~ 8:30 PM (+8)
 * Schedule：March 8 \~ Jun 14 總計 15 週，涵蓋 [Broken link](broken-reference "mention")四個模組，所有的作業與 lab
 
-<figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption><p>RCS.101 15 週的內容</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>RCS.101 15 週的內容</p></figcaption></figure>
 
 ## 活動形式
 
