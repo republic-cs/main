@@ -27,15 +27,19 @@ Estimate Completion: 20 \~ 30 hours
 {% endtab %}
 
 {% tab title="Advanced Stack" %}
-{% embed url="https://www.youtube.com/watch?v=NpEaa2P7qZI" %}
+{% embed url="https://www.youtube.com/watch?index=14&list=PLskIq2MzopHCU6IAoYtedpzOzgWItmmQI&v=glokLneHzJs" %}
+\[RCS.101 x Miters] Advanced Stack (1)
+{% endembed %}
 
-Expect On-air: June 2024
+{% embed url="https://www.youtube.com/watch?index=15&list=PLskIq2MzopHCU6IAoYtedpzOzgWItmmQI&v=N-LSmhaypOM" %}
+\[RCS.101 x Miters] Advanced Stack (2)
+{% endembed %}
 {% endtab %}
 
 {% tab title="Topological Order/Sort" %}
-{% embed url="https://youtu.be/NpEaa2P7qZI" %}
-
-Expect On-air: June 2024
+{% embed url="https://www.youtube.com/watch?index=16&list=PLskIq2MzopHCU6IAoYtedpzOzgWItmmQI&v=MIkzOFZ9fyw" %}
+\[RCS.101 x Miters] Topological Order/Sort
+{% endembed %}
 {% endtab %}
 {% endtabs %}
 
