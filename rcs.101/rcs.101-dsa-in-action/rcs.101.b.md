@@ -26,7 +26,7 @@ layout:
 Estimate Completion: 30 \~ 45 hours
 {% endtab %}
 
-{% tab title="Linked List" %}
+{% tab title="Linked List & Hash Map" %}
 {% embed url="https://www.youtube.com/watch?index=5&list=PLskIq2MzopHCU6IAoYtedpzOzgWItmmQI&v=JYYhkqdK1zU" %}
 \[RCS.101 x Miters] Linked List & Hash Map
 {% endembed %}
