@@ -21,27 +21,33 @@ layout:
 
 {% tabs %}
 {% tab title="Map of Contents" %}
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
-
-Estimate Completion: 30 \~ 40 hours
+<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption><p>Estimate Completion: 30 ~ 40 hours</p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Backtracking" %}
-{% embed url="https://www.youtube.com/watch?v=NpEaa2P7qZI" %}
+{% embed url="https://www.youtube.com/watch?index=9&list=PLskIq2MzopHCU6IAoYtedpzOzgWItmmQI&v=bNqloQBMKls" %}
+\[RCS.101 x Miters] Backtracking (1)
+{% endembed %}
 
-Expect On-air: May 2024
+{% embed url="https://www.youtube.com/watch?index=10&list=PLskIq2MzopHCU6IAoYtedpzOzgWItmmQI&v=gWUAcA7qxng" %}
+\[RCS.101 x Miters] Backtracking (2)
+{% endembed %}
 {% endtab %}
 
 {% tab title="Basic Graphs" %}
-{% embed url="https://youtu.be/NpEaa2P7qZI" %}
+{% embed url="https://www.youtube.com/watch?index=11&list=PLskIq2MzopHCU6IAoYtedpzOzgWItmmQI&v=MBIKqL7DGBc" %}
+\[RCS.101 x Miters] Basic Graphs (1)
+{% endembed %}
 
-Expect On-air: May 2024
+{% embed url="https://www.youtube.com/watch?index=12&list=PLskIq2MzopHCU6IAoYtedpzOzgWItmmQI&v=Ida7mTq3WOc" %}
+\[RCS.101 x Miters] Basic Graphs (2)
+{% endembed %}
 {% endtab %}
 
 {% tab title="Heap" %}
-{% embed url="https://youtu.be/NpEaa2P7qZI" %}
-
-Expect On-air: May 2024
+{% embed url="https://www.youtube.com/watch?index=13&list=PLskIq2MzopHCU6IAoYtedpzOzgWItmmQI&v=0XvKAmxAQkI" %}
+\[RCS.101 x Miters] Heap
+{% endembed %}
 {% endtab %}
 {% endtabs %}
 

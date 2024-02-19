@@ -28,14 +28,20 @@ Estimate Completion: 30 \~ 45 hours
 
 {% tab title="Basic Stack & Basic DFS" %}
 {% embed url="https://www.youtube.com/watch?index=2&list=PLskIq2MzopHCU6IAoYtedpzOzgWItmmQI&v=n_-u4Q-OZBE" %}
+\[RCS.101 x Miters] Linked Stack & DFS
+{% endembed %}
 {% endtab %}
 
 {% tab title="Queue & Basic BFS" %}
 {% embed url="https://www.youtube.com/watch?index=3&list=PLskIq2MzopHCU6IAoYtedpzOzgWItmmQI&v=XiiYd4p8Fa0" %}
+\[RCS.101 x Miters] Queue & BFS
+{% endembed %}
 {% endtab %}
 
 {% tab title="Binary Search" %}
 {% embed url="https://www.youtube.com/watch?index=4&list=PLskIq2MzopHCU6IAoYtedpzOzgWItmmQI&v=uVsU5vuDDS8" %}
+\[RCS.101 x Miters] Binary Search
+{% endembed %}
 {% endtab %}
 {% endtabs %}
 
