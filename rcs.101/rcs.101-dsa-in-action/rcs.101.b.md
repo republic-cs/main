@@ -27,27 +27,25 @@ Estimate Completion: 30 \~ 45 hours
 {% endtab %}
 
 {% tab title="Linked List" %}
-{% embed url="https://www.youtube.com/watch?v=NpEaa2P7qZI" %}
-
-Expect On-air: April 2024
-{% endtab %}
-
-{% tab title="Hash Map" %}
-{% embed url="https://www.youtube.com/watch?v=NpEaa2P7qZI" %}
-
-Expect On-air: April 2024
+{% embed url="https://www.youtube.com/watch?index=5&list=PLskIq2MzopHCU6IAoYtedpzOzgWItmmQI&v=JYYhkqdK1zU" %}
+\[RCS.101 x Miters] Linked List & Hash Map
+{% endembed %}
 {% endtab %}
 
 {% tab title="Basic Recursion" %}
-{% embed url="https://youtu.be/NpEaa2P7qZI" %}
-
-Expect On-air: April 2024
+{% embed url="https://www.youtube.com/watch?index=6&list=PLskIq2MzopHCU6IAoYtedpzOzgWItmmQI&v=KXUYUhqGVgk" %}
+\[RCS.101 x Miters] Basic Recursion
+{% endembed %}
 {% endtab %}
 
 {% tab title="Sorting & Searching" %}
-{% embed url="https://youtu.be/NpEaa2P7qZI" %}
+{% embed url="https://www.youtube.com/watch?index=7&list=PLskIq2MzopHCU6IAoYtedpzOzgWItmmQI&v=W6l-_SAhj7g" %}
+\[RCS.101 x Miters] Sorting/Searching (1)
+{% endembed %}
 
-Expect On-air: April 2024
+{% embed url="https://www.youtube.com/watch?index=8&list=PLskIq2MzopHCU6IAoYtedpzOzgWItmmQI&v=yLYSIbeV4po" %}
+\[RCS.101 x Miters] Sorting/Searching (2)
+{% endembed %}
 {% endtab %}
 {% endtabs %}
 
