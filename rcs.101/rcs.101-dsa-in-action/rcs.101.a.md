@@ -26,34 +26,16 @@ layout:
 Estimate Completion: 30 \~ 45 hours
 {% endtab %}
 
-{% tab title="Basic DFS" %}
-{% embed url="https://www.youtube.com/watch?v=NpEaa2P7qZI" %}
-
-Expect On-air: March 2024
+{% tab title="Basic Stack & Basic DFS" %}
+{% embed url="https://www.youtube.com/watch?index=2&list=PLskIq2MzopHCU6IAoYtedpzOzgWItmmQI&v=n_-u4Q-OZBE" %}
 {% endtab %}
 
-{% tab title="Basic BFS" %}
-{% embed url="https://youtu.be/NpEaa2P7qZI" %}
-
-Expect On-air: March 2024
-{% endtab %}
-
-{% tab title="Basic Stack" %}
-{% embed url="https://youtu.be/NpEaa2P7qZI" %}
-
-Expect On-air: March 2024
-{% endtab %}
-
-{% tab title="Queue" %}
-{% embed url="https://youtu.be/NpEaa2P7qZI" %}
-
-Expect On-air: March 2024
+{% tab title="Queue & Basic BFS" %}
+{% embed url="https://www.youtube.com/watch?index=3&list=PLskIq2MzopHCU6IAoYtedpzOzgWItmmQI&v=XiiYd4p8Fa0" %}
 {% endtab %}
 
 {% tab title="Binary Search" %}
-{% embed url="https://youtu.be/NpEaa2P7qZI" %}
-
-Expect On-air: March 2024
+{% embed url="https://www.youtube.com/watch?index=4&list=PLskIq2MzopHCU6IAoYtedpzOzgWItmmQI&v=uVsU5vuDDS8" %}
 {% endtab %}
 {% endtabs %}
 
