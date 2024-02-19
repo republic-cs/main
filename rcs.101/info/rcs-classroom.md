@@ -47,8 +47,6 @@ layout:
 
 在內容、資訊流通相對順暢的當下，機構教育與知識經濟 (網課)，因為他們相對的高品質，與付費模型背後的可長久營運。還是使這些形式佔據了學習/曝光的主流。
 
-<figure><img src="../.gitbook/assets/image (14).png" alt="" width="563"><figcaption><p>KOL 到了某階段，總會想開始賣點課</p></figcaption></figure>
-
 但多數人經營知識經濟的方式，有一點是會與長久發展產生必然衝突的，那就是 **「嘗試把知識本身買斷」** 。
 
 大至線上課程的課綱、教學內容、筆記、付費期刊，小至 [LeetCode Premium](https://leetcode.com/subscribe/)、[NeetCode Pro](https://neetcode.io/pro)，許多還是走回了 [Knowledge Paywalled](https://www.vox.com/the-highlight/2019/6/3/18271538/open-access-elsevier-california-sci-hub-academic-paywalls) 的老路。
