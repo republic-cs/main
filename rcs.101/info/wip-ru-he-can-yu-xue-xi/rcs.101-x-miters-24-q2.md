@@ -38,19 +38,19 @@ layout:
 
 * 直播平台：RePublic of CS [YouTube](https://www.youtube.com/@republic-cs/videos)/[Twitch](https://www.twitch.tv/republicofcs)
 * 語音地點：[Miters 活動室](https://discord.com/channels/1127379397578600553/1192609273662947369)
-* 時段：每週五 7:00PM \~ 8:30 PM (+8)
-* Schedule：March 8 \~ Jun 14 總計 15 週，涵蓋 [Broken link](broken-reference "mention")四個模組，所有的作業與 lab
+* 時段：每週六 8:00PM \~ 9:30 PM (+8)
+* Schedule：March 9 \~ Jun 15 總計 15 週，涵蓋 [**RCS.101**](broken-reference) 四個模組，所有的作業與 lab
 
 <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>RCS.101 15 週的內容</p></figcaption></figure>
 
 ## 活動形式
 
-**Office Hour** (7:00 \~ 7:30)
+**Office Hour** (8:00 \~ 8:30)
 
-* Onboard 新加入 [Broken link](broken-reference "mention") 的參與者
+* Onboard 新加入 [**RCS.101**](broken-reference) 的參與者
 * 進行簡短的上週/下週內容介紹
 
-**Living Coding** (7:30 \~ 8:30)
+**Living Coding** (8:30 \~ 9:30)
 
 * 會由一位社群的助教搭配一位學習者，一起挑選切中本週主題的 LintCode/LeetCode Easy 問題來解
 * 過程中助教不會給提示，只會試著跟上學習者的思路
