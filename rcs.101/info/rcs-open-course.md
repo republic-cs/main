@@ -50,11 +50,7 @@ RePublic of CS 的目標，是希望能把自學、讀書會都變得與 「機�
 
 而方式就是，我們會透過 open source 專案合作的方式，來一起編排各個 CS 學科的 Open Course。
 
-<div align="center" data-full-width="false">
-
-<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption><p>RePublic of CS 的中長期計畫：透過社群協作，來補足各個軟體工程經典學科的學習需求</p></figcaption></figure>
-
-</div>
+<figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption><p>RePublic of CS 的中長期計畫：透過社群協作，來補足各個軟體工程經典學科的學習需求</p></figcaption></figure>
 
 而如何確保 RCS Open Course 能夠 「容易 follow」、「內容完整」、卻又不過度膨脹呢？我們希望採取以下限制來達成這個理想：
 
