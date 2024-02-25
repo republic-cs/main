@@ -3,14 +3,14 @@
 ## INFO
 
 * [❔ What is RePublic of CS?](README.md)
-* [🗺 RCS Open Course](info/rcs-open-course.md)
-* [🏛 RCS Classroom](info/rcs-classroom.md)
-* [👩🌾 (WIP) RCS Forum](info/rcs-forum.md)
+* [🗺️ RCS Open Course](info/rcs-open-course.md)
+* [🏛️ RCS Classroom](info/rcs-classroom.md)
+* [👩‍🌾 (WIP) RCS Forum](info/rcs-forum.md)
 * [🌟 (WIP) RCS Mentor 計畫](info/rcs-mentor-ji-hua.md)
 * [🙋 (WIP) 如何參與學習？](info/wip-ru-he-can-yu-xue-xi/README.md)
   * [⏳ RCS.101 x Miters (24 Q2)](info/wip-ru-he-can-yu-xue-xi/rcs.101-x-miters-24-q2.md)
 
-## ⚒ RCS.101 - DSA In Action
+## ⚒️ RCS.101 - DSA In Action
 
 * [§](rcs.101-dsa-in-action/enrolment.md)
 * [RCS.101.a](rcs.101-dsa-in-action/rcs.101.a.md)
@@ -38,6 +38,7 @@
 ## 🏰 RCS.302 WEB SYSTEM DESIGN
 
 * [§ (WIP)](rcs.302-web-system-design/wip.md)
+* [System Design, Actually](rcs.302-web-system-design/system-design-actually.md)
 
 ## 📣 MEDIA
 
