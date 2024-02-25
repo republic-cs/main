@@ -21,7 +21,7 @@ layout:
 
 {% tabs %}
 {% tab title="Map of Contents" %}
-<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Estimate Completion: 30 \~ 45 hours
 {% endtab %}
