@@ -55,7 +55,9 @@ Estimate Completion: 30 \~ 45 hours
   * [**Comp Sci in 5: Stacks**](https://www.youtube.com/watch?v=\_7Z07tI-xrA)
   * [**LC Explore: Queue & Stack**](https://leetcode.com/explore/learn/card/queue-stack/)
 * Practices
-  * [ ] **E** [**495 · Implement Stack**](https://www.lintcode.com/problem/495)
+  *   [ ] **E** [**495 · Implement Stack**](https://www.lintcode.com/problem/495)
+
+      (note: LintCode 此題支援的語言過少，可以使用 [225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) 做為測試環境)
   * [ ] **E** [**423 · Valid Parentheses**](https://www.lintcode.com/problem/423/) **or** [**20. Valid Parentheses**](https://leetcode.com/problems/valid-parentheses/) (note: description of LC is imperfect, should tell `[(]): false`)
   * [ ] **M** [**1001 · Asteroid Collision**](https://www.lintcode.com/problem/1001/description)
 * Graduation Challenge
