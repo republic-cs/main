@@ -71,9 +71,21 @@ layout:
 
 <details>
 
-<summary>Basic Infra Programming</summary>
+<summary>Infrastructure Deep Dive</summary>
 
 *
+
+</details>
+
+
+
+<details>
+
+<summary>Computer Architecture</summary>
+
+## Computer Architecture: A Quantitative Approach
+
+* [https://acs.pub.ro/\~cpop/SMPA/Computer%20Architecture%20A%20Quantitative%20Approach%20(5th%20edition).pdf](https://acs.pub.ro/\~cpop/SMPA/Computer%20Architecture%20A%20Quantitative%20Approach%20\(5th%20edition\).pdf)
 
 </details>
 
@@ -88,6 +100,10 @@ layout:
 ## CodeCrafters | Advanced programming challenges
 
 * [https://codecrafters.io/](https://codecrafters.io/)
+
+## The Garbage Collection Handbook: The Art of Automatic Memory Management
+
+* [https://gchandbook.org/](https://gchandbook.org/)
 
 </details>
 
