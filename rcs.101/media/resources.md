@@ -63,6 +63,18 @@ layout:
 
 * [https://github.com/changgyhub/leetcode\_101/blob/master/LeetCode%20101%20-%20A%20LeetCode%20Grinding%20Guide%20(C%2B%2B%20Version).pdf](https://github.com/changgyhub/leetcode\_101/blob/master/LeetCode%20101%20-%20A%20LeetCode%20Grinding%20Guide%20\(C%2B%2B%20Version\).pdf)
 
+## Hello 算法
+
+* [https://www.hello-algo.com/chapter\_searching/searching\_algorithm\_revisited/#1053](https://www.hello-algo.com/chapter\_searching/searching\_algorithm\_revisited/#1053)
+
+</details>
+
+<details>
+
+<summary>Basic Infra Programming</summary>
+
+*
+
 </details>
 
 <details>
