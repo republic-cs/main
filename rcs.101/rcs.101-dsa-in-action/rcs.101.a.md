@@ -87,7 +87,7 @@ Stack 是電腦科學中最為基礎的資料結構，擁有 LIFO (Last In, Firs
   * [ ] **E** [**145. Binary Tree Postorder Traversal**](https://leetcode.com/problems/binary-tree-postorder-traversal/)
 * Graduation Challenge
   * [ ] **M** [**230. Kth Smallest Element in a BST**](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
-  * [ ] **M** [**105. Construct Binary Tree from Preorder and Inorder Traversal**](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
+  * [ ] **M** [**690. Employee Importance**](https://leetcode.com/problems/employee-importance/)
 
 ***
 
