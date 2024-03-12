@@ -47,17 +47,23 @@ Estimate Completion: 30 \~ 45 hours
 
 ## Basic Stack
 
+{% hint style="info" %}
+Stack 是電腦科學中最為基礎的資料結構，擁有 LIFO (Last In, First Out) 的特性。
+
+* Learning Material
+  * [**Comp Sci in 5: Stacks**](https://www.youtube.com/watch?v=\_7Z07tI-xrA)
+  * [**LC Explore: Queue & Stack**](https://leetcode.com/explore/learn/card/queue-stack/)
+  * [**Core Dumped: WHY IS THE STACK SO FAST?**](https://www.youtube.com/watch?v=N3o5yHYLviQ)
+{% endhint %}
+
 * Prerequisite
   * None
 * Estimate Completion
   * 8 \~ 12 hours
-* Learning Material
-  * [**Comp Sci in 5: Stacks**](https://www.youtube.com/watch?v=\_7Z07tI-xrA)
-  * [**LC Explore: Queue & Stack**](https://leetcode.com/explore/learn/card/queue-stack/)
 * Practices
   *   [ ] **E** [**495 · Implement Stack**](https://www.lintcode.com/problem/495)
 
-      (note: LintCode 此題支援的語言過少，可以使用 [225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) 做為測試環境)
+      (note: LintCode 此題支援的語言過少，可以使用 [**225. Implement Stack using Queues**](https://leetcode.com/problems/implement-stack-using-queues/) 做為測試環境)
   * [ ] **E** [**423 · Valid Parentheses**](https://www.lintcode.com/problem/423/) **or** [**20. Valid Parentheses**](https://leetcode.com/problems/valid-parentheses/) (note: description of LC is imperfect, should tell `[(]): false`)
   * [ ] **M** [**1001 · Asteroid Collision**](https://www.lintcode.com/problem/1001/description)
 * Graduation Challenge
