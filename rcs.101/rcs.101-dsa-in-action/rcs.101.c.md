@@ -21,7 +21,7 @@ layout:
 
 {% tabs %}
 {% tab title="Map of Contents" %}
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption><p>Estimate Completion: 30 ~ 40 hours</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption><p>RCS.101.c</p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Backtracking" %}

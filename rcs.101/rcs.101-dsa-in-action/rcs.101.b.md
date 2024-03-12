@@ -21,9 +21,7 @@ layout:
 
 {% tabs %}
 {% tab title="Map of Contents" %}
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
-
-Estimate Completion: 30 \~ 45 hours
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption><p>RCS.101.b</p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Linked List & Hash Map" %}

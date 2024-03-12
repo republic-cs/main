@@ -21,9 +21,7 @@ layout:
 
 {% tabs %}
 {% tab title="Map of Contents" %}
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
-
-Estimate Completion: 20 \~ 30 hours
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption><p>RCS.101.d</p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Advanced Stack" %}

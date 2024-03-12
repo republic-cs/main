@@ -21,9 +21,7 @@ layout:
 
 {% tabs %}
 {% tab title="Map of Contents" %}
-<figure><img src="../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-Estimate Completion: 30 \~ 45 hours
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>RCS.101.a</p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Basic Stack & Basic DFS" %}
