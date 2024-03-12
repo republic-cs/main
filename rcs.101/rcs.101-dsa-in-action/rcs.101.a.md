@@ -65,23 +65,6 @@ Estimate Completion: 30 \~ 45 hours
 
 ***
 
-## Queue
-
-* Prerequisite
-  * None
-* Estimate Completion
-  * 8 \~ 12 hours
-* Learning Material
-  * [**Comp Sci in 5: Queues**](https://www.youtube.com/watch?v=-1oFihNj6Vw)
-  * [**LC Explore: Queue & Stack**](https://leetcode.com/explore/learn/card/queue-stack/)
-* Practices
-  * [ ] **E** [**492 · Implement Queue by Linked List**](https://www.lintcode.com/problem/492)
-  * [ ] **E** [**642 · Moving Average from Data Stream**](https://www.lintcode.com/problem/642/)
-* Graduation Challenge
-  * [ ] **M** [**2902 · Seating in order on the bus**](https://www.lintcode.com/problem/2902/)
-
-***
-
 ## Basic DFS
 
 * Prerequisite
@@ -99,6 +82,23 @@ Estimate Completion: 30 \~ 45 hours
 * Graduation Challenge
   * [ ] **M** [**230. Kth Smallest Element in a BST**](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
   * [ ] **M** [**105. Construct Binary Tree from Preorder and Inorder Traversal**](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
+
+***
+
+## Queue
+
+* Prerequisite
+  * None
+* Estimate Completion
+  * 8 \~ 12 hours
+* Learning Material
+  * [**Comp Sci in 5: Queues**](https://www.youtube.com/watch?v=-1oFihNj6Vw)
+  * [**LC Explore: Queue & Stack**](https://leetcode.com/explore/learn/card/queue-stack/)
+* Practices
+  * [ ] **E** [**492 · Implement Queue by Linked List**](https://www.lintcode.com/problem/492)
+  * [ ] **E** [**642 · Moving Average from Data Stream**](https://www.lintcode.com/problem/642/)
+* Graduation Challenge
+  * [ ] **M** [**2902 · Seating in order on the bus**](https://www.lintcode.com/problem/2902/)
 
 ***
 
