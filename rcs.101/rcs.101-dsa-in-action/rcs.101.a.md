@@ -28,7 +28,7 @@ Estimate Completion: 30 \~ 45 hours
 
 {% tab title="Basic Stack & Basic DFS" %}
 {% embed url="https://www.youtube.com/watch?index=2&list=PLskIq2MzopHCU6IAoYtedpzOzgWItmmQI&v=n_-u4Q-OZBE" %}
-\[RCS.101 x Miters] Linked Stack & DFS
+\[RCS.101 x Miters] Basic Stack & DFS
 {% endembed %}
 {% endtab %}
 
