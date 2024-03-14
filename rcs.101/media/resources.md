@@ -67,6 +67,10 @@ layout:
 
 * [https://www.hello-algo.com/chapter\_searching/searching\_algorithm\_revisited/#1053](https://www.hello-algo.com/chapter\_searching/searching\_algorithm\_revisited/#1053)
 
+## EnjoyAlgorithm.com
+
+* [https://www.enjoyalgorithms.com/](https://www.enjoyalgorithms.com/)
+
 </details>
 
 <details>
