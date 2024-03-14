@@ -134,8 +134,20 @@ layout:
 
 <summary>Uncategorised</summary>
 
-## CS 自学指南
+#### CS 自学指南
 
-* [https://csdiy.wiki/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/MIT6.S081/](https://csdiy.wiki/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/MIT6.S081/)
+* [**csdiy.wiki**](https://csdiy.wiki/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/MIT6.S081/)
+
+#### Goroutines and Channels Exercises
+
+* [https://www.golangprograms.com/goroutines-and-channels-example.html](https://www.golangprograms.com/goroutines-and-channels-example.html)
+
+#### go-concurrency-exercises
+
+* [https://github.com/loong/go-concurrency-exercises](https://github.com/loong/go-concurrency-exercises)
+
+#### Learn Go with Tests
+
+* [https://quii.gitbook.io/learn-go-with-tests/](https://quii.gitbook.io/learn-go-with-tests/)
 
 </details>
