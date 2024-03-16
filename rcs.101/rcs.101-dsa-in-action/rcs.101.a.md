@@ -99,10 +99,13 @@ Stack 是電腦科學中最為基礎的資料結構，擁有 LIFO (Last In, Firs
   * [**Comp Sci in 5: Queues**](https://www.youtube.com/watch?v=-1oFihNj6Vw)
   * [**LC Explore: Queue & Stack**](https://leetcode.com/explore/learn/card/queue-stack/)
 * Practices
-  * [ ] **E** [**492 · Implement Queue by Linked List**](https://www.lintcode.com/problem/492) (可以使用 [https://leetcode.com/problems/implement-queue-using-stacks/](https://leetcode.com/problems/implement-queue-using-stacks/) 作為測資)
-  * [ ] **E** [**642 · Moving Average from Data Stream**](https://www.lintcode.com/problem/642/)
+  * [ ] 題目：**E** [**49**](https://www.lintcode.com/problem/3493/?\_from=problem\_tag\&fromId=359)[**2 · Implement Queue by Linked List**](https://www.lintcode.com/problem/492)\
+    OJ：**E** [**232. Implement Queue using Stacks**](https://leetcode.com/problems/implement-queue-using-stacks/) (支援的語言較多
+  * [ ] **E** [**1700. Number of Students Unable to Eat Lunch**](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/)
+  * [ ] **E** [**2073. Time Needed to Buy Tickets**](https://leetcode.com/problems/time-needed-to-buy-tickets/)
+  * [ ] **M** [**3493 · Longest Subarray**](https://www.lintcode.com/problem/3493/)
 * Graduation Challenge
-  * [ ] **M** [**2902 · Seating in order on the bus**](https://www.lintcode.com/problem/2902/)
+  * [ ] **M** [**950. Reveal Cards In Increasing Order**](https://leetcode.com/problems/reveal-cards-in-increasing-order/)
 
 ***
 
