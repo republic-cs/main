@@ -99,7 +99,7 @@ Stack 是電腦科學中最為基礎的資料結構，擁有 LIFO (Last In, Firs
   * [**Comp Sci in 5: Queues**](https://www.youtube.com/watch?v=-1oFihNj6Vw)
   * [**LC Explore: Queue & Stack**](https://leetcode.com/explore/learn/card/queue-stack/)
 * Practices
-  * [ ] **E** [**492 · Implement Queue by Linked List**](https://www.lintcode.com/problem/492)
+  * [ ] **E** [**492 · Implement Queue by Linked List**](https://www.lintcode.com/problem/492) (可以使用 [https://leetcode.com/problems/implement-queue-using-stacks/](https://leetcode.com/problems/implement-queue-using-stacks/) 作為測資)
   * [ ] **E** [**642 · Moving Average from Data Stream**](https://www.lintcode.com/problem/642/)
 * Graduation Challenge
   * [ ] **M** [**2902 · Seating in order on the bus**](https://www.lintcode.com/problem/2902/)
