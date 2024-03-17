@@ -126,7 +126,7 @@ Queue 是電腦科學中基礎的資料結構，擁有 FIFO (First In, First Out
   * [**Level Order Traversal**](https://faculty.cs.niu.edu/\~mcmahon/CS241/Notes/Data\_Structures/binary\_tree\_traversals.html)
 * Practices
   * [ ] **M** [**102. Binary Tree Level Order Traversal**](https://leetcode.com/problems/binary-tree-level-order-traversal/)
-  * [ ] **M** [**854 · Closest Leaf in a Binary Tree**](https://www.lintcode.com/problem/3719)
+  * [ ] **M** [**854 · Closest Leaf in a Binary Tree**](https://www.lintcode.com/problem/854/)
   * [ ] **M** [**3719 · Shortest Path to Get Bubble Tea**](https://www.lintcode.com/problem/3719)
 * Graduation Challenge
   * [ ] **M** [**1302. Deepest Leaves Sum**](https://leetcode.com/problems/deepest-leaves-sum/)
