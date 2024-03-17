@@ -77,10 +77,15 @@ layout:
 
 ## Basic Graphs
 
-* Prerequisite
-  * [rcs.101.b.md](rcs.101.b.md "mention")
-* Estimate Completion
-  * 16 \~ 24 hours
+{% hint style="info" %}
+**Trees**
+
+Trees are a common non-linear data structure. They don’t store data in a linear way, but instead organize hierarchically. A tree is normally represented by nodes which contain a value and point to other nodes.
+
+* Learning Material
+  * [**Google Tech Dev Guide: Trees**](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/#sequence-3)
+{% endhint %}
+
 * Learning Material
   * [**LeetCode The Hard Way: Graph Theory**](https://leetcodethehardway.com/tutorials/graph-theory/introduction)
   * [**LintCode: 第二章：数据结构（上）之并查集与字典树**](https://www.lintcode.com/course/7)
@@ -91,6 +96,7 @@ layout:
 
       * [ ] **E** [**1971. Find if Path Exists in Graph**](https://leetcode.com/problems/find-if-path-exists-in-graph/)
       * [ ] **E** [**Number of Islands**](https://www.lintcode.com/problem/433/?showListFe=true\&page=1\&problemTypeId=2\&tagIds=399\&ordering=level\&pageSize=50)
+  * [**Google Tech Dev Guide: Graphs**](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/#sequence-6)
 * Practices
   * [ ] **M** [**105. Construct Binary Tree from Preorder and Inorder Traversal**](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
   * [ ] **M** [**178 · Graph Valid Tree**](https://www.lintcode.com/problem/178/description)
@@ -106,13 +112,15 @@ layout:
 
 ## Heap
 
-* Prerequisite
-  * None
-* Estimate Completion
-  * 8 \~ 12 hours
+{% hint style="info" %}
+A heap is a tree-based data structure that usually comes in two varieties: (1) Max-heaps where the the value in any node is greater than all the values in it's child nodes and (2) Min-heaps where the value in any node is less than all of the values in it's child nodes.
+
 * Learning Material
   * [**LeetCode the Hard Way: Heap (Priority Queue)**](https://leetcodethehardway.com/tutorials/basic-topics/heap)
     * [ ] **E** [**1046. Last Stone Weight**](https://leetcode.com/problems/last-stone-weight/)
+  * [**Google Tech Dev Guide: Heaps**](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/#sequence-5)
+{% endhint %}
+
 * Practices
   * [ ] **E** [**2974. Minimum Number Game**](https://leetcode.com/problems/minimum-number-game/)
   * [ ] **E** [**506. Relative Ranks**](https://leetcode.com/problems/relative-ranks/)
