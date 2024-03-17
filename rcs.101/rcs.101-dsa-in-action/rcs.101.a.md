@@ -56,8 +56,6 @@ Stack 是電腦科學中最為基礎的資料結構，擁有 LIFO (Last In, Firs
 
 * Prerequisite
   * None
-* Estimate Completion
-  * 8 \~ 12 hours
 * Practices
   *   [ ] **E** [**495 · Implement Stack**](https://www.lintcode.com/problem/495)
 
@@ -67,14 +65,10 @@ Stack 是電腦科學中最為基礎的資料結構，擁有 LIFO (Last In, Firs
 * Graduation Challenge
   * [ ] **M** [**268 · Parentheses Score**](https://www.lintcode.com/problem/268/)
 
-***
-
 ## Basic DFS
 
 * Prerequisite
   * None
-* Estimate Completion
-  * 8 \~ 12 hours
 * Learning Material
   * [**Preorder Traversal**](https://faculty.cs.niu.edu/\~mcmahon/CS241/Notes/Data\_Structures/binary\_tree\_traversals.html)
   * [**Inorder Traversal**](https://faculty.cs.niu.edu/\~mcmahon/CS241/Notes/Data\_Structures/binary\_tree\_traversals.html)
@@ -89,6 +83,8 @@ Stack 是電腦科學中最為基礎的資料結構，擁有 LIFO (Last In, Firs
 
 ***
 
+## Queue
+
 {% hint style="info" %}
 Queue 是電腦科學中基礎的資料結構，擁有 FIFO (First In, First Out) 的特性。
 
@@ -99,13 +95,8 @@ Queue 是電腦科學中基礎的資料結構，擁有 FIFO (First In, First Out
   * [**LC Explore: Queue & Stack**](https://leetcode.com/explore/learn/card/queue-stack/)
 {% endhint %}
 
-## Queue
-
 * Prerequisite
   * None
-* Estimate Completion
-  * 8 \~ 12 hours
-*
 * Practices
   * [ ] 題目：**E** [**492 · Implement Queue by Linked List**](https://www.lintcode.com/problem/492)\
     OJ：**E** [**232. Implement Queue using Stacks**](https://leetcode.com/problems/implement-queue-using-stacks/) (支援的語言較多
@@ -114,20 +105,15 @@ Queue 是電腦科學中基礎的資料結構，擁有 FIFO (First In, First Out
 * Graduation Challenge
   * [ ] **M** [**950. Reveal Cards In Increasing Order**](https://leetcode.com/problems/reveal-cards-in-increasing-order/)
 
-***
-
 ## Basic BFS
 
 * Prerequisite
   * None
-* Estimate Completion
-  * 4 \~ 6 hours
 * Learning Material
   * [**Level Order Traversal**](https://faculty.cs.niu.edu/\~mcmahon/CS241/Notes/Data\_Structures/binary\_tree\_traversals.html)
 * Practices
   * [ ] **M** [**102. Binary Tree Level Order Traversal**](https://leetcode.com/problems/binary-tree-level-order-traversal/)
   * [ ] **M** [**854 · Closest Leaf in a Binary Tree**](https://www.lintcode.com/problem/854/)
-  * [ ] **M** [**3719 · Shortest Path to Get Bubble Tea**](https://www.lintcode.com/problem/3719)
 * Graduation Challenge
   * [ ] **M** [**1302. Deepest Leaves Sum**](https://leetcode.com/problems/deepest-leaves-sum/)
   * [ ] **M** [**103. Binary Tree Zigzag Level Order Traversal**](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
