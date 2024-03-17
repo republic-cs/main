@@ -55,13 +55,16 @@ Stack 是電腦科學中最為基礎的資料結構，擁有 LIFO (Last In, Firs
 {% endhint %}
 
 * Practices
-  *   [ ] **E** [**495 · Implement Stack**](https://www.lintcode.com/problem/495)
+  *   [ ] 題目：**E** [**495 · Implement Stack**](https://www.lintcode.com/problem/495)
 
-      (note: LintCode 此題支援的語言過少，可以使用 [**225. Implement Stack using Queues**](https://leetcode.com/problems/implement-stack-using-queues/) 做為測試環境)
-  * [ ] **E** [**423 · Valid Parentheses**](https://www.lintcode.com/problem/423/) **or** [**20. Valid Parentheses**](https://leetcode.com/problems/valid-parentheses/) (note: description of LC is imperfect, should tell `[(]): false`)
+      OJ：**E** [**225. Implement Stack using Queues**](https://leetcode.com/problems/implement-stack-using-queues/) (支援的語言較多
+  * [ ] **E** [**423 · Valid Parentheses**](https://www.lintcode.com/problem/423/) or [**20. Valid Parentheses**](https://leetcode.com/problems/valid-parentheses/)\
+    (note: description from LC is imperfect, should tell `[(]): false`)
   * [ ] **M** [**1001 · Asteroid Collision**](https://www.lintcode.com/problem/1001/description)
 * Graduation Challenge
   * [ ] **M** [**268 · Parentheses Score**](https://www.lintcode.com/problem/268/)
+
+***
 
 ## Basic DFS
 
@@ -100,6 +103,8 @@ Queue 是電腦科學中基礎的資料結構，擁有 FIFO (First In, First Out
   * [ ] **E** [**2073. Time Needed to Buy Tickets**](https://leetcode.com/problems/time-needed-to-buy-tickets/)
 * Graduation Challenge
   * [ ] **M** [**950. Reveal Cards In Increasing Order**](https://leetcode.com/problems/reveal-cards-in-increasing-order/)
+
+***
 
 ## Basic BFS
 
