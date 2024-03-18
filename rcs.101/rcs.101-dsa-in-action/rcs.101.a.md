@@ -108,31 +108,33 @@ Queue 是電腦科學中基礎的資料結構，擁有 FIFO (First In, First Out
 
 ## Basic BFS
 
+{% hint style="info" %}
+BFS is the first relatively advanced, yet power algorithm we get to study.
+
+We start by introducing the essence of BFS via the classic **Binary Tree Level Order Traversal**.
+
+Once your done with the basic understanding. Combing BFS with the knowledge of [#hash-map](rcs.101.b.md#hash-map "mention") and [#basic-graphs](rcs.101.c.md#basic-graphs "mention"), you'll now able to bridge yourself into the challenging-yet-exciting **Shortest Path Finding** problems.
+
+* Learning Material
+  * **Binary Tree BFS**
+    * [**Level Order Traversal**](https://faculty.cs.niu.edu/\~mcmahon/CS241/Notes/Data\_Structures/binary\_tree\_traversals.html)
+      * [ ] **M** [**102. Binary Tree Level Order Traversal**](https://leetcode.com/problems/binary-tree-level-order-traversal/)
+  * **(Unweighted, Undirected) Graph BFS**
+    * [**Shortest Path in a Binary Matrix - LeetCode 1091 - Python**](https://www.youtube.com/watch?v=YnxUdAO7TAo)
+    * [**Breadth First Search - Finding Shortest Paths in Unweighted Graphs**](https://www.youtube.com/watch?v=T\_m27bhVQQQ)
+      * [ ] **M** [**1091. Shortest Path in Binary Matrix**](https://leetcode.com/problems/shortest-path-in-binary-matrix/)
+{% endhint %}
+
 * Prerequisite
   * [#queue](rcs.101.a.md#queue "mention")
-* Learning Material
-  * [**Level Order Traversal**](https://faculty.cs.niu.edu/\~mcmahon/CS241/Notes/Data\_Structures/binary\_tree\_traversals.html)
+  * [#hash-map](rcs.101.b.md#hash-map "mention")
+  * [#basic-graphs](rcs.101.c.md#basic-graphs "mention")
 * Practices
-  * [ ] **M** [**102. Binary Tree Level Order Traversal**](https://leetcode.com/problems/binary-tree-level-order-traversal/)
-  * [ ] **M** [**854 · Closest Leaf in a Binary Tree**](https://www.lintcode.com/problem/854/)
+  * [ ] **M** [**854 · Closest Leaf in a Binary Tree**](https://www.lintcode.com/problem/854/) (tricky)
+  * [ ] **M** [**1302. Deepest Leaves Sum**](https://leetcode.com/problems/deepest-leaves-sum/)&#x20;
 * Graduation Challenge
-  * [ ] **M** [**1302. Deepest Leaves Sum**](https://leetcode.com/problems/deepest-leaves-sum/)
-  * [ ] **M** [**103. Binary Tree Zigzag Level Order Traversal**](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
-
-{% hint style="warning" %}
-**BFS - Shortest Path Finding**
-
-> This is an extension of the BFS topic (as we've not included in the original scope)
->
-> Shortest Path Finding in an Unweighted Graph is considered a CS classic in BFS. Thus we've reserved a spot for it.&#x20;
-
-* Learning Material
-  * [**Shortest Path in a Binary Matrix - LeetCode 1091 - Python**](https://www.youtube.com/watch?v=YnxUdAO7TAo)
-  * [**Breadth First Search - Finding Shortest Paths in Unweighted Graphs**](https://www.youtube.com/watch?v=T\_m27bhVQQQ)
-* Practices
-  * [ ] **M** [**1091. Shortest Path in Binary Matrix**](https://leetcode.com/problems/shortest-path-in-binary-matrix/)
   * [ ] **M** [**3719 · Shortest Path to Get Bubble Tea**](https://www.lintcode.com/problem/3719)
-{% endhint %}
+  * [ ] **M** [**103. Binary Tree Zigzag Level Order Traversal**](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
 
 ***
 
