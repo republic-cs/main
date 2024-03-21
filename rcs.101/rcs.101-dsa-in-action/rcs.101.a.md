@@ -82,6 +82,18 @@ Stack 是電腦科學中最為基礎的資料結構，擁有 LIFO (Last In, Firs
   * [ ] **M** [**230. Kth Smallest Element in a BST**](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
   * [ ] **M** [**690. Employee Importance**](https://leetcode.com/problems/employee-importance/)
 
+{% hint style="warning" %}
+Appendix: 3rd way the traverse a binary tree other than stack or recursion
+
+* Learning Material
+  * [**解法三 Morris Traversal**](https://leetcode.wang/leetCode-94-Binary-Tree-Inorder-Traversal.html)
+  * [**CPP Morris Traversal**](https://leetcode.com/problems/binary-tree-inorder-traversal/solutions/148939/CPP-Morris-Traversal/)
+  * [**L37. Morris Traversal | Preorder | Inorder | C++ | Java**](https://www.youtube.com/watch?v=80Zug6D1\_r4)
+* Practices
+  * [ ] **M** [**114. Flatten Binary Tree to Linked List**](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) (expecting pre-order outcome
+  * [ ] **M** [**915 · Inorder Predecessor in BST**](https://www.lintcode.com/problem/915) (implement using Morris Traversal
+{% endhint %}
+
 ***
 
 ## Queue
