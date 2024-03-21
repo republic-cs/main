@@ -92,6 +92,7 @@ Appendix: 3rd way the traverse a binary tree other than stack or recursion
 * Practices
   * [ ] **M** [**114. Flatten Binary Tree to Linked List**](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) (expecting pre-order outcome
   * [ ] **M** [**915 · Inorder Predecessor in BST**](https://www.lintcode.com/problem/915) (implement using Morris Traversal
+  * [ ] **M** [**430. Flatten a Multilevel Doubly Linked List**](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) (conceptually similar
 {% endhint %}
 
 ***
