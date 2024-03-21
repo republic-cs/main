@@ -23,17 +23,19 @@ layout:
 
 <figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="success" %}
 ## What is RCS.101 for?
 
+{% hint style="success" %}
 [Broken link](broken-reference "mention")是一份旨在培養軟體工程師對 「資料結構」 與 「演算法」 實作精熟程度的 roadmap。
 
 在 **RCS.101** 的四個模組中，我們編排了一系列在系統開發、學習 standard library 必不可少的的經典主題，並搭配一系列 LeetCode/LintCode 上的 Easy \~ Medium 題目，來鍛鍊實作能力。
 {% endhint %}
 
-{% hint style="danger" %}
+***
+
 ## RCS.101 Doesn't Cover...
 
+{% hint style="danger" %}
 [Broken link](broken-reference "mention") 相較於其他屬性各異的教材 (Ex. [Introduction to Algorithms](https://www.google.com/search?sca\_esv=f917e2823a31333e\&cs=0\&sxsrf=ACQVn0\_S1P6W4zIOOB4PPxATZqsCBEhlNQ:1707816716369\&q=Introduction+to+Algorithms\&stick=H4sIAAAAAAAAAONgVeLUz9U3sEwvMzMwEk7MSc8vyizJyC1WKEmtKEnKz88-xYhQcIqRVz9d39CwJLkqxbKq2BDGLzbPKzPPSc-B8dNys0qSKipSTjFygfSaGlRVFltAOXmmKVmGRjCVSebFRQa5pilI\_ALDipQqqGKTqhxLE0uYZFFVoXG8oQHQGh4Q38gkyyS3ON0cJp1lUpBlmlKW84jxHiO3wMsf94SlrjBOWnPyGuNZRi4Bn\_z84tScyqDUnMSS1JSQfCFRLjbXvJLMkkohbilOLnaQdVkFZUKuXNzBqSUh-b75KZlplUJmQiZcnL6puUmpRcX-aULqXFzO-Tk5qcklmfl5QpJS4lyi-slwAX1YoBUrRRq57bo07RybgyADEAhJBztIaWgJcrG55OcmZuYJipUdUfH9U22vJczFEZJYkZ-Xn1spaP81-jxn2gl7JU5OoB6FnX8u22sxTGBibNq34hAbBwejAIMREwdDFQPPIlYpz7ySovyUUrC1CiX5Co7wmJvAxggAiOO8m9YBAAA\&sa=X\&ved=2ahUKEwifwuCFgaiEAxUPmVYBHbUaBtIQ7fAIegQIABAv) 或 [九章算法](https://www.jiuzhang.com/) )，將焦點著重在 「理解」 和 「充分熟悉」 經典的 DSA 實作。
 
 
@@ -52,9 +54,11 @@ layout:
 > * [Broken link](broken-reference "mention")
 > * [Broken link](broken-reference "mention")
 
-{% hint style="success" %}
+***
+
 ## As an Attendee
 
+{% hint style="success" %}
 由於此 roadmap 與 system programming 預期帶來的銜接，我們會主要推薦參與者使用 Rust、C++、Go，或任何一門非 [Just-in-time Compilation](https://zh.wikipedia.org/zh-tw/%E5%8D%B3%E6%99%82%E7%B7%A8%E8%AD%AF) 的程式語言來進行學習。
 
 
@@ -62,9 +66,11 @@ layout:
 採用較接近系統層的語言，是因為在開發過程中，benchmark CPU/memory 的用量都會較可控且容易。 許多經典的資料結構實作，也都是在系統層得到他的最大發揮。
 {% endhint %}
 
-{% hint style="info" %}
+***
+
 ## Notice
 
+{% hint style="info" %}
 * 想與社群一起參與學習這份 roadmap 的人，可以去 [RePublic of CS 的 Discord Server](https://discord.com/invite/cvbU8PYAYx)，領取 **`@rcs.101 ⌛`** 的身份組。
 * `一起完整參與完`[Broken link](broken-reference "mention")完整 classroom 的夥伴，可以獲得 **`@rcs.101 🏅`** 的身份組。
 
