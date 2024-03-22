@@ -60,7 +60,7 @@ layout:
 * Practices
   * [ ] **E** [**83. Remove Duplicates from Sorted List**](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
   * [ ] **E** [**206. Reverse Linked List**](https://leetcode.com/problems/reverse-linked-list/)
-  * [ ] **M** [**92. Reverse Linked List II**](https://leetcode.com/problems/reverse-linked-list-ii/) **(with 1-pass)**
+  * [ ] **M** [**92. Reverse Linked List II**](https://leetcode.com/problems/reverse-linked-list-ii/) (with 1-pass)
 * Graduation Challenge
   * [ ] **M** [**2. Add Two Numbers**](https://leetcode.com/problems/add-two-numbers/)
 
@@ -104,8 +104,8 @@ Recursive algorithms involve a function calling itself in order to solve a small
 {% endhint %}
 
 * Practices
-  * [ ] **E** [**206. Reverse Linked List**](https://leetcode.com/problems/reverse-linked-list/) **(solve using recursion)**
-  * [ ] **E** [**119. Pascal's Triangle II**](https://leetcode.com/problems/pascals-triangle-ii/) **(solve using recursion)**
+  * [ ] **E** [**206. Reverse Linked List**](https://leetcode.com/problems/reverse-linked-list/) (solve using recursion)
+  * [ ] **E** [**119. Pascal's Triangle II**](https://leetcode.com/problems/pascals-triangle-ii/) (solve using recursion)
   * [ ] **E** [**70. Climbing Stairs**](https://leetcode.com/problems/climbing-stairs/)
 * Graduation Challenge
   * [ ] **M** [**95. Unique Binary Search Trees II**](https://leetcode.com/problems/unique-binary-search-trees-ii/)

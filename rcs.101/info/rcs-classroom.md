@@ -17,7 +17,7 @@ layout:
     visible: true
 ---
 
-# 🏛 RCS Classroom
+# 🏛️ RCS Classroom
 
 ## 機構教育 vs. 自學
 
@@ -26,7 +26,7 @@ layout:
 我們是很難找到一位 **純機構教育** 或 **純自學** 的人，畢竟所有人在生長階段中多少都會接觸 one or another。同時，這兩種學習型態又有各自的特性。
 
 {% hint style="success" %}
-## 機構教育
+#### 機構教育
 
 1. (優點) 有明確的短中期課綱，也有強制性讓你完課
 2. (優點) 同學、助教等角色，滿足了發問、社交的需求
@@ -52,7 +52,7 @@ layout:
 大至線上課程的課綱、教學內容、筆記、付費期刊，小至 [LeetCode Premium](https://leetcode.com/subscribe/)、[NeetCode Pro](https://neetcode.io/pro)，許多還是走回了 [Knowledge Paywalled](https://www.vox.com/the-highlight/2019/6/3/18271538/open-access-elsevier-california-sci-hub-academic-paywalls) 的老路。
 
 {% hint style="danger" %}
-## Knowledge Paywalled
+#### Knowledge Paywalled
 
 顯而易見，將 「知識」 本身產品化，會有以下的負面效應：
 
@@ -78,13 +78,13 @@ layout:
 而 RePublic of CS 的各項設計，都能對應到以上價值：
 
 {% hint style="success" %}
-### **結構化的課綱**
+#### **結構化的課綱**
 
 社群維護的 [rcs-open-course.md](rcs-open-course.md "mention")，會將無序的知識整理成一門 「學科」，使得學習能有系統性。
 {% endhint %}
 
 {% hint style="success" %}
-### 對學科的想像
+#### 對學科的想像
 
 [#what-does-do-differently](rcs-open-course.md#what-does-do-differently "mention") 介紹到，各個 [rcs-open-course.md](rcs-open-course.md "mention") 未來都是能夠互相銜接，最終在應用、實作上都發揮用處。
 
@@ -92,13 +92,13 @@ layout:
 {% endhint %}
 
 {% hint style="success" %}
-### 教師指導
+#### 教師指導
 
 透過 [rcs-mentor-ji-hua.md](rcs-mentor-ji-hua.md "mention")，此社群會在中長期培育一群 **「有能力設計課綱」** 、 **「領導力與知識兼備」** 的人才。
 {% endhint %}
 
 {% hint style="success" %}
-### 同學、社群支持
+#### 同學、社群支持
 
 每一門規劃中的 [rcs-open-course.md](rcs-open-course.md "mention")，都會同時有 YouTube/Twitch 直播來作為 office hour，分享課綱與自學中的疑問。
 
