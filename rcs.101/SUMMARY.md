@@ -10,34 +10,34 @@
 * [🙋 (WIP) 如何參與學習？](info/wip-ru-he-can-yu-xue-xi/README.md)
   * [⏳ RCS.101 x Miters (24 Q2)](info/wip-ru-he-can-yu-xue-xi/rcs.101-x-miters-24-q2.md)
 
-## ⚒️ RCS.101 - DSA In Action
+## ⚒️ RCS.101
 
-* [§](rcs.101-dsa-in-action/enrolment.md)
-* [RCS.101.a](rcs.101-dsa-in-action/rcs.101.a.md)
-* [RCS.101.b](rcs.101-dsa-in-action/rcs.101.b.md)
-* [RCS.101.c](rcs.101-dsa-in-action/rcs.101.c.md)
-* [RCS.101.d](rcs.101-dsa-in-action/rcs.101.d.md)
-* [¶](rcs.101-dsa-in-action/graduation.md)
+* [§ DSA In Action](rcs.101/enrolment.md)
+* [RCS.101.a](rcs.101/rcs.101.a.md)
+* [RCS.101.b](rcs.101/rcs.101.b.md)
+* [RCS.101.c](rcs.101/rcs.101.c.md)
+* [RCS.101.d](rcs.101/rcs.101.d.md)
+* [¶](rcs.101/graduation.md)
 
 ## 📚 RCS.102
 
-* [§ Algorithm Design & Analysis](rcs.102/algorithm-design-and-analysis.md)
+* [§ Algorithm Design & Analysis](rcs.102-algorithm-design-and-analysis/wip.md)
 
-## 🧵 RCS.103 SYSTEM PROGRAMMING
+## 🧵 RCS.103
 
-* [§ (WIP)](rcs.103-system-programming/wip.md)
+* [§ System Programming](rcs.103/system-programming.md)
 
-## 🦀 RCS.201 RUST
+## 🦀 RCS.201
 
-* [(WIP)](rcs.201-rust/wip.md)
+* [§ Rust](rcs.201/rust.md)
 
-## 🧱 RCS.301 SW ARCHITECTURE
+## 🧱 RCS.301
 
-* [(WIP)](rcs.301-sw-architecture/wip.md)
+* [§ Software Architecture](rcs.301/software-architecture.md)
 
-## 🏰 RCS.302 WEB SYSTEM DESIGN
+## 🏰 RCS.302
 
-* [§ (WIP)](rcs.302-web-system-design/wip.md)
+* [§  Web System Design](rcs.302/web-system-design.md)
 
 ## 📣 MEDIA
 

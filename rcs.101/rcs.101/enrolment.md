@@ -6,7 +6,7 @@ layout:
     visible: true
     size: full
   title:
-    visible: false
+    visible: true
   description:
     visible: false
   tableOfContents:
@@ -17,9 +17,7 @@ layout:
     visible: true
 ---
 
-# §
-
-## RCS.101 - DSA In Action
+# § DSA In Action
 
 <figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 

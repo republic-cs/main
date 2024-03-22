@@ -17,9 +17,9 @@ layout:
     visible: true
 ---
 
-# § (WIP)
+# §  Web System Design
 
-{% hint style="info" %}
+{% hint style="warning" %}
 此 open course [Broken link](broken-reference "mention") 還在 backlog 當中，尚未被規劃
 
 

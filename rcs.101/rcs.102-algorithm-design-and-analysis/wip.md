@@ -17,7 +17,7 @@ layout:
     visible: false
 ---
 
-# § (WIP)
+# § Algorithm Design & Analysis
 
 {% hint style="warning" %}
 此 open course [Broken link](broken-reference "mention") 還在 backlog 當中，尚未被規劃
