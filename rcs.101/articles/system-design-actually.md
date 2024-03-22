@@ -100,9 +100,15 @@ layout:
 {% hint style="danger" %}
 在 [System Design Interview: A Step-By-Step Guide](https://www.youtube.com/watch?v=i7twT3x5yv8) 的宣揚中，營造了一個幻想：
 
-* 認為軟體行業內的 Staff/Architect 全都是腦中只關注 Hard Skills, Non-functional Requirement 一群人。
 
-但今天在任何型態的軟體公司中，去與團隊內的 Staff/Architect 訪談。筆者會發現，Staff/Architect 的實際模樣，和上述的幻想是完全相悖的。每個能被 promote 到 Staff/Architect 的工程師，在商業策略、宏觀的產品理解、使用情境上，全都比一般的工程師有過之而無不及。
+
+> 認為軟體行業內的 Staff/Architect Software Engineer，全都是腦中只關注 Hard Skills, Non-functional Requirement 一群人。
+
+
+
+但今天在任何型態的軟體公司中，去與團隊內的 Staff/Architect 訪談。筆者會發現，Staff/Architect 的實際模樣，和上述的幻想是完全相悖的。
+
+每個能被 promote 到 Staff/Architect 的工程師，在商業策略、宏觀的產品理解、使用情境上，全都比一般的工程師有過之而無不及。
 
 
 
@@ -112,7 +118,7 @@ layout:
 
 並且一個軟體產品在本質上能帶來使用者價值與獲利，功能性需求是佔了絕大多數的貢獻。
 
-因此，在任何的產品開發路徑上，架構很大程度都是從 **功能性需求** 的 **「分析」**、**「開發」**、**「驗證」**、**「擴充」** 來實現的。
+在任何的產品開發路徑上，架構很大程度都是從 **功能性需求** 的 **「分析」**、**「開發」**、**「驗證」**、**「擴充」** 來實現的。
 
 因此，在任何場景的系統、架構設計中，從滿足功能性需求的路徑，去逐步納入效能、穩定性上的考量。才能確保架構師們不 over-design，也設計得精準。
 {% endhint %}
