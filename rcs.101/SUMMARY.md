@@ -19,9 +19,9 @@
 * [RCS.101.d](rcs.101-dsa-in-action/rcs.101.d.md)
 * [¶](rcs.101-dsa-in-action/graduation.md)
 
-## 📚 RCS.102 - Algorithm Design & Analysis
+## 📚 RCS.102
 
-* [§ (WIP)](rcs.102-algorithm-design-and-analysis/wip.md)
+* [§ Algorithm Design & Analysis](rcs.102/algorithm-design-and-analysis.md)
 
 ## 🧵 RCS.103 SYSTEM PROGRAMMING
 
