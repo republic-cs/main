@@ -29,7 +29,7 @@ layout:
 而 System Design Interview ([系統設計面試](https://github.com/donnemartin/system-design-primer))，由於他能涵蓋的深度與廣度十分充足，也逐漸成為公認能鑑定 senior engineer 的標準。
 
 {% hint style="danger" %}
-## However
+**However**
 
 現下的軟體工程行業，對 system design 究竟代表什麼能力、Jr/New Grad 如何逐步學習 system design，是沒有共識的。
 
@@ -60,7 +60,7 @@ layout:
 <table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (4).png" alt="" data-size="original"></td><td><em>"For system design interviews, we suggest focusing on scale and performance"</em></td><td></td></tr><tr><td><img src="../.gitbook/assets/image (1) (1) (1).png" alt="" data-size="original"></td><td><em>"These non-functional requirements are what make our design unique and challenging"</em></td><td></td></tr><tr><td><img src="../.gitbook/assets/image (4) (1).png" alt="" data-size="original"></td><td><em>"For example, designing a Twitter clone to support a few hundred user is easy"</em></td><td></td></tr><tr><td><img src="../.gitbook/assets/image (5).png" alt="" data-size="original"></td><td><img src="../.gitbook/assets/image (6).png" alt="" data-size="original"></td><td><em>"The more senior the role is, the more important it is for us to demonstrate our ability to handle to non-functional requirements"</em></td></tr></tbody></table>
 
 {% hint style="danger" %}
-#### 在琢磨這些資源的陳述方式後，會發現包含了以下的主旋律
+**在琢磨這些資源的陳述方式後，會發現包含了以下的主旋律**
 
 1. 在系統設計、架構中，效能與可擴充性是最重要的
 2. 只有盡可能展現出自己對 **非功能性需求** (non-functional requirement) 的硬理解，才像個 senior
@@ -79,10 +79,9 @@ layout:
 
 ## [Interview-Style System Design](https://republic-of-cs.gitbook.io/e/rcs.302-web-system-design/system-design-actually#zai-zhuo-mo-zhe-xie-zi-yuan-de-chen-shu-fang-shi-hou-hui-fa-xian-bao-han-le-yi-xia-de-zhu-xuan-lv), 會帶來什麼問題？
 
-<details>
+#### ❌ 選擇追求 Grand Design
 
-<summary>❌ 選擇追求 Grand Design</summary>
-
+{% hint style="danger" %}
 如果在系統設計實務、學習時，實作者只專注在 **快速、立即的提出 HLD**，而非逐步的發展解法。
 
 這會導致實作者最終的設計提案，及學習的過程，都產生 **「去脈絡化」** 的成果。而這會導致：
@@ -94,13 +93,11 @@ layout:
 
 * 這樣的架構師，傾向在初期規劃就提出一個完備、複雜、又聰明的系統設計。
 * 此舉會導致其他專案成員難以參透和證偽諸多的初期決策。最終使整個系統更難在未來有效的融入新的功能/非功能性考量。
+{% endhint %}
 
-</details>
+#### ❌ 忽略**功能性需求** (functional requirement)
 
-<details>
-
-<summary>❌ 忽略<strong>功能性需求</strong> (functional requirement)</summary>
-
+{% hint style="danger" %}
 在 [System Design Interview: A Step-By-Step Guide](https://www.youtube.com/watch?v=i7twT3x5yv8) 的宣揚中，營造了一個幻想：
 
 * 認為軟體行業內的 Staff/Architect 全都是腦中只關注 Hard Skills, Non-functional Requirement 一群人。
@@ -116,18 +113,15 @@ layout:
 因此，在任何的產品開發路徑上，架構很大程度都是從 **功能性需求** 的 **「分析」**、**「開發」**、**「驗證」**、**「擴充」** 來實現的。
 
 因此，在任何場景的系統、架構設計中，從滿足功能性需求的路徑，去逐步納入效能、穩定性上的考量。才能確保架構師們不 over-design，也設計得精準。
+{% endhint %}
 
-</details>
+#### ❌ 忽略 Profiling 與 Benchmarking
 
-<details>
-
-<summary>❌ 忽略 Profiling 與 Benchmarking</summary>
-
+{% hint style="danger" %}
 諸如 QPS/Bandwidth 的非功能性需求，在實務上都不是能夠輕易的去做出 dare assumption 的。
 
 多數時候，都得從使用者情境、Telemetry (系統遙測) 得到的效能觀察、作出假設與實驗，才能知道架構的預期與解法該往怎麼方向發展。而這才是實務上分析與理解 non-functional requirement 的標準解決流程。
-
-</details>
+{% endhint %}
 
 ## 結語：如何克服 「System Design 學習障礙」
 
@@ -136,7 +130,7 @@ layout:
 而克服 System Design 這門知識混亂的學問，筆者認為可以從兩個方向進行主題式的學習。
 
 {% hint style="success" %}
-## Software Architecture
+**Software Architecture**
 
 <img src="../.gitbook/assets/image (2) (1).png" alt="" data-size="original">
 
@@ -156,7 +150,7 @@ layout:
 {% endhint %}
 
 {% hint style="success" %}
-## System Programming
+**System Programming**
 
 ![](<../.gitbook/assets/image (3).png>)
 
