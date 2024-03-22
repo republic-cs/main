@@ -22,14 +22,14 @@ layout:
 ## RCS.101 - Graduation
 
 {% hint style="success" %}
-## 完成 RCS.101 後
+#### 完成 RCS.101 後
 
 * [ ] 所有 [Broken link](broken-reference "mention") 主題有涵蓋的 LeetCode Easy，都有能力解出來。
 * [ ] 所有 [Broken link](broken-reference "mention") 主題有涵蓋的 LeetCode Medium 題目，都有能力至破題，**辨認出自身缺乏的任何 DSA 新知，並找出題目來自主練習。**
 {% endhint %}
 
 {% hint style="info" %}
-## rcs.101.ω
+#### rcs.101.ω
 
 > 此模組存放了一系列結合 [Broken link](broken-reference "mention") 各經典主題的延伸應用，這些延伸應用題目可能會比較 tricky，但和經典的 real-world problem 都有所連結，因此我們將其整理在這。
 
@@ -45,7 +45,7 @@ layout:
 {% endhint %}
 
 {% hint style="info" %}
-## rcs.101.ψ
+#### rcs.101.ψ
 
 * [**MST (Minimum Spanning Tree)**](https://leetcodethehardway.com/tutorials/graph-theory/kruskals-algorithm)
   * [ ] **(Kruskal's Algorithm)**

@@ -24,9 +24,9 @@ layout:
 
 ## Introduction
 
-在經歷過 2023 \~ 2024 的 [Tech Layoff](https://www.youtube.com/watch?v=j6DG1NqgkSU)，現今軟體就業市場的[要求變的十分的高](https://www.youtube.com/watch?v=j6DG1NqgkSU)。
+在經歷過 2023 \~ 2024 的 [**Tech Layoff**](https://www.youtube.com/watch?v=j6DG1NqgkSU)，現今軟體就業市場的 [**要求變的十分的高**](https://www.youtube.com/watch?v=j6DG1NqgkSU)。
 
-而 System Design Interview ([系統設計面試](https://github.com/donnemartin/system-design-primer))，由於他能涵蓋的深度與廣度十分充足，也逐漸成為公認能鑑定 senior engineer 的標準。
+而 System Design Interview ([**系統設計面試**](https://github.com/donnemartin/system-design-primer))，由於他能涵蓋的深度與廣度十分充足，也逐漸成為公認能鑑定 senior engineer 的標準。
 
 {% hint style="warning" %}
 #### **However**
@@ -104,6 +104,8 @@ layout:
 
 但今天在任何型態的軟體公司中，去與團隊內的 Staff/Architect 訪談。筆者會發現，Staff/Architect 的實際模樣，和上述的幻想是完全相悖的。每個能被 promote 到 Staff/Architect 的工程師，在商業策略、宏觀的產品理解、使用情境上，全都比一般的工程師有過之而無不及。
 
+
+
 #### Why is Functional Requirement Important?
 
 在任何的軟體公司的開發上，產品都是從 MVP (最小可行產品)，逐步的發展到一個成熟的盈利功能。這也與架構的演進相互應。
@@ -120,12 +122,14 @@ layout:
 {% hint style="danger" %}
 諸如 QPS/Bandwidth 的非功能性需求，在實務上都不是能夠輕易的去做出 dare assumption 的。
 
-多數時候，都得從使用者情境、Telemetry (系統遙測) 得到的效能觀察、作出假設與實驗，才能知道架構的預期與解法該往怎麼方向發展。而這才是實務上分析與理解 non-functional requirement 的標準解決流程。
+多數時候，都得從使用者情境、Telemetry (系統遙測) 得到的效能觀察、作出假設與實驗，才能知道架構的預期與解法該往怎麼方向發展。
+
+而這才是實務上分析與理解 non-functional requirement 的標準解決流程。
 {% endhint %}
 
 ## 結語：如何克服 「System Design 學習障礙」
 
-在此文中，描述了網路上的 System Design 學習資源，以及常見的 [**認知誤區**](https://republic-of-cs.gitbook.io/e/rcs.302-web-system-design/system-design-actually#zai-zhuo-mo-zhe-xie-zi-yuan-de-chen-shu-fang-shi-hou-hui-fa-xian-bao-han-le-yi-xia-de-zhu-xuan-lv) 會如何讓 system design 的學習事倍功半。
+在此文中，描述了網路上的 System Design 學習資源，以及常見的 [**認知誤區**](https://republic-of-cs.gitbook.io/e/rcs.302-web-system-design/system-design-actually#zai-zhuo-mo-zhe-xie-zi-yuan-de-chen-shu-fang-shi-hou-hui-fa-xian-bao-han-le-yi-xia-de-zhu-xuan-lv) 會如何讓 System Design 的學習事倍功半。
 
 而克服 System Design 這門知識混亂的學問，筆者認為可以從兩個方向進行主題式的學習。
 
@@ -138,7 +142,7 @@ layout:
 
 
 
-以下的幾個主題，及[ Architecture, Actually ](https://alxtz.substack.com/p/architecture-actually-w0)有提供數個學習方向：
+以下的幾個主題，及[ **Architecture, Actually** ](https://alxtz.substack.com/p/architecture-actually-w0)有提供數個學習方向：
 
 * Domain Driven Design
 * OOAD (Object-Oriented Analysis and Design)
@@ -146,7 +150,7 @@ layout:
 
 
 
-讀者的練習目標該放在**能做出精準、系統性的做出 Feature Modeling**，並能高效的草稿出滿足所有功能性需求的 design MVP。
+讀者的練習目標該放在 **能做出精準、系統性的做出 Feature Modeling**，並能高效的草稿出滿足所有功能性需求的 design MVP。
 {% endhint %}
 
 {% hint style="success" %}
@@ -159,5 +163,5 @@ layout:
 因此，針對效能、穩定性、一致性等問題的解法，學習者可以將眼光放在熟讀以上的經典電腦科學知識。
 
 \
-並以此延伸，透過自己實作經典的系統元件 (如 Redis, Load Balance, BTree)，來熟知元件真正的效能瓶頸，解法和如何量測。(RCS.103 System Programming 就是希望能編排出能滿足以上能力的練習)&#x20;
+並以此延伸，透過自己實作經典的系統元件 (如 Redis, Load Balance, BTree)，來熟知元件真正的效能瓶頸，解法和如何量測。([Broken link](broken-reference "mention") 就是希望能編排出能滿足以上能力的練習)&#x20;
 {% endhint %}

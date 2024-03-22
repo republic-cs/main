@@ -21,7 +21,7 @@ layout:
 
 ## 機構教育 vs. 自學
 
-現今所有人學習一門學科的方式，可以粗略分為 **機構教育** (大學、補習班、bootcamp) 和 **自學** (自己看 textbook、公開課、youtube)。
+現今所有人學習一門學科的方式，可以粗略分為 **機構教育** (大學、補習班、Bootcamp) 和 **自學** (自己看 Textbook、公開課、YouTube)。
 
 我們是很難找到一位 **純機構教育** 或 **純自學** 的人，畢竟所有人在生長階段中多少都會接觸 one or another。同時，這兩種學習型態又有各自的特性。
 
@@ -49,7 +49,7 @@ layout:
 
 但多數人經營知識經濟的方式，有一點是會與長久發展產生必然衝突的，那就是 **「嘗試把知識本身買斷」** 。
 
-大至線上課程的課綱、教學內容、筆記、付費期刊，小至 [LeetCode Premium](https://leetcode.com/subscribe/)、[NeetCode Pro](https://neetcode.io/pro)，許多還是走回了 [Knowledge Paywalled](https://www.vox.com/the-highlight/2019/6/3/18271538/open-access-elsevier-california-sci-hub-academic-paywalls) 的老路。
+大至線上課程的課綱、教學內容、筆記、付費期刊，小至 [**LeetCode Premium**](https://leetcode.com/subscribe/)、[**NeetCode Pro**](https://neetcode.io/pro)，許多還是走回了 [**Knowledge Paywalled**](https://www.vox.com/the-highlight/2019/6/3/18271538/open-access-elsevier-california-sci-hub-academic-paywalls) 的老路。
 
 {% hint style="danger" %}
 #### Knowledge Paywalled
@@ -63,7 +63,7 @@ layout:
 3. 內容創作者在中長期，無法和他的成長的同樣快
 {% endhint %}
 
-而這其中，筆者認為，面向面試的知識經濟是個最反面的例子，大量的 Knowledge Paywalled 阻礙了群眾對學習的系統化認知、普遍稀缺的系統性理解，又讓形式少了進化的的 incentive，甚至 [Paywall 本身都可以被美化成有 ROI 的 Investment](https://www.teamblind.com/post/Is-leetcode-premium-worth-it-ECSF7OzX)。
+而這其中，筆者認為，面向面試的知識經濟是個最反面的例子，大量的 Knowledge Paywalled 阻礙了群眾對學習的系統化認知、普遍稀缺的系統性理解，又讓形式少了進化的的 incentive，甚至 [**Paywall 本身都可以被美化成有 ROI 的 Investment**](https://www.teamblind.com/post/Is-leetcode-premium-worth-it-ECSF7OzX)。
 
 而如何解決這件事呢？筆者認為解法是嘗試解構 「機構教育」 的核心價值，並找出真正有售賣價值 vs. 該被公開的部分。
 
@@ -72,7 +72,7 @@ layout:
 {% hint style="info" %}
 上文提到，機構教育最大的價值是 **結構化的課綱**、**對學科的想像**、**教師指導** 和 **同學**
 
-這其中，筆者認為唯一、最有內在與售賣價值的是 **「教師指導」** ，其他要素都與 paywalled 互相衝突且損害長期利益。
+這其中，筆者認為唯一、最有內在與售賣價值的是 **「教師指導」** ，其他要素都與 Paywalled 互相衝突且損害長期利益。
 {% endhint %}
 
 而 RePublic of CS 的各項設計，都能對應到以上價值：
@@ -94,20 +94,20 @@ layout:
 {% hint style="success" %}
 #### 教師指導
 
-透過 [rcs-mentor-ji-hua.md](rcs-mentor-ji-hua.md "mention")，此社群會在中長期培育一群 **「有能力設計課綱」** 、 **「領導力與知識兼備」** 的人才。
+透過 [rcs-mentor-ji-hua-soon.md](rcs-mentor-ji-hua-soon.md "mention")，此社群會在中長期培育一群 **「有能力設計課綱」** 、 **「領導力與知識兼備」** 的人才。
 {% endhint %}
 
 {% hint style="success" %}
 #### 同學、社群支持
 
-每一門規劃中的 [rcs-open-course.md](rcs-open-course.md "mention")，都會同時有 YouTube/Twitch 直播來作為 office hour，分享課綱與自學中的疑問。
+每一門規劃中的 [rcs-open-course.md](rcs-open-course.md "mention")，都會同時有 YouTube/Twitch 直播來作為 Office Hour，分享課綱與自學中的疑問。
 
 ![](<../.gitbook/assets/image (18).png>)&#x20;
 
-這些直播平台與 Discord 上的 [rcs-forum.md](rcs-forum.md "mention")，筆者希望提供 classmate/社群支持系統的主要形式。
+這些直播平台與 Discord 上的 [rcs-forum-soon.md](rcs-forum-soon.md "mention")，筆者希望提供 Classmate/社群支持系統的主要形式。
 {% endhint %}
 
-透過 [rcs-open-course.md](rcs-open-course.md "mention"), [rcs-classroom.md](rcs-classroom.md "mention"), [rcs-forum.md](rcs-forum.md "mention") 和 [rcs-mentor-ji-hua.md](rcs-mentor-ji-hua.md "mention")，我們相信就能兼顧機構教育與自學各自的優點，讓參與者能學習自主的同時，也有效率的鑽研的系統化、深度的 Computer Science 學科。
+透過 [rcs-open-course.md](rcs-open-course.md "mention"), [rcs-classroom.md](rcs-classroom.md "mention"), [rcs-forum-soon.md](rcs-forum-soon.md "mention") 和 [rcs-mentor-ji-hua-soon.md](rcs-mentor-ji-hua-soon.md "mention")，我們相信就能兼顧機構教育與自學各自的優點，讓參與者能學習自主的同時，也有效率的鑽研的系統化、深度的 Computer Science 學科。
 
 
 
