@@ -24,7 +24,7 @@ layout:
 ## What is RCS.101 for?
 
 {% hint style="success" %}
-[Broken link](broken-reference "mention")是一份旨在培養軟體工程師對 「資料結構」 與 「演算法」 實作精熟程度的 roadmap。
+[Broken link](broken-reference "mention") 是一份旨在培養軟體工程師對 「資料結構」 與 「演算法」 實作精熟程度的 roadmap。
 
 在 **RCS.101** 的四個模組中，我們編排了一系列在系統開發、學習 standard library 必不可少的的經典主題，並搭配一系列 LeetCode/LintCode 上的 Easy \~ Medium 題目，來鍛鍊實作能力。
 {% endhint %}
@@ -38,7 +38,7 @@ layout:
 
 
 
-因此，[Broken link](broken-reference "mention")有以下的特色：
+因此，[Broken link](broken-reference "mention") 有以下的特色：
 
 
 
@@ -70,7 +70,7 @@ layout:
 
 {% hint style="info" %}
 * 想與社群一起參與學習這份 roadmap 的人，可以去 [RePublic of CS 的 Discord Server](https://discord.com/invite/cvbU8PYAYx)，領取 **`@rcs.101 ⌛`** 的身份組。
-* `一起完整參與完`[Broken link](broken-reference "mention")完整 classroom 的夥伴，可以獲得 **`@rcs.101 🏅`** 的身份組。
+* `一起完整參與完`[Broken link](broken-reference "mention") 完整 classroom 的夥伴，可以獲得 **`@rcs.101 🏅`** 的身份組。
 
 
 
@@ -82,5 +82,5 @@ layout:
 * <mark style="color:red;">**務必實作完所有的 Lab**</mark>，才能視為完成了該主題。
 * 在練習實作時，<mark style="color:red;">**使用  「本地編輯器開發」  和  「用單元測試描述測資」  來進行開發**</mark> (而非採用 online editor)。
   * 這是基於 [Broken link](broken-reference "mention") 希望能以此銜接 [Broken link](broken-reference "mention") 在開發與偵錯時的實體環境。
-* 在解題時，<mark style="color:red;">**write out loud、white-boarding、dry run**</mark>，儘管在 [Broken link](broken-reference "mention")才會比較要求。但我們也鼓勵參與者用這些方式來讓自己更熟悉腦內構思的流程。
+* 在解題時，<mark style="color:red;">**write out loud、white-boarding、dry run**</mark>，儘管在 [Broken link](broken-reference "mention") 才會比較要求。但我們也鼓勵參與者用這些方式來讓自己更熟悉腦內構思的流程。
 {% endhint %}
