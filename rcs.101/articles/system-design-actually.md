@@ -42,7 +42,7 @@ layout:
 
 在此篇文章，筆者會試著探討對於現今 Jr/New Grad **「System Design 學習障礙」** 的觀察，網路上的學習資源有哪些優劣。
 
-最後，提出一個幾個筆者認為能讓學習 system design 事半功倍的 mindset，並希望最終能說服你 **「System Design 就等同 Problem Solving」** ，和 「**之所以 system design 會難，是因為多數人都沒把 Problem Solving 學好」**。
+最後，提出一個幾個筆者認為能讓學習 system design 事半功倍的 mindset，並希望最終能說服你 **System Design 就等同 Problem Solving**，和 **之所以 System Design 會難，是因為多數人都沒把 Problem Solving 學好**。
 
 ## System Design Interview Propaganda
 
@@ -57,16 +57,16 @@ layout:
 
 我們採用[ System Design Interview: A Step-By-Step Guide](https://www.youtube.com/watch?v=i7twT3x5yv8) 的幾個敘述，來試著傳達問題在哪：
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (4).png" alt="" data-size="original"></td><td><em>"For system design interviews, we suggest focusing on scale and performance"</em></td><td></td></tr><tr><td><img src="../.gitbook/assets/image (1) (1) (1).png" alt="" data-size="original"></td><td><em>"These non-functional requirements are what make our design unique and challenging"</em></td><td></td></tr><tr><td><img src="../.gitbook/assets/image (4) (1).png" alt="" data-size="original"></td><td><em>"For example, designing a Twitter clone to support a few hundred user is easy"</em></td><td></td></tr><tr><td><img src="../.gitbook/assets/image (5).png" alt="" data-size="original"></td><td><img src="../.gitbook/assets/image (6).png" alt="" data-size="original"></td><td><em>"The more senior the role is, the more important it is for us to demonstrate our ability to handle to non-functional requirements"</em></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (4).png" alt="" data-size="original"></td><td><em>For system design interviews, we suggest focusing on scale and performance</em></td><td></td></tr><tr><td><img src="../.gitbook/assets/image (1) (1) (1).png" alt="" data-size="original"></td><td><em>These non-functional requirements are what make our design unique and challenging</em></td><td></td></tr><tr><td><img src="../.gitbook/assets/image (4) (1).png" alt="" data-size="original"></td><td><em>For example, designing a Twitter clone to support a few hundred user is easy</em></td><td></td></tr><tr><td><img src="../.gitbook/assets/image (5).png" alt="" data-size="original"></td><td><img src="../.gitbook/assets/image (6).png" alt="" data-size="original"></td><td><em>The more senior the role is, the more important it is for us to demonstrate our ability to handle to non-functional requirements</em></td></tr></tbody></table>
 
 {% hint style="warning" %}
 #### **在琢磨這些資源的陳述方式後，會發現包含了以下的主旋律**
 
 1. 在系統設計、架構中，效能與可擴充性是最重要的
 2. 只有盡可能展現出自己對 **非功能性需求** (non-functional requirement) 的硬理解，才像個 senior
-3. **功能性需求** (functional requirement) 是系統設計的 easy parts
+3. **功能性需求** (functional requirement) 是系統設計的 Easy Parts
 4. 在系統設計時，應該**要能快速、立即的提出一個 HLD** (high level design)
-5. 相較於探討 profiling/benchmarking，設計者可以 **對 QPS/Bandwidth 輕易的訂下 assumption**
+5. 相較於探討 Profiling/Benchmarking，設計者可以 **對 QPS/Bandwidth 輕易的訂下 Assumption**
 {% endhint %}
 
 相對於上列的套路。筆者認為以下的哲學，才是實務和學習時，看待系統設計比較實際的方式：
@@ -74,7 +74,7 @@ layout:
 {% hint style="success" %}
 1. **遠離 Grand Design** (一眼定奪、天才且直覺產生的架構設計)，偏好 **逐步發展解法**
 2. 偏好從 **功能性需求** (functional requirement)  **作為設計的開頭**，再逐漸納入 **非功能性需求** (non-functional requirement) 和 **Constraints** (系統的 tradeoff, 取捨)
-3. **非功能性需求** (non-functional requirement) 的實現，必須要能基於 **Telemetry** 和 **Profiling** (效能量測) 的事實，並且 **深刻理解 infrastructure 背後的實作**。
+3. **非功能性需求** (non-functional requirement) 的實現，必須要能基於 **Telemetry** 和 **Profiling** (效能量測) 的事實，並且 **深刻理解 Infrastructure 背後的實作**。
 {% endhint %}
 
 ## [Interview-Style System Design](https://republic-of-cs.gitbook.io/e/rcs.302-web-system-design/system-design-actually#zai-zhuo-mo-zhe-xie-zi-yuan-de-chen-shu-fang-shi-hou-hui-fa-xian-bao-han-le-yi-xia-de-zhu-xuan-lv), 會帶來什麼問題？
