@@ -70,7 +70,7 @@ layout:
 
 {% hint style="info" %}
 * 想與社群一起參與學習這份 roadmap 的人，可以去 [RePublic of CS 的 Discord Server](https://discord.com/invite/cvbU8PYAYx)，領取 **`@rcs.101 ⌛`** 的身份組。
-* `一起完整參與完`[Broken link](broken-reference "mention") 完整 classroom 的夥伴，可以獲得 **`@rcs.101 🏅`** 的身份組。
+* 一起完整參與完 [Broken link](broken-reference "mention") 完整 classroom 的夥伴，可以獲得 **`@rcs.101 🏅`** 的身份組。
 
 
 
