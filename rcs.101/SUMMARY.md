@@ -38,7 +38,6 @@
 ## 🏰 RCS.302 WEB SYSTEM DESIGN
 
 * [§ (WIP)](rcs.302-web-system-design/wip.md)
-* [System Design, Actually](rcs.302-web-system-design/system-design-actually.md)
 
 ## 📣 MEDIA
 
@@ -48,3 +47,7 @@
 * [Discord Forum](https://discord.com/invite/cvbU8PYAYx)
 * [Become an Editor](https://app.gitbook.com/invite/lNrv9z1RRuVQwyKgfzwo/aMGUSOlBPuMXdDdg7TuZ)
 * [Resources](media/resources.md)
+
+## 📜 Articles
+
+* [System Design, Actually](articles/system-design-actually.md)

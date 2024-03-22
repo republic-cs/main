@@ -27,47 +27,47 @@ layout:
 
 <summary>DSA In Action <a data-mention href="broken-reference">Broken link</a></summary>
 
-## LeetCode The Hard Way
+#### LeetCode The Hard Way
 
 * [https://leetcodethehardway.com/](https://leetcodethehardway.com/)
 
-## LeetCode Explore
+#### LeetCode Explore
 
 * [https://leetcode.com/explore/](https://leetcode.com/explore/)
 
-## NeetCode.io Roadmap
+#### NeetCode.io Roadmap
 
 * [https://neetcode.io/roadmap](https://neetcode.io/roadmap)
 
-## LintCode Courses
+#### LintCode Courses
 
 * [https://www.lintcode.com/course/list/?tagId=865\&chargeStatus=-1](https://www.lintcode.com/course/list/?tagId=865\&chargeStatus=-1)
 
-## **Algorithms Lab** <a href="#algorithms-lab" id="algorithms-lab"></a>
+#### **Algorithms Lab** <a href="#algorithms-lab" id="algorithms-lab"></a>
 
 * [https://hackmd.io/@arthurzllu/SkZBc7GoI](https://hackmd.io/@arthurzllu/SkZBc7GoI#Analysis-of-Algorithms)
 
-## Algorithm and Data Structure Notes
+#### Algorithm and Data Structure Notes
 
 * [https://aaronice.gitbook.io/lintcode/](https://aaronice.gitbook.io/lintcode/)
 
-## 演算法筆記
+#### 演算法筆記
 
 * [https://web.ntnu.edu.tw/\~algo/](https://web.ntnu.edu.tw/\~algo/)
 
-## LeetCode Question Ratings
+#### LeetCode Question Ratings
 
 * [https://zerotrac.github.io/leetcode\_problem\_rating/#/](https://zerotrac.github.io/leetcode\_problem\_rating/#/)
 
-## LeetCode 101 - A LeetCode Grinding Guide (C++ Version)
+#### LeetCode 101 - A LeetCode Grinding Guide (C++ Version)
 
 * [https://github.com/changgyhub/leetcode\_101/blob/master/LeetCode%20101%20-%20A%20LeetCode%20Grinding%20Guide%20(C%2B%2B%20Version).pdf](https://github.com/changgyhub/leetcode\_101/blob/master/LeetCode%20101%20-%20A%20LeetCode%20Grinding%20Guide%20\(C%2B%2B%20Version\).pdf)
 
-## Hello 算法
+#### Hello 算法
 
 * [https://www.hello-algo.com/chapter\_searching/searching\_algorithm\_revisited/#1053](https://www.hello-algo.com/chapter\_searching/searching\_algorithm\_revisited/#1053)
 
-## EnjoyAlgorithm.com
+#### EnjoyAlgorithm.com
 
 * [https://www.enjoyalgorithms.com/](https://www.enjoyalgorithms.com/)
 
@@ -77,7 +77,7 @@ layout:
 
 <summary>Infrastructure Deep Dive</summary>
 
-## Bloom Filters
+#### Bloom Filters
 
 * [https://samwho.dev/bloom-filters/](https://samwho.dev/bloom-filters/)
 
@@ -87,7 +87,7 @@ layout:
 
 <summary>Computer Architecture</summary>
 
-## Computer Architecture: A Quantitative Approach
+#### Computer Architecture: A Quantitative Approach
 
 * [https://acs.pub.ro/\~cpop/SMPA/Computer%20Architecture%20A%20Quantitative%20Approach%20(5th%20edition).pdf](https://acs.pub.ro/\~cpop/SMPA/Computer%20Architecture%20A%20Quantitative%20Approach%20\(5th%20edition\).pdf)
 
@@ -97,15 +97,15 @@ layout:
 
 <summary>System Programming <a data-mention href="broken-reference">Broken link</a></summary>
 
-## Low Level Academy
+#### Low Level Academy
 
 * [https://lowlevel.academy/courses](https://lowlevel.academy/courses)
 
-## CodeCrafters | Advanced programming challenges
+#### CodeCrafters | Advanced programming challenges
 
 * [https://codecrafters.io/](https://codecrafters.io/)
 
-## The Garbage Collection Handbook: The Art of Automatic Memory Management
+#### The Garbage Collection Handbook: The Art of Automatic Memory Management
 
 * [https://gchandbook.org/](https://gchandbook.org/)
 
@@ -115,20 +115,20 @@ layout:
 
 <summary>Web System Design <a data-mention href="broken-reference">Broken link</a></summary>
 
-## Jordan has no life
+#### Jordan has no life
 
 * [https://www.youtube.com/@jordanhasnolife5163/featured](https://www.youtube.com/@jordanhasnolife5163/featured)
 
-## ByteByteGo
+#### ByteByteGo
 
 * System Design Interview – An insider's guide
 * System Design Interview – An Insider's Guide: Volume 2
 
-## Designing Data-Intensive Applications
+#### Designing Data-Intensive Applications
 
 * [https://dataintensive.net/](https://dataintensive.net/)
 
-## 凤凰架构 - 构建可靠的大型分布式系统
+#### 凤凰架构 - 构建可靠的大型分布式系统
 
 * [https://icyfenix.cn/](https://icyfenix.cn/)
 

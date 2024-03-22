@@ -30,7 +30,7 @@ layout:
 
 
 
-## Fact-based Benchmarking & Profiling
+#### Fact-based Benchmarking & Profiling
 
 * [**Demand the impossible: rigorous database benchmarking**](https://erthalion.info/2023/12/29/statistics-and-benchmarking/)
 * [**https://news.ycombinator.com/item?id=38809160**](https://news.ycombinator.com/item?id=38809160)
@@ -38,25 +38,25 @@ layout:
 
 
 
-## Design of Relational Database Benchmarks.
+#### Design of Relational Database Benchmarks.
 
 * [https://www.alibris.com/search/books/isbn/9781019359365?qcond=6\&qsort=p](https://www.alibris.com/search/books/isbn/9781019359365?qcond=6\&qsort=p)
 
 
 
-## Database Performance at Scale
+#### Database Performance at Scale
 
 * [https://library.oapen.org/handle/20.500.12657/76220](https://library.oapen.org/handle/20.500.12657/76220)
 
 
 
-## Database Benchmarking Practical Methods for Oracle & SQL Server
+#### Database Benchmarking Practical Methods for Oracle & SQL Server
 
 * [https://www.powells.com/book/-9780977671533/17-0](https://www.powells.com/book/-9780977671533/17-0)
 
 
 
-## The Benchmarks Sourcebook: Four Decades Of Related Research
+#### The Benchmarks Sourcebook: Four Decades Of Related Research
 
 * [https://shop.ccl.org/usa/the-benchmarks-sourcebook.html](https://shop.ccl.org/usa/the-benchmarks-sourcebook.html)
 {% endhint %}
