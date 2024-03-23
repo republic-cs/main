@@ -1,12 +1,12 @@
 ---
-cover: ../.gitbook/assets/Group 9 (2).png
+cover: ../../.gitbook/assets/Group 9 (2).png
 coverY: 0
 layout:
   cover:
     visible: true
     size: full
   title:
-    visible: false
+    visible: true
   description:
     visible: false
   tableOfContents:
@@ -17,9 +17,7 @@ layout:
     visible: false
 ---
 
-# ¶
-
-## RCS.101 - Graduation
+# ¶ Graduation
 
 {% hint style="success" %}
 #### 完成 RCS.101 後
@@ -52,3 +50,28 @@ layout:
   * [ ] [**Ackermann Function**](https://www.youtube.com/results?search\_query=ackermann+function)
   * [ ] **M** [**3672 · Connecting Cities With Minimum Cost**](https://www.lintcode.com/problem/3672/description?\_from=problem\_tag\&fromId=399)
 {% endhint %}
+
+{% hint style="info" %}
+#### Appendix: <mark style="color:green;">BFS/Shortest Path</mark> Practices
+
+>
+
+\-
+
+>
+
+*
+
+\-
+
+> **BeeCrowd**
+
+*
+{% endhint %}
+
+
+
+
+
+
+

@@ -17,7 +17,8 @@
 * [RCS.101.b](rcs.101/rcs.101.b.md)
 * [RCS.101.c](rcs.101/rcs.101.c.md)
 * [RCS.101.d](rcs.101/rcs.101.d.md)
-* [¶](rcs.101/graduation.md)
+* [¶ Graduation](rcs.101/graduation/README.md)
+  * [Apx: BFS/Shortest Path](rcs.101/graduation/apx-bfs-shortest-path.md)
 
 ## 📚 RCS.102
 

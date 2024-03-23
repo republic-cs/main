@@ -25,7 +25,7 @@ layout:
 
 <details>
 
-<summary>DSA In Action <a data-mention href="broken-reference">Broken link</a></summary>
+<summary><a data-mention href="broken-reference">Broken link</a></summary>
 
 #### LeetCode The Hard Way
 
@@ -70,6 +70,14 @@ layout:
 #### EnjoyAlgorithm.com
 
 * [https://www.enjoyalgorithms.com/](https://www.enjoyalgorithms.com/)
+
+#### Competitive Programming Sites
+
+* [**洛谷 Luogu**](https://www.luogu.com.cn/problem/list?tag=126\&page=1\&type=CF\&orderBy=difficulty\&order=asc)
+* [**CodeForces**](https://codeforces.com/blog/entry/8561)
+* [**Beecrowd**](https://judge.beecrowd.com/en/categories)
+
+![](../.gitbook/assets/image.png)
 
 </details>
 
