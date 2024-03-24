@@ -21,7 +21,7 @@ layout:
 
 {% tabs %}
 {% tab title="Map of Contents" %}
-<figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption><p>RCS.101.a</p></figcaption></figure>
+
 {% endtab %}
 
 {% tab title="Basic Stack & Basic DFS" %}
@@ -151,18 +151,81 @@ Once your done with the basic understanding. Combing BFS with the knowledge of [
 
 ***
 
-## Binary Search
+## Binary Search/Bisection Search
 
 {% hint style="info" %}
 Binary Search is one of the most fundamental and useful algorithms in Computer Science. It describes the process of searching for a specific value in an ordered collection.
-{% endhint %}
+
+Yet, it's one of the must error-prone DSA in implementing.
+
+Not only it's tricky to get right, it's also pretty hard to comprehend one's binary search implementation if it's being bring out without context.
+
+
 
 * Learning Material
-  * [**LC Explore: Binary Search**](https://leetcode.com/explore/learn/card/binary-search/)
-    * [ ] **E** [**704. Binary Search**](https://leetcode.com/problems/binary-search/) (implement via [**Template I**](https://leetcode.com/explore/learn/card/binary-search/125/template-i/938/)
-    * [ ] **E** [**3621 · Fixed Point**](https://www.lintcode.com/problem/3621/description) (implement via [**Template II**](https://leetcode.com/explore/learn/card/binary-search/126/template-ii/937/)
-    * [ ] **E** [**3698 · The Leftmost Smaller Number**](https://www.lintcode.com/problem/3698/) (implement via [**Template III**](https://leetcode.com/explore/learn/card/binary-search/135/template-iii/936/)
+  * Understanding **Binary Tree**'s fundamentals & applications.
+  * Learn the classic **"Find Index of Given Target from Sorted Array"** problem & implementing it.
+    * **E** [**704. Binary Search**](https://leetcode.com/problems/binary-search/) (implement via [**Template I**](https://leetcode.com/explore/learn/card/binary-search/125/template-i/938/))
+  * Elevate your understanding, think binary search in the terms of **"Partitioning"** from now on. Then using this to deconstruct a few other ppl's code.\
+    [**Binary Search - A Different Perspective**](https://www.youtube.com/watch?v=tgVSkMA8joQ)
+    * [ ] [#explain-why-template-ii-works](rcs.101.a.md#explain-why-template-ii-works "mention") (construct an example input yourself, dry run & tell the reasoning of the code)
+    * [ ] [#explain-why-template-iii-works](rcs.101.a.md#explain-why-template-iii-works "mention")(construct an example input yourself, dry run & tell the reasoning of the code)
+{% endhint %}
+
+<details>
+
+<summary>Explain Why <a href="https://leetcode.com/explore/learn/card/binary-search/126/template-ii/937/"><strong>Template II</strong></a> <strong>Works.</strong></summary>
+
+<pre class="language-cpp"><code class="lang-cpp"><strong>int binarySearch(vector&#x3C;int>&#x26; nums, int target){
+</strong>  if(nums.size() == 0)
+    return -1;
+
+  int left = 0, right = nums.size() - 1;
+  while(left &#x3C; right){
+    int mid = left + (right - left) / 2;
+    if(nums[mid] == target){ return mid; }
+    else if(nums[mid] &#x3C; target) { left = mid + 1; }
+    else { right = mid; }
+  }
+
+  if(nums[left] == target) return left;
+  return -1;
+}
+</code></pre>
+
+</details>
+
+<details>
+
+<summary>Explain Why <a href="https://leetcode.com/explore/learn/card/binary-search/135/template-iii/936/"><strong>Template III</strong></a> <strong>Works.</strong></summary>
+
+```cpp
+int binarySearch(vector<int>& nums, int target){
+    if (nums.size() == 0)
+        return -1;
+
+    int left = 0, right = nums.size() - 1;
+    while (left + 1 < right){
+        int mid = left + (right - left) / 2;
+        if (nums[mid] == target) {
+            return mid;
+        } else if (nums[mid] < target) {
+            left = mid;
+        } else {
+            right = mid;
+        }
+    }
+    if(nums[left] == target) return left;
+    if(nums[right] == target) return right;
+    return -1;
+}
+```
+
+</details>
+
 * Practices
+  * [ ] **E** [**3698 · The Leftmost Smaller Number**](https://www.lintcode.com/problem/3698/)
+  * [ ] **E** [**3621 · Fixed Point**](https://www.lintcode.com/problem/3621/description)&#x20;
   * [ ] **E** [**69. Sqrt(x)**](https://leetcode.com/problems/sqrtx/)
   * [ ] **E** [**278. First Bad Version**](https://leetcode.com/problems/first-bad-version/)
   * [ ] **M** [**875. Koko Eating Bananas**](https://leetcode.com/problems/koko-eating-bananas/)
