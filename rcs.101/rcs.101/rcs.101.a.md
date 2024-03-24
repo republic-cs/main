@@ -21,7 +21,7 @@ layout:
 
 {% tabs %}
 {% tab title="Map of Contents" %}
-
+<figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption><p>RCS.101.a</p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Basic Stack & Basic DFS" %}
