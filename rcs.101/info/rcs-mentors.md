@@ -31,7 +31,7 @@ layout:
 
 1. Compiles & hosts Free/Open Source community sessions like [Broken link](broken-reference "mention")or [rcs.101-x-miters-24-q2.md](ru-he-can-yu-xue-xi/rcs.101-x-miters-24-q2.md "mention")
 2. Private tutoring/coaching/career mentoring sessions (per request). Range falls between 20 \~ 50 SGD per hour. (flexible plans)
-   1. Candidates could choose from a variety of mentoring forms. From life/career planning, personal support of a particular #[rcs-open-course.md](rcs-open-course.md "mention"), or even system design consulting
+   1. Candidates could choose from a variety of mentoring forms. From life/career planning, personal support of a particular [rcs-open-course.md](rcs-open-course.md "mention"), or even system design consulting
    2. For inquiry. Contact `alxtz` on discord for offers.
 
 ***
