@@ -165,7 +165,7 @@ Binary Search is one of the most fundamental and useful algorithms in Computer S
 * Practices
   * [ ] **E** [**69. Sqrt(x)**](https://leetcode.com/problems/sqrtx/)
   * [ ] **E** [**278. First Bad Version**](https://leetcode.com/problems/first-bad-version/)
-  * [ ] **M** [**375. Guess Number Higher or Lower II**](https://leetcode.com/problems/guess-number-higher-or-lower-ii/) (tricky)
+  * [ ] **M** [**875. Koko Eating Bananas**](https://leetcode.com/problems/koko-eating-bananas/)
   * [ ] **M** [**162. Find Peak Element**](https://leetcode.com/problems/find-peak-element/)
 * Graduation Challenge
   * [ ] **M** [**33. Search in Rotated Sorted Array**](https://leetcode.com/problems/search-in-rotated-sorted-array/)
