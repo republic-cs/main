@@ -159,11 +159,10 @@ Binary Search is one of the most fundamental and useful algorithms in Computer S
 
 * Learning Material
   * [**LC Explore: Binary Search**](https://leetcode.com/explore/learn/card/binary-search/)
+    * [ ] **E** [**704. Binary Search**](https://leetcode.com/problems/binary-search/) (implement via [**Template I**](https://leetcode.com/explore/learn/card/binary-search/125/template-i/938/)
+    * [ ] **E** [**457 · Classical Binary Search**](https://www.lintcode.com/problem/457/) (implement via [**Template II**](https://leetcode.com/explore/learn/card/binary-search/126/template-ii/937/)
+    * [ ] **E** [**3698 · The Leftmost Smaller Number**](https://www.lintcode.com/problem/3698/) (implement via [**Template III**](https://leetcode.com/explore/learn/card/binary-search/135/template-iii/936/)
 * Practices
-  * [ ] **E** [**704. Binary Search**](https://leetcode.com/problems/binary-search/)
-    * [ ] Implement via [**Template I**](https://leetcode.com/explore/learn/card/binary-search/125/template-i/938/)
-    * [ ] Implement via [**Template II**](https://leetcode.com/explore/learn/card/binary-search/126/template-ii/937/)
-    * [ ] Implement via [**Template III**](https://leetcode.com/explore/learn/card/binary-search/135/template-iii/936/)
   * [ ] **E** [**69. Sqrt(x)**](https://leetcode.com/problems/sqrtx/)
   * [ ] **E** [**278. First Bad Version**](https://leetcode.com/problems/first-bad-version/)
   * [ ] **M** [**375. Guess Number Higher or Lower II**](https://leetcode.com/problems/guess-number-higher-or-lower-ii/) (tricky)
