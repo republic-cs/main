@@ -94,7 +94,7 @@ layout:
 {% hint style="success" %}
 #### 教師指導
 
-透過 [rcs-mentor-ji-hua-soon.md](rcs-mentor-ji-hua-soon.md "mention")，此社群會在中長期培育一群 **「有能力設計課綱」** 、 **「領導力與知識兼備」** 的人才。
+透過 [rcs-mentors.md](rcs-mentors.md "mention")，此社群會在中長期培育一群 **「有能力設計課綱」** 、 **「領導力與知識兼備」** 的人才。
 {% endhint %}
 
 {% hint style="success" %}
@@ -107,7 +107,7 @@ layout:
 這些直播平台與 Discord 上的 [rcs-forum-soon.md](rcs-forum-soon.md "mention")，筆者希望提供 Classmate/社群支持系統的主要形式。
 {% endhint %}
 
-透過 [rcs-open-course.md](rcs-open-course.md "mention"), [rcs-classroom.md](rcs-classroom.md "mention"), [rcs-forum-soon.md](rcs-forum-soon.md "mention") 和 [rcs-mentor-ji-hua-soon.md](rcs-mentor-ji-hua-soon.md "mention")，我們相信就能兼顧機構教育與自學各自的優點，讓參與者能學習自主的同時，也有效率的鑽研的系統化、深度的 Computer Science 學科。
+透過 [rcs-open-course.md](rcs-open-course.md "mention"), [rcs-classroom.md](rcs-classroom.md "mention"), [rcs-forum-soon.md](rcs-forum-soon.md "mention") 和 [rcs-mentors.md](rcs-mentors.md "mention")，我們相信就能兼顧機構教育與自學各自的優點，讓參與者能學習自主的同時，也有效率的鑽研的系統化、深度的 Computer Science 學科。
 
 
 

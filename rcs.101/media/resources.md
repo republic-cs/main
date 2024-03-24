@@ -77,7 +77,7 @@ layout:
 * [**CodeForces**](https://codeforces.com/blog/entry/8561)
 * [**Beecrowd**](https://judge.beecrowd.com/en/categories)
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (2).png>)
 
 </details>
 
