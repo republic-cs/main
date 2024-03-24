@@ -176,22 +176,23 @@ Not only it's tricky to get right, it's also pretty hard to comprehend one's bin
 
 <summary>Explain Why <a href="https://leetcode.com/explore/learn/card/binary-search/126/template-ii/937/"><strong>Template II</strong></a> <strong>Works.</strong></summary>
 
-<pre class="language-cpp"><code class="lang-cpp"><strong>int binarySearch(vector&#x3C;int>&#x26; nums, int target){
-</strong>  if(nums.size() == 0)
+```cpp
+int binarySearch(vector<int>& nums, int target){  
+  if(nums.size() == 0)
     return -1;
 
   int left = 0, right = nums.size() - 1;
-  while(left &#x3C; right){
+  while(left < right){
     int mid = left + (right - left) / 2;
     if(nums[mid] == target){ return mid; }
-    else if(nums[mid] &#x3C; target) { left = mid + 1; }
+    else if(nums[mid] < target) { left = mid + 1; }
     else { right = mid; }
   }
 
   if(nums[left] == target) return left;
   return -1;
 }
-</code></pre>
+```
 
 </details>
 
