@@ -153,6 +153,10 @@ Once your done with the basic understanding. Combing BFS with the knowledge of [
 
 ## Binary Search
 
+{% hint style="info" %}
+Binary Search is one of the most fundamental and useful algorithms in Computer Science. It describes the process of searching for a specific value in an ordered collection.
+{% endhint %}
+
 * Learning Material
   * [**LC Explore: Binary Search**](https://leetcode.com/explore/learn/card/binary-search/)
 * Practices
