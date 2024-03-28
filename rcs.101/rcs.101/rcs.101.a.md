@@ -151,86 +151,77 @@ Once your done with the basic understanding. Combing BFS with the knowledge of [
 
 ***
 
-## Binary Search/Bisection Search
+## Binary Search
 
 {% hint style="info" %}
-Binary Search is one of the most fundamental and useful algorithms in Computer Science. It describes the process of searching for a specific value in an ordered collection.
+Binary Search/Bisection Search is one of the fundamental algorithms in Computer Science. It describes the process of searching for a specific value in an ordered collection.
 
-Yet, it's one of the must error-prone DSA in implementing.
+Still, it's one of the must error-prone DSA in implementing.&#x20;
 
-Not only it's tricky to get right, it's also pretty hard to comprehend one's binary search implementation if it's being bring out without context.
-
-
-
-* Learning Material
-  * Understanding **Binary Tree**'s fundamentals & applications.
-  * Learn the classic **"Find Index of Given Target from Sorted Array"** problem & implementing it.
-    * **E** [**704. Binary Search**](https://leetcode.com/problems/binary-search/) (implement via [**Template I**](https://leetcode.com/explore/learn/card/binary-search/125/template-i/938/))
-  * Elevate your understanding, think binary search in the terms of **"Partitioning"** from now on. Then using this to deconstruct a few other ppl's code.\
-    [**Binary Search - A Different Perspective**](https://www.youtube.com/watch?v=tgVSkMA8joQ)
-    * [ ] [#explain-why-template-ii-works](rcs.101.a.md#explain-why-template-ii-works "mention") (construct an example input yourself, dry run & tell the reasoning of the code)
-    * [ ] [#explain-why-template-iii-works](rcs.101.a.md#explain-why-template-iii-works "mention")(construct an example input yourself, dry run & tell the reasoning of the code)
+Not only it's tricky to get right, it's also hard to comprehend one's binary search implementation without context.
 {% endhint %}
 
-<details>
+{% hint style="success" %}
+#### Learning Material
 
-<summary>Explain Why <a href="https://leetcode.com/explore/learn/card/binary-search/126/template-ii/937/"><strong>Template II</strong></a> <strong>Works.</strong></summary>
+* [**Binary Search - A Different Perspective**](https://www.youtube.com/watch?v=tgVSkMA8joQ) (introduces the concept of partitioning)
+* [**Binary Search tutorial (C++ and Python)**](https://youtu.be/GU7DpgHINWQ?si=jGV8lyrvyN4XEdvF\&t=198)
+* [**The 3 Levels of Binary Search**](https://www.youtube.com/watch?v=nuN3-AkykfM\&t=1081s)
 
-```cpp
-int binarySearch(vector<int>& nums, int target){  
-  if(nums.size() == 0)
-    return -1;
 
-  int left = 0, right = nums.size() - 1;
-  while(left < right){
-    int mid = left + (right - left) / 2;
-    if(nums[mid] == target){ return mid; }
-    else if(nums[mid] < target) { left = mid + 1; }
-    else { right = mid; }
-  }
 
-  if(nums[left] == target) return left;
-  return -1;
-}
-```
-
-</details>
-
-<details>
-
-<summary>Explain Why <a href="https://leetcode.com/explore/learn/card/binary-search/135/template-iii/936/"><strong>Template III</strong></a> <strong>Works.</strong></summary>
-
-```cpp
-int binarySearch(vector<int>& nums, int target){
-    if (nums.size() == 0)
-        return -1;
-
-    int left = 0, right = nums.size() - 1;
-    while (left + 1 < right){
-        int mid = left + (right - left) / 2;
-        if (nums[mid] == target) {
-            return mid;
-        } else if (nums[mid] < target) {
-            left = mid;
-        } else {
-            right = mid;
-        }
-    }
-    if(nums[left] == target) return left;
-    if(nums[right] == target) return right;
-    return -1;
-}
-```
-
-</details>
+1. Understanding **Binary Tree**'s fundamentals & applications.
+   * [ ] **E** [**278. First Bad Version**](https://leetcode.com/problems/first-bad-version/)
+2. Learn the classic **"Find Index of Given Target from Sorted Array"** problem & implementing it.
+3. Elevate your understanding, think binary search in the terms of **"Partitioning"** from now on. Then using this to deconstruct a few other ppl's code.
+{% endhint %}
 
 * Practices
-  * [ ] **E** [**3698 · The Leftmost Smaller Number**](https://www.lintcode.com/problem/3698/)
-  * [ ] **E** [**3621 · Fixed Point**](https://www.lintcode.com/problem/3621/description)&#x20;
-  * [ ] **E** [**69. Sqrt(x)**](https://leetcode.com/problems/sqrtx/)
-  * [ ] **E** [**278. First Bad Version**](https://leetcode.com/problems/first-bad-version/)
-  * [ ] **M** [**875. Koko Eating Bananas**](https://leetcode.com/problems/koko-eating-bananas/)
-  * [ ] **M** [**162. Find Peak Element**](https://leetcode.com/problems/find-peak-element/)
-* Graduation Challenge
-  * [ ] **M** [**33. Search in Rotated Sorted Array**](https://leetcode.com/problems/search-in-rotated-sorted-array/)
-  * [ ] **M** [**34. Find First and Last Position of Element in Sorted Array**](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+  * [ ] **(?) E** [**3698 · The Leftmost Smaller Number**](https://www.lintcode.com/problem/3698/)
+  * [ ] **(?) E** [**3621 · Fixed Point**](https://www.lintcode.com/problem/3621/description)&#x20;
+  * [ ] (?) [**Problems on Binary Search & Patterns**](https://docs.google.com/document/d/1V6-bCyst7xYYiMl6mjrg802VjikoKbssvwLTuFw9G\_Y/edit#heading=h.a5dh3x8vafix)
+  * [ ] **(?) M** [**34. Find First and Last Position of Element in Sorted Array**](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+
+{% hint style="success" %}
+#### Summary
+
+Binary Search can applied to the follow problem types
+
+
+
+#### Type A - <mark style="color:green;">Searching for Target Deemed to Exist / Not-Exist</mark>
+
+* [ ] Conceptually similar to [**Template I**](https://leetcode.com/explore/learn/card/binary-search/125/template-i/938/)
+* [ ] [**Binary Search tutorial (C++ and Python) 3:18**](https://youtu.be/GU7DpgHINWQ?si=jGV8lyrvyN4XEdvF\&t=198)
+* [ ] [**Finding the Pivot in a Rotated and Sorted Array Using Binary Search in C++**](https://medium.com/@utkarsh.gupta0311/finding-the-pivot-in-a-rotated-and-sorted-array-using-binary-search-in-c-fdac97e566ce)
+* [ ] **E** [**704. Binary Search**](https://leetcode.com/problems/binary-search/) (implement via [**Template I**](https://leetcode.com/explore/learn/card/binary-search/125/template-i/938/))
+
+
+
+#### Type B - <mark style="color:green;">Approximation Narrowing (Recursive / Divide and Conquer)</mark>
+
+* [ ] There could be no exact value to locate. While having to recognise the closest target(s). High likelihood having to memorisation (variable for candidate values), also there might not be a finite list given upfront.
+* [ ] [**Binary Search tutorial (C++ and Python) 6:27**](https://youtu.be/GU7DpgHINWQ?si=CDuSwhe\_mWrWSuHo\&t=387)
+* [ ] **E** [**69. Sqrt(x)**](https://leetcode.com/problems/sqrtx/)
+* [ ] **(?) E** [**35. Search Insert Position**](https://leetcode.com/problems/search-insert-position/)
+* [ ] **M** [**875. Koko Eating Bananas**](https://leetcode.com/problems/koko-eating-bananas/)
+
+
+
+#### Type C - <mark style="color:green;">Partitioning</mark> ( <mark style="color:purple;">TTT</mark> | # | <mark style="color:red;">??FF</mark> )
+
+* [ ] Can be conceptualised using partitioning. (think in terms of ranges and anchors, not necessary indices)
+* [ ] **(?) M** [**33. Search in Rotated Sorted Array**](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+* [ ] **(?) M** [**Find pivot in a sorted rotated array**](https://www.ideserve.co.in/learn/find-pivot-in-a-sorted-rotated-array)
+* [ ] **(?) M** [**162. Find (local) Peak Element**](https://leetcode.com/problems/find-peak-element/)
+{% endhint %}
+
+## Graduation Challenge (Binary Search)
+
+* [ ] Identify which type of Binary Search does the follow code falls into.
+
+| <img src="../.gitbook/assets/image (31).png" alt="" data-size="original"> | <img src="../.gitbook/assets/image (30).png" alt="" data-size="original"> |
+| ------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| <img src="../.gitbook/assets/image (33).png" alt="" data-size="original"> | <img src="../.gitbook/assets/image (34).png" alt="" data-size="original"> |
+| <img src="../.gitbook/assets/image (35).png" alt="" data-size="original"> |                                                                           |
+
