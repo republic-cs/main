@@ -130,12 +130,12 @@ Once your done with the basic understanding. Combing BFS with the knowledge of [
 
 * Learning Material
   * **Binary Tree BFS**
-    * [**Level Order Traversal**](https://faculty.cs.niu.edu/\~mcmahon/CS241/Notes/Data\_Structures/binary\_tree\_traversals.html)
-      * [ ] **M** [**102. Binary Tree Level Order Traversal**](https://leetcode.com/problems/binary-tree-level-order-traversal/)
+    * [ ] [**Level Order Traversal**](https://faculty.cs.niu.edu/\~mcmahon/CS241/Notes/Data\_Structures/binary\_tree\_traversals.html)
+    * [ ] **M** [**102. Binary Tree Level Order Traversal**](https://leetcode.com/problems/binary-tree-level-order-traversal/)
   * **(Unweighted, Undirected) Graph BFS**
-    * [**Shortest Path in a Binary Matrix - LeetCode 1091 - Python**](https://www.youtube.com/watch?v=YnxUdAO7TAo)
-    * [**Breadth First Search - Finding Shortest Paths in Unweighted Graphs**](https://www.youtube.com/watch?v=T\_m27bhVQQQ)
-      * [ ] **M** [**1091. Shortest Path in Binary Matrix**](https://leetcode.com/problems/shortest-path-in-binary-matrix/)
+    * [ ] [**Shortest Path in a Binary Matrix - LeetCode 1091 - Python**](https://www.youtube.com/watch?v=YnxUdAO7TAo)
+    * [ ] [**Breadth First Search - Finding Shortest Paths in Unweighted Graphs**](https://www.youtube.com/watch?v=T\_m27bhVQQQ)
+    * [ ] **M** [**1091. Shortest Path in Binary Matrix**](https://leetcode.com/problems/shortest-path-in-binary-matrix/)
 {% endhint %}
 
 * Prerequisite
