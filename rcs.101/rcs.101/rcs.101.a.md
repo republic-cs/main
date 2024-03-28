@@ -192,7 +192,8 @@ Binary Search can applied to the follow problem types
 > [**Finding the Pivot in a Rotated and Sorted Array Using Binary Search in C++**](https://medium.com/@utkarsh.gupta0311/finding-the-pivot-in-a-rotated-and-sorted-array-using-binary-search-in-c-fdac97e566ce)
 
 * [ ] **E** [**704. Binary Search**](https://leetcode.com/problems/binary-search/) (implement via [**Template I**](https://leetcode.com/explore/learn/card/binary-search/125/template-i/938/))
-* [ ] **E** [**3621 · Fixed Point**](https://www.lintcode.com/problem/3621/description)&#x20;
+* [ ] **E** [**3621 · Fixed Point**](https://www.lintcode.com/problem/3621/description)
+*
 
 
 
@@ -203,19 +204,25 @@ Binary Search can applied to the follow problem types
 > [**Binary Search tutorial (C++ and Python) 6:27**](https://youtu.be/GU7DpgHINWQ?si=CDuSwhe\_mWrWSuHo\&t=387)
 
 * [ ] **E** [**69. Sqrt(x)**](https://leetcode.com/problems/sqrtx/)
-* [ ] **(?) E** [**35. Search Insert Position**](https://leetcode.com/problems/search-insert-position/)
 * [ ] **M** [**875. Koko Eating Bananas**](https://leetcode.com/problems/koko-eating-bananas/)
 * [ ] **M** [**34. Find First and Last Position of Element in Sorted Array**](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+* [ ] **M** [**33. Search in Rotated Sorted Array**](https://leetcode.com/problems/search-in-rotated-sorted-array/) (find [Pivot Point](https://www.ideserve.co.in/learn/find-pivot-in-a-sorted-rotated-array) with type B first , then do a type A search)
 
 
 
 #### Type C - <mark style="color:green;">Partitioning</mark> ( <mark style="color:purple;">TTT</mark> | # | <mark style="color:red;">??FF</mark> )
 
 * [ ] Can be conceptualised using partitioning. (think in terms of ranges and anchors, not necessary indices)
-* [ ] **(?) M** [**33. Search in Rotated Sorted Array**](https://leetcode.com/problems/search-in-rotated-sorted-array/)
-* [ ] **(?) M** [**Find pivot in a sorted rotated array**](https://www.ideserve.co.in/learn/find-pivot-in-a-sorted-rotated-array)
-* [ ] **(?) M** [**162. Find (local) Peak Element**](https://leetcode.com/problems/find-peak-element/)
+
+
+
+Undecided
+
+* **M** [**162. Find (local) Peak Element**](https://leetcode.com/problems/find-peak-element/)
+* **E** [**35. Search Insert Position**](https://leetcode.com/problems/search-insert-position/)
 {% endhint %}
+
+
 
 ## Graduation Challenge (Binary Search)
 
