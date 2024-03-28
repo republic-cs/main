@@ -193,7 +193,6 @@ Binary Search can applied to the follow problem types
 
 * [ ] **E** [**704. Binary Search**](https://leetcode.com/problems/binary-search/) (implement via [**Template I**](https://leetcode.com/explore/learn/card/binary-search/125/template-i/938/))
 * [ ] **E** [**3621 · Fixed Point**](https://www.lintcode.com/problem/3621/description)
-*
 
 
 
