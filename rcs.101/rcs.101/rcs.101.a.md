@@ -209,6 +209,7 @@ Binary Search can applied to the follow problem types
 #### Type C - <mark style="color:blue;">Partitioning</mark> ( <mark style="color:purple;">TTT</mark> | # | <mark style="color:red;">??FF</mark> )
 
 > * Can be conceptualised using partitioning. (think in terms of ranges and anchors, not necessary indices)
+> * The **ultimate divide-and-conquer algorithm** is, of course, **binary search** ([reference](https://people.eecs.berkeley.edu/\~vazirani/algorithms/chap2.pdf))
 
 * [ ] **M** [**162. Find (local) Peak Element**](https://leetcode.com/problems/find-peak-element/)
 * [ ] **E** [**35. Search Insert Position**](https://leetcode.com/problems/search-insert-position/)
