@@ -201,7 +201,6 @@ Binary Search can applied to the follow problem types
 
 * [ ] **E** [**69. Sqrt(x)**](https://leetcode.com/problems/sqrtx/)
 * [ ] **M** [**875. Koko Eating Bananas**](https://leetcode.com/problems/koko-eating-bananas/)
-* [ ] **M** [**33. Search in Rotated Sorted Array**](https://leetcode.com/problems/search-in-rotated-sorted-array/) (find [Pivot Point](https://www.ideserve.co.in/learn/find-pivot-in-a-sorted-rotated-array) with type B first , then do a type A search)
 
 
 
@@ -211,11 +210,9 @@ Binary Search can applied to the follow problem types
 > * The **ultimate divide-and-conquer algorithm** is, of course, **binary search** ([reference](https://people.eecs.berkeley.edu/\~vazirani/algorithms/chap2.pdf))
 
 * [ ] **M** [**34. Find First and Last Position of Element in Sorted Array**](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
-* [ ] **M** [**162. Find (local) Peak Element**](https://leetcode.com/problems/find-peak-element/)
+* [ ] **M** [**33. Search in Rotated Sorted Array**](https://leetcode.com/problems/search-in-rotated-sorted-array/) (find [Pivot Point](https://www.ideserve.co.in/learn/find-pivot-in-a-sorted-rotated-array) with type B first , then do a type A search)
 * [ ] **E** [**35. Search Insert Position**](https://leetcode.com/problems/search-insert-position/)
 {% endhint %}
-
-
 
 ## Graduation Challenge (Binary Search)
 
