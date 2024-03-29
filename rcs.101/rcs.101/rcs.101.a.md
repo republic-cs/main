@@ -185,11 +185,9 @@ Binary Search can applied to the follow problem types
 
 #### Type A - <mark style="color:green;">Searching for Target Deemed to Exist / Not-Exist</mark>
 
-> Conceptually similar to [**Template I**](https://leetcode.com/explore/learn/card/binary-search/125/template-i/938/)
-
-> [**Binary Search tutorial (C++ and Python) 3:18**](https://youtu.be/GU7DpgHINWQ?si=jGV8lyrvyN4XEdvF\&t=198)
-
-> [**Finding the Pivot in a Rotated and Sorted Array Using Binary Search in C++**](https://medium.com/@utkarsh.gupta0311/finding-the-pivot-in-a-rotated-and-sorted-array-using-binary-search-in-c-fdac97e566ce)
+> * Conceptually similar to [**Template I**](https://leetcode.com/explore/learn/card/binary-search/125/template-i/938/)
+> * [**Binary Search tutorial (C++ and Python) 3:18**](https://youtu.be/GU7DpgHINWQ?si=jGV8lyrvyN4XEdvF\&t=198)
+> * [**Finding the Pivot in a Rotated and Sorted Array Using Binary Search in C++**](https://medium.com/@utkarsh.gupta0311/finding-the-pivot-in-a-rotated-and-sorted-array-using-binary-search-in-c-fdac97e566ce)
 
 * [ ] **E** [**704. Binary Search**](https://leetcode.com/problems/binary-search/) (implement via [**Template I**](https://leetcode.com/explore/learn/card/binary-search/125/template-i/938/))
 * [ ] **E** [**3621 · Fixed Point**](https://www.lintcode.com/problem/3621/description)
@@ -198,9 +196,8 @@ Binary Search can applied to the follow problem types
 
 #### Type B - <mark style="color:green;">Approximation Narrowing</mark> (Recursive / Divide and Conquer)
 
-> There could be no exact value to locate. While having to recognise the closest target(s). High likelihood having to memorisation (variable for candidate values), also there might not be a finite list given upfront.
-
-> [**Binary Search tutorial (C++ and Python) 6:27**](https://youtu.be/GU7DpgHINWQ?si=CDuSwhe\_mWrWSuHo\&t=387)
+> * There could be no exact value to locate. While having to recognise the closest target(s). High likelihood having to memorisation (variable for candidate values), also there might not be a finite list given upfront.
+> * [**Binary Search tutorial (C++ and Python) 6:27**](https://youtu.be/GU7DpgHINWQ?si=CDuSwhe\_mWrWSuHo\&t=387)
 
 * [ ] **E** [**69. Sqrt(x)**](https://leetcode.com/problems/sqrtx/)
 * [ ] **M** [**875. Koko Eating Bananas**](https://leetcode.com/problems/koko-eating-bananas/)
@@ -211,14 +208,10 @@ Binary Search can applied to the follow problem types
 
 #### Type C - <mark style="color:green;">Partitioning</mark> ( <mark style="color:purple;">TTT</mark> | # | <mark style="color:red;">??FF</mark> )
 
-* [ ] Can be conceptualised using partitioning. (think in terms of ranges and anchors, not necessary indices)
+> * Can be conceptualised using partitioning. (think in terms of ranges and anchors, not necessary indices)
 
-
-
-Undecided
-
-* **M** [**162. Find (local) Peak Element**](https://leetcode.com/problems/find-peak-element/)
-* **E** [**35. Search Insert Position**](https://leetcode.com/problems/search-insert-position/)
+* [ ] **M** [**162. Find (local) Peak Element**](https://leetcode.com/problems/find-peak-element/)
+* [ ] **E** [**35. Search Insert Position**](https://leetcode.com/problems/search-insert-position/)
 {% endhint %}
 
 
