@@ -183,7 +183,7 @@ Binary Search can applied to the follow problem types
 
 
 
-#### Type A - <mark style="color:green;">Searching for Target Deemed to Exist / Not-Exist</mark>
+#### Type A - <mark style="color:blue;">Searching for Target Deemed to Exist / Not-Exist</mark>
 
 > * Conceptually similar to [**Template I**](https://leetcode.com/explore/learn/card/binary-search/125/template-i/938/)
 > * [**Binary Search tutorial (C++ and Python) 3:18**](https://youtu.be/GU7DpgHINWQ?si=jGV8lyrvyN4XEdvF\&t=198)
@@ -194,7 +194,7 @@ Binary Search can applied to the follow problem types
 
 
 
-#### Type B - <mark style="color:green;">Approximation Narrowing</mark> (Recursive / Divide and Conquer)
+#### Type B - <mark style="color:blue;">Approximation Narrowing</mark> (Recursive / Divide and Conquer)
 
 > * There could be no exact value to locate. While having to recognise the closest target(s). High likelihood having to memorisation (variable for candidate values), also there might not be a finite list given upfront.
 > * [**Binary Search tutorial (C++ and Python) 6:27**](https://youtu.be/GU7DpgHINWQ?si=CDuSwhe\_mWrWSuHo\&t=387)
@@ -206,7 +206,7 @@ Binary Search can applied to the follow problem types
 
 
 
-#### Type C - <mark style="color:green;">Partitioning</mark> ( <mark style="color:purple;">TTT</mark> | # | <mark style="color:red;">??FF</mark> )
+#### Type C - <mark style="color:blue;">Partitioning</mark> ( <mark style="color:purple;">TTT</mark> | # | <mark style="color:red;">??FF</mark> )
 
 > * Can be conceptualised using partitioning. (think in terms of ranges and anchors, not necessary indices)
 
