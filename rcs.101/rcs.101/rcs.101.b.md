@@ -82,7 +82,6 @@ layout:
   * [ ] **E** [**3642 · Counting Elements**](https://www.lintcode.com/problem/3642/)
   * [ ] **E** [**383. Ransom Note**](https://leetcode.com/problems/ransom-note/)
 * Graduation Challenge
-  * [ ] **E** [**1. Two Sum**](https://leetcode.com/problems/two-sum/)
   * [ ] **E** [**1832. Check if the Sentence Is Pangram**](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)
   * [ ] **M** [**2225. Find Players With Zero or One Losses**](https://leetcode.com/problems/find-players-with-zero-or-one-losses/)
   * [ ] **M** [**1604 · Maximum Sum of Two Numbers**](https://www.lintcode.com/problem/1604/)
