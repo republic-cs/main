@@ -47,13 +47,11 @@ layout:
 
 * [https://hackmd.io/@arthurzllu/SkZBc7GoI](https://hackmd.io/@arthurzllu/SkZBc7GoI#Analysis-of-Algorithms)
 
-#### Algorithm and Data Structure Notes
+#### Well Maintained Personal Blogs
 
-* [https://aaronice.gitbook.io/lintcode/](https://aaronice.gitbook.io/lintcode/)
-
-#### 演算法筆記
-
-* [https://web.ntnu.edu.tw/\~algo/](https://web.ntnu.edu.tw/\~algo/)
+* [**https://web.ntnu.edu.tw/\~algo/**](https://web.ntnu.edu.tw/\~algo/)
+* [**https://algorithm.yuanbin.me/zh-tw/**](https://algorithm.yuanbin.me/zh-tw/)
+* [**https://aaronice.gitbook.io/lintcode/**](https://aaronice.gitbook.io/lintcode/)
 
 #### LeetCode Question Ratings
 
