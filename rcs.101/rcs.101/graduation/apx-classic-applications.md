@@ -19,7 +19,7 @@ layout:
 
 # Apx: Classic Applications
 
-> This page concludes classic computer science challenges. The problems list here would be quite tricky (of course they're tricky, as they're all classics)
+> This page concludes classic computer science problems. The listing here would be quite tricky (of course they're challenging, as they're all classics)
 >
 > While it's a nice-to-know list to broad your understanding.
 

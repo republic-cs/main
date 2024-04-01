@@ -20,6 +20,7 @@
 * [¶ Graduation](rcs.101/graduation/README.md)
   * [Apx: BFS/Shortest Path](rcs.101/graduation/apx-bfs-shortest-path.md)
   * [Apx: Classic Applications](rcs.101/graduation/apx-classic-applications.md)
+  * [Apx: Techniques & Tricks](rcs.101/graduation/apx-techniques-and-tricks.md)
 
 ## 📚 RCS.102
 
