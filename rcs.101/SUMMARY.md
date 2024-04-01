@@ -19,6 +19,7 @@
 * [RCS.101.d](rcs.101/rcs.101.d.md)
 * [¶ Graduation](rcs.101/graduation/README.md)
   * [Apx: BFS/Shortest Path](rcs.101/graduation/apx-bfs-shortest-path.md)
+  * [Apx: Classic Applications](rcs.101/graduation/apx-classic-applications.md)
 
 ## 📚 RCS.102
 
@@ -26,7 +27,7 @@
 
 ## 🧵 RCS.103
 
-* [§ System Programming](rcs.103/system-programming.md)
+* [§ SYS/PARL Programming](rcs.103/sys-parl-programming.md)
 
 ## 🦀 RCS.201
 

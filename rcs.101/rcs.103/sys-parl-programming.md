@@ -17,7 +17,7 @@ layout:
     visible: false
 ---
 
-# § (WIP)
+# § SYS/PARL Programming
 
 {% hint style="warning" %}
 此 open course [Broken link](broken-reference "mention") 還在 backlog 當中，尚未被規劃
@@ -41,3 +41,12 @@ layout:
 * Bloom Filter 實作 + Benchmarking [https://www.lintcode.com/problem/556/](https://www.lintcode.com/problem/556/)
   * [https://samwho.dev/bloom-filters/](https://samwho.dev/bloom-filters/)
 {% endhint %}
+
+{% hint style="info" %}
+#### Thread/Concurrency Safe Programming
+
+* [**2502 · Design Thread Safe Array List**](https://www.lintcode.com/problem/2502/)
+* [**2473 · Design Thread Safe Hash Table**](https://www.lintcode.com/problem/2473/)
+* [**2471 · Design Thread Safe Linked List**](https://www.lintcode.com/problem/2471/)
+{% endhint %}
+
