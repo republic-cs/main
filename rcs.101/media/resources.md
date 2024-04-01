@@ -79,6 +79,11 @@ layout:
 
 ![](<../.gitbook/assets/image (2).png>)
 
+#### Go Specifics
+
+* [**https://pkg.go.dev/container/list**](https://pkg.go.dev/container/list)
+* [**Bjarne Stroustrup: Why you should avoid Linked Lists**](https://www.youtube.com/watch?v=YQs6IC-vgmo)
+
 </details>
 
 <details>

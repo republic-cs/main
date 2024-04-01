@@ -53,8 +53,9 @@ layout:
 **Linked Lists**, similar to arrays, are a data structure that allow you to store a collection of items in a specific order. Unlike arrays, elements in a linked list are not stored at contiguous memory locations and are instead stored in nodes that are linked using pointers.
 
 * Learning Material
-  * [**LeetCode The Hard Way: Linked List**](https://leetcodethehardway.com/tutorials/basic-topics/linked-list)
-  * [**Google Tech Dev Guide: Linked Lists**](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/#sequence-2)
+  * [**Comp Sci in 5: Introduction to Nodes and Linked List**](https://www.youtube.com/watch?v=m40pUS58i7k)
+  * [~~**LeetCode The Hard Way: Linked List**~~](https://leetcodethehardway.com/tutorials/basic-topics/linked-list)
+  * [~~**Google Tech Dev Guide: Linked Lists**~~](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/#sequence-2)
 {% endhint %}
 
 * Practices
