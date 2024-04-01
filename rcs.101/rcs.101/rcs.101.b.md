@@ -54,8 +54,11 @@ layout:
 
 * Learning Material
   * [**Comp Sci in 5: Introduction to Nodes and Linked List**](https://www.youtube.com/watch?v=m40pUS58i7k)
-  * [~~**LeetCode The Hard Way: Linked List**~~](https://leetcodethehardway.com/tutorials/basic-topics/linked-list)
-  * [~~**Google Tech Dev Guide: Linked Lists**~~](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/#sequence-2)
+  * [**LeetCode The Hard Way: Linked List**](https://leetcodethehardway.com/tutorials/basic-topics/linked-list)
+    * [ ] (traversal) **Naive** [**466 · Count Linked List Nodes**](https://www.lintcode.com/problem/466/?showListFe=true\&page=1\&problemTypeId=2\&tagIds=362\&ordering=level\&pageSize=50)
+    * [ ] (deletion) **E** [**452 · Remove Linked List Elements**](https://www.lintcode.com/problem/452/?showListFe=true\&page=1\&problemTypeId=2\&tagIds=362\&ordering=level\&pageSize=50)
+  * [**Google Tech Dev Guide: Linked Lists**](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/#sequence-2)
+    * (build your own) **M** [**707. Design Linked List**](https://leetcode.com/problems/design-linked-list/)
 {% endhint %}
 
 * Practices

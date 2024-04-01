@@ -64,15 +64,21 @@ layout:
 > * 1D, 2D array
 {% endhint %}
 
-{% hint style="info" %}
+{% hint style="success" %}
 #### Mathematical Induction/Divide and Conquer
 
 > * [**Comp Sci in 5: Mathematical Induction**](https://www.youtube.com/watch?v=38xjqkwIDiA)
 > * [**Why is Binary Search a divide and conquer algorithm?**](https://stackoverflow.com/questions/8850447/why-is-binary-search-a-divide-and-conquer-algorithm)
 {% endhint %}
 
-{% hint style="info" %}
+{% hint style="success" %}
 #### Doubly Linked Lists
 
 > * [**Doubly Linked Lists**](https://www.youtube.com/watch?v=vqa-MP6bgaY\&list=PLrB7VCHji9zjvFydh25HBXy3ybey3lTlA\&index=5)
+{% endhint %}
+
+{% hint style="success" %}
+#### Skip List
+
+> * [**1206. Design Skiplist**](https://leetcode.com/problems/design-skiplist/)
 {% endhint %}
