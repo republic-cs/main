@@ -29,4 +29,5 @@ layout:
 * **M** [**146. LRU Cache**](https://leetcode.com/problems/lru-cache/)
 * **H** [**460. LFU Cache**](https://leetcode.com/problems/lfu-cache/)
 * **M** [**3710 · Design Most Recently Used Queue**](https://www.lintcode.com/problem/3710/)
+* **M** [**641. Design Circular Deque**](https://leetcode.com/problems/design-circular-deque/)
 {% endhint %}
