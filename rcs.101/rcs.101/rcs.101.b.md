@@ -75,10 +75,24 @@ layout:
 {% hint style="info" %}
 **Maps** (also known as **Dictionaries**) are data structures stores a collection of key-value pairs. Each key is unique and allows for quick access to values. A real life example of a map could be storing the grades for students in a class (student name is key, grade is value).
 
-* Learning Material
-  * [**LeetCode The Hard Way: Hash Map**](https://leetcodethehardway.com/tutorials/basic-topics/hash-map)
-  * [**Google Tech Dev Guide: Map/Dictionaries**](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/#linear)
-  * [**Internals of Maps in Golang**](https://www.youtube.com/watch?v=ACQs6mdylxo) (useful for Design HashMap)
+
+
+#### Learning Material
+
+* [**LeetCode The Hard Way: Hash Map**](https://leetcodethehardway.com/tutorials/basic-topics/hash-map)
+* [**Google Tech Dev Guide: Map/Dictionaries**](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/#linear)
+* [**Internals of Maps in Golang**](https://www.youtube.com/watch?v=ACQs6mdylxo) (useful for Design HashMap)
+
+
+
+In real-world use cases, there's a few classic concept & approaches to implement a performant HashMap
+
+* Open Addressing
+* Separate Chaining
+* Load Factor
+* Re-hashing
+* Linear Probing
+* Eternal Tombstone
 {% endhint %}
 
 * Practices
