@@ -78,6 +78,7 @@ layout:
 * Learning Material
   * [**LeetCode The Hard Way: Hash Map**](https://leetcodethehardway.com/tutorials/basic-topics/hash-map)
   * [**Google Tech Dev Guide: Map/Dictionaries**](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/#linear)
+  * [**Internals of Maps in Golang**](https://www.youtube.com/watch?v=ACQs6mdylxo) (useful for Design HashMap)
 {% endhint %}
 
 * Practices
