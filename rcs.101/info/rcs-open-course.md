@@ -30,7 +30,7 @@ layout:
 
 此文的目的，是希望透過更詳盡的介紹，來帶社群參與者了解如何參與、共同維護 RCS Open Course。
 
-## What is an Open Course, Anyway?
+### What is an Open Course, Anyway?
 
 <figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption><p>網路上的 roadmap，很常會包山包海，卻缺乏深度與明確的結構</p></figcaption></figure>
 
@@ -44,7 +44,7 @@ layout:
 這類的資源，經常想一次容納多個學科，並且用 「過度簡化」 的形式來傳遞背後的知識；導致學習者不但很難真正參透各個單元背後的意義，也沒有好的作業、參考書能驗證自身能力。
 {% endhint %}
 
-## What Does 𝗥𝗲𝗣𝘂𝗯𝗹𝗶𝗰 𝗼𝗳 𝗖𝗦 Do Differently?
+### What Does 𝗥𝗲𝗣𝘂𝗯𝗹𝗶𝗰 𝗼𝗳 𝗖𝗦 Do Differently?
 
 RePublic of CS 的目標，是希望能把自學、讀書會都變得與 「機構教育」 一樣夠明確且有效。
 
@@ -90,7 +90,7 @@ RePublic of CS 的目標，是希望能把自學、讀書會都變得與 「機�
 * 在每個學習主題的結尾，會有個必須要完成的 「作業」、「應用題」、或 「申論報告」。以此來驗證且放大學習效果。
 {% endhint %}
 
-## How Can It Be Accomplished
+### How Can It Be Accomplished
 
 對初學者、或興趣使然的學習者而言。想要學習的同時，又一方面兼顧編排給其他人看，看起來是極有困難度的一件事。
 

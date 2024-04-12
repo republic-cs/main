@@ -25,7 +25,7 @@ RCS（全名：RePublic of Computer Science）；中文可稱 「 **CS 共和國
 
 並最終讓市面上背景各異的軟體工程師，都能享受到如學校般高品質的學習過程，同時培養系統化自學的能力。
 
-## RCS 的想法從何而來？
+### RCS 的想法從何而來？
 
 2023 對筆者來說，是自從入軟體這行後滿特別的一年。在年初時受朋友啟發，因緣際會開展了長約 2 季的 [**後端論文讀書會**](https://www.notion.so/be-studying-group/919a2f82e7604cb1bee1f8ee00e5a9e6?v=565b8be8718648879a3bff64405332c0)，並也開始接觸了卡片盒筆記法，閱讀了 [**DDIA**](https://github.com/Vonng/ddia) 與 [**鳳凰架構**](https://icyfenix.cn/) 兩本書。
 
@@ -65,7 +65,7 @@ RCS（全名：RePublic of Computer Science）；中文可稱 「 **CS 共和國
 2. 已經有一定工作經驗，但自認學習效率、系統性上都想增進的 Sr.
 3. 熱愛鑽研各種學習方法，嚮往 Learning in Public 的 CS 愛好者
 
-## 結語：RCS 的展望
+### 結語：RCS 的展望
 
 #### 當下（2024 Q1 \~ Q2）
 

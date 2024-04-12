@@ -43,8 +43,6 @@ layout:
 
 ## Advanced Stack (Expression Processing)
 
-* Prerequisite
-  * [rcs.101.a.md](rcs.101.a.md "mention")
 * Learning Material
   * [**Dijkstra’s Two-Stack Algorithm**](https://switzerb.github.io/imposter/algorithms/2021/01/12/dijkstra-two-stack.html)
     * [ ] **H** [**224. Basic Calculator**](https://leetcode.com/problems/basic-calculator/)
@@ -68,8 +66,6 @@ layout:
 
 ## Topological Order/Sort
 
-* Prerequisite
-  * [rcs.101.c.md](rcs.101.c.md "mention")
 * Learning Material
   * [**Kahn's Algorithm**](https://leetcodethehardway.com/tutorials/graph-theory/kahns-algorithm)
     * [ ] **M** [**210. Course Schedule II**](https://leetcode.com/problems/course-schedule-ii/)

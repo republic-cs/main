@@ -27,14 +27,14 @@ layout:
 
 </details>
 
-## Classroom 地點
+### Classroom 地點
 
 * **(合作社群) 馬來西亞 IT 人 - Miters**\
   :point\_right: [discord 伺服器邀請](https://discord.gg/nEVeTFrsbh)
 
 <figure><img src="../../.gitbook/assets/image (21).png" alt=""><figcaption><p>Miters 是馬來西亞最活躍的中文 IT 社群</p></figcaption></figure>
 
-## 直播
+### 直播
 
 * 直播平台：RePublic of CS [YouTube](https://www.youtube.com/@republic-cs/videos)/[Twitch](https://www.twitch.tv/republicofcs)
 * 語音地點：[Miters 活動室](https://discord.com/channels/1127379397578600553/1192609273662947369)
@@ -43,7 +43,7 @@ layout:
 
 <figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption><p>RCS.101 15 週的內容</p></figcaption></figure>
 
-## 活動形式
+### 活動形式
 
 **Office Hour** (8:00 \~ 8:30)
 
@@ -56,7 +56,7 @@ layout:
 * 過程中助教不會給提示，只會試著跟上學習者的思路
 * 結尾時，由助教給予學習方向/熟練度上的建議
 
-## 報名加入（成為課堂成員）
+### 報名加入（成為課堂成員）
 
 1. 加入 [**RePublic of CS**](https://discord.gg/NKT3K6mkm9) discord 論壇
 2. 在 [**rcs101｜dsa-in-action**](https://discord.com/channels/1205094724294418482/1205883447042773072) 頻道輸入 `Request Enrolment RCS.101 x Miters (24 Q2)`

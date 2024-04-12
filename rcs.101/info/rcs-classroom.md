@@ -19,7 +19,7 @@ layout:
 
 # 🏛️ RCS Classroom
 
-## 機構教育 vs. 自學
+### 機構教育 vs. 自學
 
 現今所有人學習一門學科的方式，可以粗略分為 **機構教育** (大學、補習班、Bootcamp) 和 **自學** (自己看 Textbook、公開課、YouTube)。
 
@@ -43,7 +43,7 @@ layout:
 
 這兩端的追求，看似存在阻抗與很難被弭平。但在下文中，我們會敘述 RePublic of CS 如何嘗試同時擁有機構教育的嚴謹和深度，卻又不失去自主性。
 
-## 知識經濟 & 公開性
+### 知識經濟 & 公開性
 
 在內容、資訊流通相對順暢的當下，機構教育與知識經濟 (網課)，因為他們相對的高品質，與付費模型背後的可長久營運。還是使這些形式佔據了學習/曝光的主流。
 
@@ -67,7 +67,7 @@ layout:
 
 而如何解決這件事呢？筆者認為解法是嘗試解構 「機構教育」 的核心價值，並找出真正有售賣價值 vs. 該被公開的部分。
 
-## 弭平 「機構教育」 與 「自學」 的差距
+### 弭平 「機構教育」 與 「自學」 的差距
 
 {% hint style="info" %}
 上文提到，機構教育最大的價值是 **結構化的課綱**、**對學科的想像**、**教師指導** 和 **同學**
@@ -108,16 +108,3 @@ layout:
 {% endhint %}
 
 透過 [rcs-open-course.md](rcs-open-course.md "mention"), [rcs-classroom.md](rcs-classroom.md "mention"), [rcs-forum-soon.md](rcs-forum-soon.md "mention") 和 [rcs-mentors.md](rcs-mentors.md "mention")，我們相信就能兼顧機構教育與自學各自的優點，讓參與者能學習自主的同時，也有效率的鑽研的系統化、深度的 Computer Science 學科。
-
-
-
-
-
-
-
-
-
-
-
-
-
