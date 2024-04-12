@@ -52,13 +52,16 @@ layout:
 {% hint style="info" %}
 **Linked Lists**, similar to arrays, are a data structure that allow you to store a collection of items in a specific order. Unlike arrays, elements in a linked list are not stored at contiguous memory locations and are instead stored in nodes that are linked using pointers.
 
-* Learning Material
-  * [**Comp Sci in 5: Introduction to Nodes and Linked List**](https://www.youtube.com/watch?v=m40pUS58i7k)
-  * [**LeetCode The Hard Way: Linked List**](https://leetcodethehardway.com/tutorials/basic-topics/linked-list)
-    * [ ] (traversal) **Naive** [**466 · Count Linked List Nodes**](https://www.lintcode.com/problem/466/?showListFe=true\&page=1\&problemTypeId=2\&tagIds=362\&ordering=level\&pageSize=50)
-    * [ ] (deletion) **E** [**452 · Remove Linked List Elements**](https://www.lintcode.com/problem/452/?showListFe=true\&page=1\&problemTypeId=2\&tagIds=362\&ordering=level\&pageSize=50)
-  * [**Google Tech Dev Guide: Linked Lists**](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/#sequence-2)
-    * (build your own) **M** [**707. Design Linked List**](https://leetcode.com/problems/design-linked-list/)
+
+
+#### Learning Material
+
+* [**Comp Sci in 5: Introduction to Nodes and Linked List**](https://www.youtube.com/watch?v=m40pUS58i7k)
+* [**LeetCode The Hard Way: Linked List**](https://leetcodethehardway.com/tutorials/basic-topics/linked-list)
+  * [ ] (traversal) **Naive** [**466 · Count Linked List Nodes**](https://www.lintcode.com/problem/466/?showListFe=true\&page=1\&problemTypeId=2\&tagIds=362\&ordering=level\&pageSize=50)
+  * [ ] (deletion) **E** [**452 · Remove Linked List Elements**](https://www.lintcode.com/problem/452/?showListFe=true\&page=1\&problemTypeId=2\&tagIds=362\&ordering=level\&pageSize=50)
+* [**Google Tech Dev Guide: Linked Lists**](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/#sequence-2)
+  * (build your own) **M** [**707. Design Linked List**](https://leetcode.com/problems/design-linked-list/)
 {% endhint %}
 
 * Practices
@@ -107,38 +110,7 @@ In real-world use cases, there's a few classic concept & approaches to implement
 
 ***
 
-## Basic Recursion
-
-{% hint style="info" %}
-Recursive algorithms involve a function calling itself in order to solve a smaller version of a problem. In surface, recursion could look trivial and simple.
-
-While the entire skill set of identifying sub-problems, settling the base case, crafting the merging process is uniquely challenging.
-
-
-
-#### Learning Material (acquire basic understanding of recursion)
-
-*
-*
-
-
-
-#### **Learning Material (understand the essence of recursion: divide and conquer)**&#x20;
-
-* [**1.8.4 Strong Induction: Video**](https://www.youtube.com/watch?v=TUueMeRooBk) (give a taste on how mathematical induction works)
-* [**CLRS 2.3.1 The divide-and-conquer approach**](https://pd.daffodilvarsity.edu.bd/course/material/book-430/pdf\_content)
-* [**Towers of Hanoi: A Complete Recursive Visualization**](https://www.youtube.com/watch?v=rf6uf3jNjbo\&t=552s)
-* [**5 Simple Steps for Solving Any Recursive Problem**](https://www.youtube.com/watch?v=ngCos392W4w)
-* [**Divide & Conquer: Convex Hull, Median Finding**](https://www.youtube.com/watch?v=EzeYI7p9MjU\&t=766s) (application)
-{% endhint %}
-
-* Practices
-  * [ ] **E** [**206. Reverse Linked List**](https://leetcode.com/problems/reverse-linked-list/) (solve using recursion)
-  * [ ] **E** [**70. Climbing Stairs**](https://leetcode.com/problems/climbing-stairs/)
-* Graduation Challenge
-  * [ ] **M** [**169 · Tower of Hanoi**](https://www.lintcode.com/problem/169/) (classic for understanding recurrence relation)
-  * [ ] ~~**M**~~ [~~**95. Unique Binary Search Trees II**~~](https://leetcode.com/problems/unique-binary-search-trees-ii/)
-  * [ ] ~~**M**~~ [~~**1922. Count Good Numbers**~~](https://leetcode.com/problems/count-good-numbers/)
+##
 
 ***
 

@@ -82,19 +82,6 @@ Stack 是電腦科學中最為基礎的資料結構，擁有 LIFO (Last In, Firs
   * [ ] **M** [**230. Kth Smallest Element in a BST**](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
   * [ ] **M** [**690. Employee Importance**](https://leetcode.com/problems/employee-importance/)
 
-{% hint style="warning" %}
-Appendix: 3rd way the traverse a binary tree other than stack or recursion
-
-* Learning Material
-  * [**解法三 Morris Traversal**](https://leetcode.wang/leetCode-94-Binary-Tree-Inorder-Traversal.html)
-  * [**CPP Morris Traversal**](https://leetcode.com/problems/binary-tree-inorder-traversal/solutions/148939/CPP-Morris-Traversal/)
-  * [**L37. Morris Traversal | Preorder | Inorder | C++ | Java**](https://www.youtube.com/watch?v=80Zug6D1\_r4)
-* Practices
-  * [ ] **M** [**114. Flatten Binary Tree to Linked List**](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) (expecting pre-order outcome
-  * [ ] **M** [**915 · Inorder Predecessor in BST**](https://www.lintcode.com/problem/915) (implement using Morris Traversal
-  * [ ] **M** [**430. Flatten a Multilevel Doubly Linked List**](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) (conceptually similar
-{% endhint %}
-
 ***
 
 ## Queue
@@ -128,14 +115,17 @@ We start by introducing the essence of BFS via the classic **Binary Tree Level O
 
 Once your done with the basic understanding. Combing BFS with the knowledge of [#hash-map](rcs.101.b.md#hash-map "mention") and [#basic-graphs](rcs.101.c.md#basic-graphs "mention"), you'll now able to bridge yourself into the challenging-yet-exciting **Shortest Path Finding** problems.
 
-* Learning Material
-  * **Binary Tree BFS**
-    * [ ] [**Level Order Traversal**](https://faculty.cs.niu.edu/\~mcmahon/CS241/Notes/Data\_Structures/binary\_tree\_traversals.html)
-    * [ ] **M** [**102. Binary Tree Level Order Traversal**](https://leetcode.com/problems/binary-tree-level-order-traversal/)
-  * **(Unweighted, Undirected) Graph BFS**
-    * [ ] [**Shortest Path in a Binary Matrix - LeetCode 1091 - Python**](https://www.youtube.com/watch?v=YnxUdAO7TAo)
-    * [ ] [**Breadth First Search - Finding Shortest Paths in Unweighted Graphs**](https://www.youtube.com/watch?v=T\_m27bhVQQQ)
-    * [ ] **M** [**1091. Shortest Path in Binary Matrix**](https://leetcode.com/problems/shortest-path-in-binary-matrix/)
+
+
+#### Learning Material
+
+* **Binary Tree BFS**
+  * [ ] [**Level Order Traversal**](https://faculty.cs.niu.edu/\~mcmahon/CS241/Notes/Data\_Structures/binary\_tree\_traversals.html)
+  * [ ] **M** [**102. Binary Tree Level Order Traversal**](https://leetcode.com/problems/binary-tree-level-order-traversal/)
+* **(Unweighted, Undirected) Graph BFS**
+  * [ ] [**Shortest Path in a Binary Matrix - LeetCode 1091 - Python**](https://www.youtube.com/watch?v=YnxUdAO7TAo)
+  * [ ] [**Breadth First Search - Finding Shortest Paths in Unweighted Graphs**](https://www.youtube.com/watch?v=T\_m27bhVQQQ)
+  * [ ] **M** [**1091. Shortest Path in Binary Matrix**](https://leetcode.com/problems/shortest-path-in-binary-matrix/)
 {% endhint %}
 
 * Prerequisite
