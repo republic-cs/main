@@ -25,6 +25,7 @@
 ## 📚 RCS.102
 
 * [§ Algorithm Design & Analysis](rcs.102-algorithm-design-and-analysis/wip.md)
+* [⌛ Divide & Conquer](rcs.102/divide-and-conquer.md)
 
 ## 🧵 RCS.103
 
