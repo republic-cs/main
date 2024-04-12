@@ -22,7 +22,7 @@ layout:
 
 # System Design, Actually
 
-## Introduction
+### Introduction
 
 在經歷過 2023 \~ 2024 的 [**Tech Layoff**](https://www.youtube.com/watch?v=j6DG1NqgkSU)，現今軟體就業市場的 [**要求變的十分的高**](https://www.youtube.com/watch?v=j6DG1NqgkSU)。
 
@@ -44,7 +44,7 @@ layout:
 
 最後，提出一個幾個筆者認為能讓學習 system design 事半功倍的 mindset，並希望最終能說服你 **System Design 就等同 Problem Solving**，和 **之所以 System Design 會難，是因為多數人都沒把 Problem Solving 學好**。
 
-## System Design Interview Propaganda
+### System Design Interview Propaganda
 
 作為 Jr, New Grad, or 想增進架構能力的人，初次會接觸的教材諸如：
 
@@ -77,9 +77,9 @@ layout:
 3. **非功能性需求** (non-functional requirement) 的實現，必須要能基於 **Telemetry** 和 **Profiling** (效能量測) 的事實，並且 **深刻理解 Infrastructure 背後的實作**。
 {% endhint %}
 
-## [Interview-Style System Design](https://republic-of-cs.gitbook.io/e/rcs.302-web-system-design/system-design-actually#zai-zhuo-mo-zhe-xie-zi-yuan-de-chen-shu-fang-shi-hou-hui-fa-xian-bao-han-le-yi-xia-de-zhu-xuan-lv), 會帶來什麼問題？
+### [Interview-Style System Design](https://republic-of-cs.gitbook.io/e/rcs.302-web-system-design/system-design-actually#zai-zhuo-mo-zhe-xie-zi-yuan-de-chen-shu-fang-shi-hou-hui-fa-xian-bao-han-le-yi-xia-de-zhu-xuan-lv), 會帶來什麼問題？
 
-### ❌ 選擇追求 Grand Design
+#### ❌ 選擇追求 Grand Design
 
 {% hint style="danger" %}
 如果在系統設計實務、學習時，實作者只專注在 **快速、立即的提出 HLD**，而非逐步的發展解法。
@@ -95,7 +95,7 @@ layout:
 * 此舉會導致其他專案成員難以參透和證偽諸多的初期決策。最終使整個系統更難在未來有效的融入新的功能/非功能性考量。
 {% endhint %}
 
-### ❌ 忽略**功能性需求** (functional requirement)
+#### ❌ 忽略**功能性需求** (functional requirement)
 
 {% hint style="danger" %}
 在 [System Design Interview: A Step-By-Step Guide](https://www.youtube.com/watch?v=i7twT3x5yv8) 的宣揚中，營造了一個幻想：
@@ -123,7 +123,7 @@ layout:
 因此，在任何場景的系統、架構設計中，從滿足功能性需求的路徑，去逐步納入效能、穩定性上的考量。才能確保架構師們不 over-design，也設計得精準。
 {% endhint %}
 
-### ❌ 忽略 Profiling 與 Benchmarking
+#### ❌ 忽略 Profiling 與 Benchmarking
 
 {% hint style="danger" %}
 諸如 QPS/Bandwidth 的非功能性需求，在實務上都不是能夠輕易的去做出 dare assumption 的。
@@ -133,7 +133,7 @@ layout:
 而這才是實務上分析與理解 non-functional requirement 的標準解決流程。
 {% endhint %}
 
-## 結語：如何克服 「System Design 學習障礙」
+### 結語：如何克服 「System Design 學習障礙」
 
 在此文中，描述了網路上的 System Design 學習資源，以及常見的 [**認知誤區**](https://republic-of-cs.gitbook.io/e/rcs.302-web-system-design/system-design-actually#zai-zhuo-mo-zhe-xie-zi-yuan-de-chen-shu-fang-shi-hou-hui-fa-xian-bao-han-le-yi-xia-de-zhu-xuan-lv) 會如何讓 System Design 的學習事倍功半。
 
