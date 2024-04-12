@@ -77,7 +77,7 @@ layout:
 3. **非功能性需求** (non-functional requirement) 的實現，必須要能基於 **Telemetry** 和 **Profiling** (效能量測) 的事實，並且 **深刻理解 Infrastructure 背後的實作**。
 {% endhint %}
 
-### [Interview-Style System Design](https://republic-of-cs.gitbook.io/e/rcs.302-web-system-design/system-design-actually#zai-zhuo-mo-zhe-xie-zi-yuan-de-chen-shu-fang-shi-hou-hui-fa-xian-bao-han-le-yi-xia-de-zhu-xuan-lv), 會帶來什麼問題？
+### Interview-Style System Design, 會帶來什麼問題？
 
 #### ❌ 選擇追求 Grand Design
 
