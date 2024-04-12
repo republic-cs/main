@@ -53,10 +53,6 @@ layout:
 
 ## Backtracking
 
-* Prerequisite
-  * [rcs.101.b.md](rcs.101.b.md "mention")
-* Estimate Completion
-  * 12 \~ 18 hours
 * Learning Material
   * [**Princeton: Combinatorial Search**](https://algs4.cs.princeton.edu/lectures/keynote/67CombinatorialSearch.pdf)
   * [**Illinois: Backtracking**](https://courses.engr.illinois.edu/cs498374/fa2014/notes/07-backtracking.pdf)
@@ -82,8 +78,9 @@ layout:
 
 Trees are a common non-linear data structure. They don’t store data in a linear way, but instead organize hierarchically. A tree is normally represented by nodes which contain a value and point to other nodes.
 
-* Learning Material
-  * [**Google Tech Dev Guide: Trees**](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/#sequence-3)
+#### Learning Material
+
+* [**Google Tech Dev Guide: Trees**](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/#sequence-3)
 {% endhint %}
 
 * Learning Material
@@ -115,10 +112,11 @@ Trees are a common non-linear data structure. They don’t store data in a linea
 {% hint style="info" %}
 A heap is a tree-based data structure that usually comes in two varieties: (1) Max-heaps where the the value in any node is greater than all the values in it's child nodes and (2) Min-heaps where the value in any node is less than all of the values in it's child nodes.
 
-* Learning Material
-  * [**LeetCode the Hard Way: Heap (Priority Queue)**](https://leetcodethehardway.com/tutorials/basic-topics/heap)
-    * [ ] **E** [**1046. Last Stone Weight**](https://leetcode.com/problems/last-stone-weight/)
-  * [**Google Tech Dev Guide: Heaps**](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/#sequence-5)
+#### Learning Material
+
+* [**LeetCode the Hard Way: Heap (Priority Queue)**](https://leetcodethehardway.com/tutorials/basic-topics/heap)
+  * [ ] **E** [**1046. Last Stone Weight**](https://leetcode.com/problems/last-stone-weight/)
+* [**Google Tech Dev Guide: Heaps**](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/#sequence-5)
 {% endhint %}
 
 * Practices

@@ -110,10 +110,6 @@ In real-world use cases, there's a few classic concept & approaches to implement
 
 ***
 
-##
-
-***
-
 ## Sorting & Searching
 
 {% hint style="info" %}

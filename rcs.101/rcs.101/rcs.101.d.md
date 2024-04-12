@@ -45,8 +45,6 @@ layout:
 
 * Prerequisite
   * [rcs.101.a.md](rcs.101.a.md "mention")
-* Estimate Completion
-  * 12 \~ 18 hours
 * Learning Material
   * [**Dijkstra’s Two-Stack Algorithm**](https://switzerb.github.io/imposter/algorithms/2021/01/12/dijkstra-two-stack.html)
     * [ ] **H** [**224. Basic Calculator**](https://leetcode.com/problems/basic-calculator/)
@@ -72,8 +70,6 @@ layout:
 
 * Prerequisite
   * [rcs.101.c.md](rcs.101.c.md "mention")
-* Estimate Completion
-  * 10 \~ 15 hours
 * Learning Material
   * [**Kahn's Algorithm**](https://leetcodethehardway.com/tutorials/graph-theory/kahns-algorithm)
     * [ ] **M** [**210. Course Schedule II**](https://leetcode.com/problems/course-schedule-ii/)
