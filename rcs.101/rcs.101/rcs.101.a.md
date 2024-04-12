@@ -48,10 +48,13 @@ layout:
 {% hint style="info" %}
 Stack 是電腦科學中最為基礎的資料結構，擁有 LIFO (Last In, First Out) 的特性。
 
-* Learning Material
-  * [**Comp Sci in 5: Stacks**](https://www.youtube.com/watch?v=\_7Z07tI-xrA)
-  * [**LC Explore: Queue & Stack**](https://leetcode.com/explore/learn/card/queue-stack/)
-  * [**Core Dumped: WHY IS THE STACK SO FAST?**](https://www.youtube.com/watch?v=N3o5yHYLviQ)
+
+
+#### Learning Material
+
+* [**Comp Sci in 5: Stacks**](https://www.youtube.com/watch?v=\_7Z07tI-xrA)
+* [**LC Explore: Queue & Stack**](https://leetcode.com/explore/learn/card/queue-stack/)
+* [**Core Dumped: WHY IS THE STACK SO FAST?**](https://www.youtube.com/watch?v=N3o5yHYLviQ)
 {% endhint %}
 
 * Practices
@@ -91,9 +94,12 @@ Queue 是電腦科學中基礎的資料結構，擁有 FIFO (First In, First Out
 
 與現實中的排隊概念接近，Message Queue 則是 Infrastructure 版本的實現。
 
-* Learning Material
-  * [**Comp Sci in 5: Queues**](https://www.youtube.com/watch?v=-1oFihNj6Vw)
-  * [**LC Explore: Queue & Stack**](https://leetcode.com/explore/learn/card/queue-stack/)
+
+
+#### Learning Material
+
+* [**Comp Sci in 5: Queues**](https://www.youtube.com/watch?v=-1oFihNj6Vw)
+* [**LC Explore: Queue & Stack**](https://leetcode.com/explore/learn/card/queue-stack/)
 {% endhint %}
 
 * Practices
