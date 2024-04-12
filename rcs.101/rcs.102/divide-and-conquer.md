@@ -38,7 +38,7 @@ layout:
 * [ ] [**VFMUL - Very Fast Multiplication**](https://www.spoj.com/problems/VFMUL/) (implement via **Karatsuba**)
 * [ ] Median-Finding
 * [ ] Merge Sort
-* [ ] Quicksort
+* [ ] Quick Sort
 * [ ] Convex Hull ([**Divide-and-Conquer**](https://web.ntnu.edu.tw/\~algo/ConvexHull.html) method)
 
 ## Graduation Challenge
