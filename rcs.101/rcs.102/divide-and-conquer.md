@@ -28,7 +28,7 @@ layout:
 {% hint style="info" %}
 #### Learning Material (understanding classic instances of Divide & Conquer)
 
-* [**UCB CS170 \[1\] Introduction, Big-O Notation, Arithmetic**](https://www.bilibili.com/video/BV1BU4y1b7RK?p=1) (introduces **Karatsuba** & $$O(n\log n)$$**Multiplication**)
+* [**UCB CS170 \[1\] Introduction, Big-O Notation, Arithmetic**](https://www.bilibili.com/video/BV1BU4y1b7RK?p=1) (introduces **Karatsuba** & $$O(n\log n)$$ **Multiplication**)
 * [**UCB CS170 \[2\] Divide-and-Conquer (Part 1)**](https://www.bilibili.com/video/BV1BU4y1b7RK?p=2)
 * [**UCB CS170 \[3\] Divide-and-Conquer (Part 2)**](https://www.bilibili.com/video/BV1BU4y1b7RK?p=3\&vd\_source=9621e539f648f22172899af8f4fc2ab7)
 {% endhint %}
