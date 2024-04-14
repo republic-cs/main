@@ -41,6 +41,7 @@ layout:
 * Monotonic Stack
 * Greedy
 * [Introduction to Algorithms](https://www.google.com/search?sca\_esv=3a628dd368b03a2a\&cs=0\&sxsrf=ACQVn08DXFCXn0pN9tigNdym4E\_-YJN78g:1707901606216\&q=Introduction+to+Algorithms\&stick=H4sIAAAAAAAAAONgVeLUz9U3sEwvMzMwEkrMSc8vyizJyFUoSa0oScrPzz7FiJA\_xcirn65vaFiSXJViWVVsCOOn5WaVJFVUpMD4xeZ5ZeY56TkwfpJ5cZFBrilQngtklqlBVWWxBZSTZ5qSZWiEpLLAsCKlCsYvqio0jjc0yIEqNqnKsTSxPMXIA5I0SiowMTEqzoabGm9QaQ6TM8kyyS1ON4eZk2VSkGWaUpbziPEeI7fAyx\_3hKWuME5ac\_Ia41lGLgGf\_Pzi1JzKoNScxJLUlJB8IVEuNte8ksySSiFuKU4udpDxWQVlQq5c3MGpJSH5vvkpmWmVQmZCJlycvqm5SalFxf5pQupcXM75OTmpySWZ-XlCklLiXKL6yXABfViAFitFGrntujTtHJuDIAMQKHkGO0hpaAlysbnk5yZm5gkey550P0D2ib2WMBdHSGJFfl5-bqVg4fGsA0883tsrcXIC9Si0i72112KYwMTYtG\_FITYODkYBBiMmDoYqBp5FrFKeeSVF-SmlYGsVSvIVHGGRWjyBjREAhs4Xq\_EBAAA\&sa=X\&ved=2ahUKEwjajLGkvaqEAxXRzjgGHdjjBdwQ7fAIegQIABBK)
+* KMP algorithm
 {% endhint %}
 
 {% hint style="success" %}

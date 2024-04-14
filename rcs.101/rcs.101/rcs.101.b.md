@@ -113,32 +113,56 @@ In real-world use cases, there's a few classic concept & approaches to implement
 ## Sorting & Searching
 
 {% hint style="info" %}
-Searching algorithms are used to Sorting algorithms are used to rearrange a list of elements so that they're in a specified order (e.g. sorting numbers to go from highest to lowest).
-
-* Learning Material
-  * [**LeetCode Explore: Sorting**](https://leetcode.com/explore/learn/card/sorting/)
-  * [**Google Tech Dev Guide: Map/Dictionaries**](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/#sequence-8)
-  * [**Dutch National Flag Problem**](https://en.wikipedia.org/wiki/Dutch\_national\_flag\_problem)
-    * [ ] Understand [**DNF Algorithm**](https://www.youtube.com/watch?v=9pdkbqGwUhs)
-    * [ ] **M** [**75. Sort Colors**](https://leetcode.com/problems/sort-colors/)
-  * **Coursera: Algorithms I: System Sort**
-    * [ ] **M** [**912. Sort an Array**](https://leetcode.com/problems/sort-an-array/) with Merge Sort
-    * [ ] **E** [**479 · Second Max of Array**](https://www.lintcode.com/problem/479/?\_from=problem\_tag\&fromId=383) with Quick Sort
-    * [ ] **E** [**464 · Sort Integers II**](https://www.lintcode.com/problem/464/description) with Heap Sort
-  * [**Knuth (Fisher-Yates) Shuffle**](https://www.youtube.com/watch?v=tLxBwSL3lPQ)
-    * [ ] **M** [**384. Shuffle an Array**](https://leetcode.com/problems/shuffle-an-array/)
-  * [**Quick Select**](https://www.lintcode.com/problem/3731/description)
-    * [ ] **M** [**215. Kth Largest Element in an Array**](https://leetcode.com/problems/kth-largest-element-in-an-array/)
+Searching algorithms are used to Sorting algorithms are used to rearrange a list of elements so that they're in a specified order (e.g. sorting numbers to go from highest to lowest)
 {% endhint %}
 
-* Practices
-  * [ ] **M** [**148. Sort List**](https://leetcode.com/problems/sort-list/)
-  * [ ] **M** [**3653 · Meeting Scheduler**](https://www.lintcode.com/problem/3653/?\_from=problem\_tag\&fromId=383)
-  * [ ] **M** [**2545. Sort the Students by Their Kth Score**](https://leetcode.com/problems/sort-the-students-by-their-kth-score/)
-* Graduation Challenge
-  * [ ] 能描述出 Merge/Quick/Heap Sort 在 time, space, stable, in-place 上的差別
-  * [ ] 提供 Merge/Quick/Heap Sort 的實作程式碼
-  * [ ] **E** [**1153 · string sorting**](https://www.lintcode.com/problem/1153/?showListFe=true\&page=1\&problemTypeId=2\&tagIds=383\&level=1\&ordering=id\&pageSize=50)
-  * [ ] **M** [**508 · Wiggle Sort**](https://www.lintcode.com/problem/508/?showListFe=true\&page=1\&problemTypeId=2\&tagIds=383\&level=2\&ordering=level\&pageSize=50)
-  * [ ] **M** [**3731 · Minimize Product Sum of Two Arrays**](https://www.lintcode.com/problem/3731/description)
-  * [ ] **M** [**973. K Closest Points to Origin**](https://leetcode.com/problems/k-closest-points-to-origin/)
+{% hint style="info" %}
+#### DNF Algorithm&#x20;
+
+* [ ] [**Wikipedia: Dutch National Flag Problem**](https://en.wikipedia.org/wiki/Dutch\_national\_flag\_problem)
+* [ ] [**Dutch National Flag Algorithm. Explained with playing cards**](https://www.youtube.com/watch?v=9pdkbqGwUhs)
+* [ ] **M** [**75. Sort Colors**](https://leetcode.com/problems/sort-colors/)
+* [ ] **M** [**143 · Sort Colors II**](https://www.lintcode.com/problem/143/)
+{% endhint %}
+
+{% hint style="info" %}
+#### Knuth Shuffle
+
+* [ ] [**Fisher-Yates (Knuth) Shuffle Tutorial**](https://www.youtube.com/watch?v=tLxBwSL3lPQ)
+* [ ] **M** [**384. Shuffle an Array**](https://leetcode.com/problems/shuffle-an-array/)
+{% endhint %}
+
+{% hint style="info" %}
+#### Quick Select
+
+* [ ] **M** [**215. Kth Largest Element in an Array**](https://leetcode.com/problems/kth-largest-element-in-an-array/)
+* [ ] **M** [**973. K Closest Points to Origin**](https://leetcode.com/problems/k-closest-points-to-origin/)
+* [ ] **H** [**Wiggle Sort II**](https://www.lintcode.com/problem/507)
+{% endhint %}
+
+{% hint style="info" %}
+#### Sorting
+
+* [ ] [**LeetCode Explore: Sorting**](https://leetcode.com/explore/learn/card/sorting/)
+* [ ] [**Google Tech Dev Guide: Searching & Sorting**](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/#sequence-8)
+* [ ] **Coursera: Algorithms I: System Sort**
+* [ ] **M** [**912. Sort an Array**](https://leetcode.com/problems/sort-an-array/) with Merge Sort
+* [ ] **E** [**479 · Second Max of Array**](https://www.lintcode.com/problem/479/?\_from=problem\_tag\&fromId=383) with Quick Sort
+* [ ] **E** [**464 · Sort Integers II**](https://www.lintcode.com/problem/464/description) with Heap Sort
+
+
+
+#### Practices
+
+* [ ] **M** [**148. Sort List**](https://leetcode.com/problems/sort-list/)
+* [ ] **M** [**3653 · Meeting Scheduler**](https://www.lintcode.com/problem/3653/?\_from=problem\_tag\&fromId=383)
+* [ ] **M** [**2545. Sort the Students by Their Kth Score**](https://leetcode.com/problems/sort-the-students-by-their-kth-score/)
+
+#### Graduation Challenge
+
+* [ ] 能描述出 Merge/Quick/Heap Sort 在 time, space, stable, in-place 上的差別
+* [ ] 提供 Merge/Quick/Heap Sort 的實作程式碼
+* [ ] **E** [**1153 · string sorting**](https://www.lintcode.com/problem/1153/?showListFe=true\&page=1\&problemTypeId=2\&tagIds=383\&level=1\&ordering=id\&pageSize=50)
+* [ ] **M** [**508 · Wiggle Sort**](https://www.lintcode.com/problem/508/?showListFe=true\&page=1\&problemTypeId=2\&tagIds=383\&level=2\&ordering=level\&pageSize=50)
+* [ ] **M** [**3731 · Minimize Product Sum of Two Arrays**](https://www.lintcode.com/problem/3731/description)
+{% endhint %}
