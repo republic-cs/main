@@ -138,7 +138,7 @@ Searching algorithms are used to Sorting algorithms are used to rearrange a list
 * [ ] [**Coursera: Quick Select**](https://www.coursera.org/learn/algorithms-part1/lecture/UQxFT/selection)
 * [ ] **M** [**215. Kth Largest Element in an Array**](https://leetcode.com/problems/kth-largest-element-in-an-array/)
 * [ ] **M** [**973. K Closest Points to Origin**](https://leetcode.com/problems/k-closest-points-to-origin/)
-* [ ] **M** [**324. Wiggle Sort II**](https://leetcode.com/problems/wiggle-sort-ii/) (implement O(n) time
+* [ ] **M** [**324. Wiggle Sort II**](https://leetcode.com/problems/wiggle-sort-ii/) (achieve $$O(n)$$ time, $$O(1)$$ space)
 
 
 
