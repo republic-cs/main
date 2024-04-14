@@ -135,13 +135,14 @@ Searching algorithms are used to Sorting algorithms are used to rearrange a list
 {% hint style="info" %}
 #### Quick Select
 
+* [ ] [**Coursera: Quick Select**](https://www.coursera.org/learn/algorithms-part1/lecture/UQxFT/selection)
 * [ ] **M** [**215. Kth Largest Element in an Array**](https://leetcode.com/problems/kth-largest-element-in-an-array/)
 * [ ] **M** [**973. K Closest Points to Origin**](https://leetcode.com/problems/k-closest-points-to-origin/)
 * [ ] **M** [**347. Top K Frequent Elements**](https://leetcode.com/problems/top-k-frequent-elements/)
 
 
 
-**Apx: More Top K Questions**
+**Apx: More Quick Select Questions**
 
 * [ ] **M** [**692. Top K Frequent Words**](https://leetcode.com/problems/top-k-frequent-words/)
 * [ ] **M** [**1471. The k Strongest Values in an Array**](https://leetcode.com/problems/the-k-strongest-values-in-an-array/)
@@ -157,8 +158,6 @@ Searching algorithms are used to Sorting algorithms are used to rearrange a list
 * [ ] **M** [**912. Sort an Array**](https://leetcode.com/problems/sort-an-array/) with Merge Sort
 * [ ] **E** [**479 · Second Max of Array**](https://www.lintcode.com/problem/479/?\_from=problem\_tag\&fromId=383) with Quick Sort
 * [ ] **E** [**464 · Sort Integers II**](https://www.lintcode.com/problem/464/description) with Heap Sort
-
-
 
 #### Practices
 
