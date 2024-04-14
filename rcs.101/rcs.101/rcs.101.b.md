@@ -137,7 +137,15 @@ Searching algorithms are used to Sorting algorithms are used to rearrange a list
 
 * [ ] **M** [**215. Kth Largest Element in an Array**](https://leetcode.com/problems/kth-largest-element-in-an-array/)
 * [ ] **M** [**973. K Closest Points to Origin**](https://leetcode.com/problems/k-closest-points-to-origin/)
-* [ ] **H** [**Wiggle Sort II**](https://www.lintcode.com/problem/507)
+* [ ] **M** [**347. Top K Frequent Elements**](https://leetcode.com/problems/top-k-frequent-elements/)
+
+
+
+**Apx: More Top K Questions**
+
+* [ ] **M** [**692. Top K Frequent Words**](https://leetcode.com/problems/top-k-frequent-words/)
+* [ ] **M** [**1471. The k Strongest Values in an Array**](https://leetcode.com/problems/the-k-strongest-values-in-an-array/)
+* [ ] **M** [**507 · Wiggle Sort II**](https://www.lintcode.com/problem/507)
 {% endhint %}
 
 {% hint style="info" %}
